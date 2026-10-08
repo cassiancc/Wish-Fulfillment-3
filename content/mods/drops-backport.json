@@ -15,6 +15,16 @@
       "sha1": "684b2c6aa52ba836ecc32b0cf4f6b8b98cdcae83",
       "sha512": "254a55c531aaa7ad84b11a9fca6337d9a4eec602d59a25aa7bb08a0a168f251c1c2ff186fcdd900ff4753502b679e8468a2beabdcbd249251471110c649957a3",
       "fileSize": 34387452
+    },
+    "curseforge": {
+      "id": "1644005",
+      "slug": "drops-backport",
+      "versionId": "8804142",
+      "versionNumber": "drops-backport-26.1-r2.1.2-neoforge.jar",
+      "filename": "drops-backport-26.1-r2.1.2-neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8804/142/drops-backport-26.1-r2.1.2-neoforge.jar",
+      "sha1": "684b2c6aa52ba836ecc32b0cf4f6b8b98cdcae83",
+      "fileSize": 34387452
     }
   },
   "dependents": [],

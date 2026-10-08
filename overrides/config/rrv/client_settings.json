@@ -24,10 +24,10 @@
     "show_recipe_id": false,
     "local_fallback": "disabled",
     "index_sources": {
-      "registry": true,
-      "unique_recipe_output": false,
       "creative": true,
-      "resource_packs": true
+      "resource_packs": true,
+      "registry": false,
+      "unique_recipe_output": false
     },
     "search_filters": {
       "namespace": {

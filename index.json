@@ -2,7 +2,7 @@
   "files": [
     {
       "path": "content/mods/aether-ii.json",
-      "sha1": "a1026c58a07da0852aa8a6cc612f1967dbe756a7"
+      "sha1": "db91f548701c2c3a0718da4db117cd5ed0fa11ce"
     },
     {
       "path": "content/mods/always-a-bigger-fish.json",
@@ -30,7 +30,7 @@
     },
     {
       "path": "content/mods/clickthrough-.json",
-      "sha1": "28e37dfab6569c11012cf219cdb726ded76aef1d"
+      "sha1": "b8057eb0eabd7aa937c2a2abb40cf9ba33a51330"
     },
     {
       "path": "content/mods/clientsort.json",
@@ -46,7 +46,7 @@
     },
     {
       "path": "content/mods/combat-nouveau.json",
-      "sha1": "41a46f7ac77b6fd05fd0877200d46051b7da3495"
+      "sha1": "b7bf528fdc43ce225665cc8dc5af398775846637"
     },
     {
       "path": "content/mods/connector-extras.json",
@@ -62,7 +62,7 @@
     },
     {
       "path": "content/mods/drops-backport.json",
-      "sha1": "9ce8e84446b5e449dd926b5807c74d41cd06ca4f"
+      "sha1": "0627418e26390c028ef7a267751416b2e2b26ce6"
     },
     {
       "path": "content/mods/easy-shulker-boxes.json",
@@ -250,7 +250,7 @@
     },
     {
       "path": "content/mods/shields.json",
-      "sha1": "838d5d9b7f9a4d25ee55dd5620d686c7739c32af"
+      "sha1": "5a15b0e4ed11a7ac4371fea10a919b134b328766"
     },
     {
       "path": "content/mods/slime-time.json",
@@ -298,7 +298,7 @@
     },
     {
       "path": "content/mods/the-block-box.json",
-      "sha1": "86014b27468b4271d01d70d76d4d3daf4fb45ef8"
+      "sha1": "dcca7c684f5ce700018618a4a9ef814b9cf094ea"
     },
     {
       "path": "content/mods/unified-api.json",
@@ -311,6 +311,86 @@
     {
       "path": "overrides/config/MouseTweaks.cfg",
       "sha1": "651b3e4db2d430dc1da3566b2984b264061a6794"
+    },
+    {
+      "path": "overrides/config/NoChatReports/NCR-Client.json",
+      "sha1": "d891af70a74a76fbcdb7026204257a48374d2023"
+    },
+    {
+      "path": "overrides/config/NoChatReports/NCR-Common.json",
+      "sha1": "6a83c8b806b818ae23a1976baa52bfc30436206a"
+    },
+    {
+      "path": "overrides/config/NoChatReports/NCR-ServerPreferences.json",
+      "sha1": "3c04f45c210048b5e722b294dcc0d9f073374160"
+    },
+    {
+      "path": "overrides/config/aether_ii-common.toml",
+      "sha1": "8ac8c3f91d15563435360f0cec512fae554470d2"
+    },
+    {
+      "path": "overrides/config/aether_ii-server.toml",
+      "sha1": "281c76fa15e20bd61d5c92b86fa9483ca80ad1b8"
+    },
+    {
+      "path": "overrides/config/better_modlist-client.toml",
+      "sha1": "aef39373409d6015999118d9037cc8348af6dc68"
+    },
+    {
+      "path": "overrides/config/bigger_fish.toml",
+      "sha1": "ea004e30cfe7110824a6bff54b5850308c869b85"
+    },
+    {
+      "path": "overrides/config/blockbox-common.toml",
+      "sha1": "13520c7af86fed9bcc4efc184e46f54001879e98"
+    },
+    {
+      "path": "overrides/config/bridgingmod.json",
+      "sha1": "7290877a4b8df40407a6208925472fa1c62cdd80"
+    },
+    {
+      "path": "overrides/config/cardinal-components-api.properties",
+      "sha1": "0034d877ec2ea3155efaf54db8549db1e094f003"
+    },
+    {
+      "path": "overrides/config/chat_heads.json5",
+      "sha1": "3bd6eaec122056f9b3caee95e05fa6a7093a1c3a"
+    },
+    {
+      "path": "overrides/config/clickthrough.toml",
+      "sha1": "0fb3a86f6edfaf72c1f4d09eaebbe9eeeb38b419"
+    },
+    {
+      "path": "overrides/config/clientsort-server.json",
+      "sha1": "4a36c1968fef84b1b6fa88674b606e1cd070d063"
+    },
+    {
+      "path": "overrides/config/clientsort.json",
+      "sha1": "0c56d42b72189a6e74c219c25179cc00899bc65f"
+    },
+    {
+      "path": "overrides/config/clutternomore/client.toml",
+      "sha1": "58b29b464324f8e8f8d951062f984d29067de122"
+    },
+    {
+      "path": "overrides/config/clutternomore/startup.toml",
+      "sha1": "f6a637eb0a4633f8bc4ffd6905af5ea60be5c59c"
+    },
+    {
+      "path": "overrides/config/combatnouveau-client.toml",
+      "sha1": "3795d485c014180315b2b5be1309d490d02f6b78"
+    },
+    {
+      "path": "overrides/config/combatnouveau-common.toml",
+      "sha1": "851578cfca1377e9fc8bd832924601d8430bb50a"
+    },
+    {
+      "path": "overrides/config/connectiblechains.json",
+      "sha1": "a6af65ba3b03473ddde35af24599ba32f5b7f379"
+    },
+    {
+      "path": "overrides/config/connector.json",
+      "sha1": "940c419ed4ca156230a5ec8865499b3b9f0b450e"
     },
     {
       "path": "overrides/config/fabric_loader_dependencies.json",
@@ -334,11 +414,11 @@
     },
     {
       "path": "overrides/config/rrv/client_settings.json",
-      "sha1": "e122f982a126f215d3f5dfcd8a56f93ed85d70fb"
+      "sha1": "2e8facfb49637e437dbe152eeb30531ea15182aa"
     },
     {
       "path": "overrides/config/rrv/recipe_categories.json",
-      "sha1": "e35f603cf9c0026723ad725d6812b8d62c48fc8e"
+      "sha1": "7df25b66e36d6a9516319979a9f0b7888b997120"
     },
     {
       "path": "overrides/config/rrv/stack_groups.json",

@@ -91,6 +91,18 @@
     "minecraft:villager_trading": {
       "enabled": true,
       "priority": 10
+    },
+    "farmersdelight:cooking": {
+      "enabled": true,
+      "priority": 12
+    },
+    "farmersdelight:cutting": {
+      "enabled": true,
+      "priority": 13
+    },
+    "farmersdelight:decomposition": {
+      "enabled": true,
+      "priority": 14
     }
   }
 }

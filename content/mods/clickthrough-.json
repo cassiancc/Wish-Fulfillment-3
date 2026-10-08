@@ -15,6 +15,16 @@
       "sha1": "11337eb1041147c65cc7e84032eee339d8b7b344",
       "sha512": "6f20cc2ca4851e427f7793707920b94b90d5e798d43ae52c4f3a6e2bc552fb523079f95c3d566f6b0b37f3b24245bc19ff59b68dd4c5b1dec332dc717b72f52b",
       "fileSize": 328534
+    },
+    "curseforge": {
+      "id": "1122678",
+      "slug": "clickthrough-plus",
+      "versionId": "8347533",
+      "versionNumber": "Clickthrough Plus 3.6.5 for 26.1 NeoForge",
+      "filename": "clickthrough-plus-3.6.5+26.1.2-neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8347/533/clickthrough-plus-3.6.5%2b26.1.2-neoforge.jar",
+      "sha1": "11337eb1041147c65cc7e84032eee339d8b7b344",
+      "fileSize": 328534
     }
   },
   "dependents": [],
