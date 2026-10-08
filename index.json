@@ -229,6 +229,10 @@
       "sha1": "02222b065da3c012297ed4d45d68fc5324e67e35"
     },
     {
+      "path": "content/mods/rrv-addons.json",
+      "sha1": "1101cb16fa18467d605b8d6796e540b3190f6513"
+    },
+    {
       "path": "content/mods/rrv.json",
       "sha1": "095a51b1576f00af8cdcd44504d7560ce95afaab"
     },
@@ -293,6 +297,10 @@
       "sha1": "93b40fa80b55bade4cb27d41e3ef0bf729fc4974"
     },
     {
+      "path": "content/mods/the-block-box.json",
+      "sha1": "86014b27468b4271d01d70d76d4d3daf4fb45ef8"
+    },
+    {
       "path": "content/mods/unified-api.json",
       "sha1": "5172bf773dd31412046dde157d0a2b321e79364f"
     },
@@ -310,7 +318,7 @@
     },
     {
       "path": "overrides/config/fml.toml",
-      "sha1": "8bc7f42b0aca941dd294db49c3c4ca906d8e5a54"
+      "sha1": "5bd16e7a198c409e9aa2ebb71f10aa1a2ee1f42a"
     },
     {
       "path": "overrides/config/keymap.json",
@@ -339,6 +347,10 @@
     {
       "path": "overrides/config/slime_time.toml",
       "sha1": "f164c67bc8778c02a7c639459103a0335fc68989"
+    },
+    {
+      "path": "overrides/config/snowundertrees-common.toml",
+      "sha1": "01c47c75f96e46c743e2c852ddac61512de666b0"
     },
     {
       "path": "overrides/config/yacl.json5",

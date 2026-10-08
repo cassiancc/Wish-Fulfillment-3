@@ -1,0 +1,23 @@
+{
+  "name": "The Block Box",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "UmGvBQOb",
+      "slug": "the-block-box",
+      "versionId": "bbRrdEN7",
+      "versionNumber": "0.1.3",
+      "filename": "BlockBox-26.1.2-0.1.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/UmGvBQOb/versions/bbRrdEN7/BlockBox-26.1.2-0.1.3.jar",
+      "sha1": "cd5c9195792ebb3b056fa514a8912f45ac23a2e4",
+      "sha512": "de22d0bd61334417ca193d855445bcf117b413b2c4184923dd5b6b144791c015708771e5eaa429eee519c7a7140822523d03ff7ca03e7ee4f29bce502b65ca60",
+      "fileSize": 955836
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

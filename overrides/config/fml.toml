@@ -1,11 +1,11 @@
 #Disables File Watcher. Used to automatically update config if its file has been modified.
 disableConfigWatcher = false
 #Shows an early loading screen for mod loading which improves the user experience with early feedback about mod loading.
-earlyWindowControl = true
+earlyWindowControl = false
 #Max threads for early initialization parallelism,  -1 is based on processor count
 maxThreads = -1
 #Enable NeoForge global version checking
-versionCheck = true
+versionCheck = false
 #Enable synchronous OpenGL debug output and object labeling
 debugOpenGl = false
 #Default config path for servers
@@ -35,3 +35,4 @@ earlyLoadingScreenTheme = ""
 	#Example dependency override for the mod with the id 'targetMod': dependency constraints (incompatibility clauses or restrictive version ranges) against mod 'dep1' are removed, and the mod will now load after the mod 'dep2'
 	#dependencyOverrides.targetMod = ["-dep1", "+dep2"]
 	mcqoy = ["-modmenu"]
+	logbegone = ["-minecraft"]
