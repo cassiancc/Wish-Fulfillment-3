@@ -393,12 +393,88 @@
       "sha1": "940c419ed4ca156230a5ec8865499b3b9f0b450e"
     },
     {
+      "path": "overrides/config/connectorextras_energy_bridge-common.toml",
+      "sha1": "d56630f8b51c1b44be140fa41bf3a0454f700ef4"
+    },
+    {
+      "path": "overrides/config/cumulus_menus-client.toml",
+      "sha1": "89897041685cbd80602692dc67bf99a5e27cb906"
+    },
+    {
+      "path": "overrides/config/curios-client.toml",
+      "sha1": "369717e89c75b58c3064fc0d1a408c60e9f17070"
+    },
+    {
+      "path": "overrides/config/curios-common.toml",
+      "sha1": "315972fac2e0ad7fb6bbc9f945b05eef57e92cd7"
+    },
+    {
+      "path": "overrides/config/curios-server.toml",
+      "sha1": "81d93eedbe298af8dbc0f41ddf930563de3ed98d"
+    },
+    {
+      "path": "overrides/config/experience_obliterator.json",
+      "sha1": "dc459f46edd28253fa6c662ea75d7eb8f55abae9"
+    },
+    {
       "path": "overrides/config/fabric_loader_dependencies.json",
       "sha1": "fb52e332af14252370bdb56ccbcfd771ee00e491"
     },
     {
+      "path": "overrides/config/farmersdelight-client.json",
+      "sha1": "81a433049ebea128d4362d25321621c7572ac6d5"
+    },
+    {
+      "path": "overrides/config/farmersdelight-common.json",
+      "sha1": "48adfc721160e2c7ab729ac4e58e317fbcba8a5b"
+    },
+    {
+      "path": "overrides/config/fastitemframes-client.toml",
+      "sha1": "4c1928cf98a176b9a64523b5dc649e1600ad66ac"
+    },
+    {
+      "path": "overrides/config/fastitemframes-server.toml",
+      "sha1": "82de1a6fc8bf4dc136e96be9cf191fb3f3272748"
+    },
+    {
+      "path": "overrides/config/ferritecore-mixin.toml",
+      "sha1": "2d4300d9734f96449653b9eb22e56cca66b17715"
+    },
+    {
       "path": "overrides/config/fml.toml",
       "sha1": "5bd16e7a198c409e9aa2ebb71f10aa1a2ee1f42a"
+    },
+    {
+      "path": "overrides/config/hoofprint.toml",
+      "sha1": "09ae5422590fe547936a678215bc35d98fdcff92"
+    },
+    {
+      "path": "overrides/config/horseman-client.toml",
+      "sha1": "8e3714a248aaff4f558713cb72f843f3dc6c95fb"
+    },
+    {
+      "path": "overrides/config/horseman-common.toml",
+      "sha1": "89d802d88826d9fbc408296027a993329a03f02f"
+    },
+    {
+      "path": "overrides/config/horseman-server.toml",
+      "sha1": "700003ab326098c305bffec6463fc271a30b61fb"
+    },
+    {
+      "path": "overrides/config/immersiveminimaps.toml",
+      "sha1": "87805660c9f7839f2e1aac34c9ca176545935673"
+    },
+    {
+      "path": "overrides/config/immersiveoverlays.json",
+      "sha1": "fb103494c1cd32fcee3d890d970beed27d6590fe"
+    },
+    {
+      "path": "overrides/config/inline_tooltips.toml",
+      "sha1": "e1323d9752e12cbefd0bba63267d85d3c0178b31"
+    },
+    {
+      "path": "overrides/config/item_descriptions.toml",
+      "sha1": "824521ffc309d81a6156191761cc62b4c004b2e4"
     },
     {
       "path": "overrides/config/keymap.json",
