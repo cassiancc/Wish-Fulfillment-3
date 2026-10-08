@@ -1,0 +1,26 @@
+{
+  "name": "Launchpad",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "voWgQoWV",
+      "slug": "launchpad",
+      "versionId": "VtoPSyMI",
+      "versionNumber": "1.9.2+26.1.2",
+      "filename": "launchpad-1.9.2+26.1.2-full.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/voWgQoWV/versions/VtoPSyMI/launchpad-1.9.2%2B26.1.2-full.jar",
+      "sha1": "2f4514d1980c735bde499bc25760fae45f44448e",
+      "sha512": "183d5f1ed0746b2c94f31944945f4c7396c836de942b416d53feef7e3dbe7d05bdd33a6ab6199e38147a7316a81417f44e9cee770494c051a9d38d2d4d2b92a5",
+      "fileSize": 466664
+    }
+  },
+  "dependents": [
+    "CbCN2Azx",
+    "u58R1TMW"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Modest Magic",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "sWRvoDiO",
+      "slug": "modest-magic",
+      "versionId": "wfil3xIm",
+      "versionNumber": "1.4.1-26.1.2-neoforge",
+      "filename": "modestmagic-neoforge-26.1.2-1.4.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/sWRvoDiO/versions/wfil3xIm/modestmagic-neoforge-26.1.2-1.4.1.jar",
+      "sha1": "c24b8b2d852fd0e5f33db1c3435d571d2f24469b",
+      "sha512": "f21038d4a6fec815da46d925307ca98118b2e82538bccd1a09186ed2042c8579c8dad7abb084a868e0556fa0c153828c11c85d37e090239826704f0d832fa83b",
+      "fileSize": 449656
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

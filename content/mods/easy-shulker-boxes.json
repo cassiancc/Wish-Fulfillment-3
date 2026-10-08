@@ -1,0 +1,23 @@
+{
+  "name": "Easy Shulker Boxes",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "gA5euN8S",
+      "slug": "easy-shulker-boxes",
+      "versionId": "A2jC1kHJ",
+      "versionNumber": "26.1.5",
+      "filename": "easyshulkerboxes-v26.1.5-mc26.1.x+neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/gA5euN8S/versions/A2jC1kHJ/easyshulkerboxes-v26.1.5-mc26.1.x%2Bneoforge.jar",
+      "sha1": "a22f5e953cdb1f0955814140e3fbdd959bffaecb",
+      "sha512": "e6354c41c52a40f263b6c97aad401b16d9de69d788416e94d04b8d2ce1cc8d5ab337d4938cd5150745620b5cef24f4b033dc947d8abc48da92cbefbb1a8e8cc7",
+      "fileSize": 640195
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

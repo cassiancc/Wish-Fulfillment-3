@@ -1,0 +1,23 @@
+{
+  "name": "Mouse Tweaks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "aC3cM3Vq",
+      "slug": "mouse-tweaks",
+      "versionId": "Vd1fgVcT",
+      "versionNumber": "26.1-2.31-neoforge",
+      "filename": "MouseTweaks-neoforge-mc26.1-2.31.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/Vd1fgVcT/MouseTweaks-neoforge-mc26.1-2.31.jar",
+      "sha1": "e171c7b91ab9ab3b0f7b63aa5b0337f578588b5c",
+      "sha512": "020927251342a5f73363fbf8312c4e7219c24fd3021190b2387eeb1472ac16b3291b14d19ce3d4e4063c6d5f24a1b92a21b9ce290359af22e40dd4ff14597e9e",
+      "fileSize": 74445
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

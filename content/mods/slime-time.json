@@ -1,0 +1,23 @@
+{
+  "name": "Slime Time",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "RRsJmoGM",
+      "slug": "slime-time",
+      "versionId": "Tliv9d7K",
+      "versionNumber": "1.2.3+26.1.2-neoforge",
+      "filename": "slime_time-1.2.3+26.1.2-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/RRsJmoGM/versions/Tliv9d7K/slime_time-1.2.3%2B26.1.2-neoforge.jar",
+      "sha1": "934bd5bfd46c59e6a5398615d72b8cd9112e1b03",
+      "sha512": "78a39714d72e3abf27c359389c38b19e915cc67c96c2b5054b364ab6df5ac09941459ca481196d5f9e12a84bb4f2ab8a5e3df704eb8081a50820d996a794b3ca",
+      "fileSize": 538997
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

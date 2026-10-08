@@ -1,0 +1,25 @@
+{
+  "name": "Sinytra Connector",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "u58R1TMW",
+      "slug": "connector",
+      "versionId": "oY5C4GFW",
+      "versionNumber": "3.0.0-beta.6+26.1.2",
+      "filename": "connector-3.0.0-beta.6+26.1.2-full.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/u58R1TMW/versions/oY5C4GFW/connector-3.0.0-beta.6%2B26.1.2-full.jar",
+      "sha1": "be19358e16a22ad6174075e6f5b0f78fd1b36e12",
+      "sha512": "2b36450c5f80c5d504495634091cd7897466dc45a2f6b771305e133b111d15615c7a6b9df833481295c5b8830c9ade0fd446b6cd26517cc0d1697c5d16cf23f5",
+      "fileSize": 1011536
+    }
+  },
+  "dependents": [
+    "FYpiwiBR"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

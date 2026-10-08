@@ -1,0 +1,23 @@
+{
+  "name": "Connector Extras",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "FYpiwiBR",
+      "slug": "connector-extras",
+      "versionId": "hGQUSqpt",
+      "versionNumber": "2.0.2+26.1.2",
+      "filename": "ConnectorExtras-2.0.2+26.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/FYpiwiBR/versions/hGQUSqpt/ConnectorExtras-2.0.2%2B26.1.2.jar",
+      "sha1": "b55b649fb209122297c16f6f7b76dd7ec84f5d1a",
+      "sha512": "ce84e969abfa0690bd23ffa00dedfdd9e6f6527445b7511a34e1e024063ce2493b8a99d01200b9e4f3854f12f3d29c848c999fe070cc4452c6f95adc59ae4644",
+      "fileSize": 139585
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

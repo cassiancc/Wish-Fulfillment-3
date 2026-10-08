@@ -1,0 +1,23 @@
+{
+  "name": "Fast Item Frames",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "FsoeTIV0",
+      "slug": "fast-item-frames",
+      "versionId": "hLFhJAU8",
+      "versionNumber": "26.1.1",
+      "filename": "FastItemFrames-v26.1.1-mc26.1.x-NeoForge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/FsoeTIV0/versions/hLFhJAU8/FastItemFrames-v26.1.1-mc26.1.x-NeoForge.jar",
+      "sha1": "96437beb261304448768dd4875732ccca68177b4",
+      "sha512": "5e2620c96cca75683e0679a5b6f6602593c6500d6aa927be3dc8bc090ace790b860da460412f3549458a416a1d7a233accd1f3406447de7fb7e8b20841b0ddfd",
+      "fileSize": 99671
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

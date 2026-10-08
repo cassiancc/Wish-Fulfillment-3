@@ -1,0 +1,23 @@
+{
+  "name": "Item Descriptions",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "UaizcMKP",
+      "slug": "item-descriptions",
+      "versionId": "ZzOaSApS",
+      "versionNumber": "2.8.5+26.1.2-neoforge",
+      "filename": "item_descriptions-2.8.5+26.1.2-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/UaizcMKP/versions/ZzOaSApS/item_descriptions-2.8.5%2B26.1.2-neoforge.jar",
+      "sha1": "181d0f77f3f4b93fb46ecafc8bfc6ad7d925ed31",
+      "sha512": "e8a7e3538e71027dbf83cbdfa4bd2ba8bfe4a001d90a828f127893a9016d0f410bd57bd08f097928a7b5237d9367b6012074a16650d1a5c92aeaf405c8181be2",
+      "fileSize": 549138
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

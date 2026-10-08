@@ -1,0 +1,23 @@
+{
+  "name": "Screencopy",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "aru7gAyl",
+      "slug": "screencopy",
+      "versionId": "hfJnkNV9",
+      "versionNumber": "1.4.0-forge",
+      "filename": "screenshotcopy-neoforge-1.4.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/aru7gAyl/versions/hfJnkNV9/screenshotcopy-neoforge-1.4.0.jar",
+      "sha1": "a80f548fde1ab7136882dc57093399852531bf22",
+      "sha512": "e21f40933ba230a75cf852aaab380f6d39e47b85218935c643b56006fee6a20fd0f2016fc965bb0fb9d7c15531528ee95b87c6722de381686369fb6f509c183f",
+      "fileSize": 2522728
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

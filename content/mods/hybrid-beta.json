@@ -1,0 +1,23 @@
+{
+  "name": "Cascades",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Jmx5kJiS",
+      "slug": "hybrid-beta",
+      "versionId": "JbaOD4hZ",
+      "versionNumber": "1.0.6+mod",
+      "filename": "hybrid-beta-1.0.6.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Jmx5kJiS/versions/JbaOD4hZ/hybrid-beta-1.0.6.jar",
+      "sha1": "ea81dbfcb249f546eeea28cc37b1688a349d17c2",
+      "sha512": "6de516a291f367e28f39ecc68159d1cf8bc74a92724ec092cd0c01197d146be62c6e43b1fcfbea7a9542276b1ee87aefd32681dc8dd46d9e20e68ca06d719e14",
+      "fileSize": 2903872
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

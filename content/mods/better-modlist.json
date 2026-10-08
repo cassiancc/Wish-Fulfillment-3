@@ -1,0 +1,23 @@
+{
+  "name": "Better ModList",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "sbpqhzIG",
+      "slug": "better-modlist",
+      "versionId": "FuS9shWc",
+      "versionNumber": "26.1.7",
+      "filename": "better_modlist-26.1.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/sbpqhzIG/versions/FuS9shWc/better_modlist-26.1.7.jar",
+      "sha1": "ad8c514cceac209b77b8ce4cf240ee367d4b128a",
+      "sha512": "dbedc293dae1badaeb4f8103a00ae8c187d7c46e9b291ed213a80fbc95f3ec291aa67e0655abe4f93e60d005ea4f933a812a5310417f0645a4d19b8fd1d5f23f",
+      "fileSize": 837508
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

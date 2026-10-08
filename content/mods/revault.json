@@ -1,0 +1,23 @@
+{
+  "name": "Re vault",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "E8egdGje",
+      "slug": "revault",
+      "versionId": "dA5Xdeot",
+      "versionNumber": "1.3.2+mod",
+      "filename": "revault-1.3.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/E8egdGje/versions/dA5Xdeot/revault-1.3.2.jar",
+      "sha1": "696c4cf9e449e844db14e0b727b000223f91872a",
+      "sha512": "26af3db1752f6c364fc5bd9ea8e99513d711093989215aa4a821b4bebdb9cfde762c3977b3f6796dbfc42905bb1d0acea820d7b86fd74022029e997105a6f8ef",
+      "fileSize": 135592
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

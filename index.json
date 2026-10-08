@@ -1,3 +1,228 @@
 {
-  "files": []
+  "files": [
+    {
+      "path": "content/mods/aether-ii.json",
+      "sha1": "a1026c58a07da0852aa8a6cc612f1967dbe756a7"
+    },
+    {
+      "path": "content/mods/always-a-bigger-fish.json",
+      "sha1": "c3d1a89f7529c8cd20914b7392cf23e2a1edc889"
+    },
+    {
+      "path": "content/mods/better-modlist.json",
+      "sha1": "12b777aed5b54d71f99e5f6b03d79d38f403ac44"
+    },
+    {
+      "path": "content/mods/bridging-mod.json",
+      "sha1": "2414ababf98921714de2e21305d408906b842481"
+    },
+    {
+      "path": "content/mods/chat-heads.json",
+      "sha1": "0ec1ecbb06197037bb2bb757afe4d3ad3772e830"
+    },
+    {
+      "path": "content/mods/clickthrough-.json",
+      "sha1": "28e37dfab6569c11012cf219cdb726ded76aef1d"
+    },
+    {
+      "path": "content/mods/clientsort.json",
+      "sha1": "0dff5fe7e2f572096a7cf31021d02b46fa77e3f3"
+    },
+    {
+      "path": "content/mods/cloth-config.json",
+      "sha1": "849e54348375f8896b2d9423559d850f796db0e1"
+    },
+    {
+      "path": "content/mods/connector-extras.json",
+      "sha1": "eb5f19b11aeb0184795184ee7b17dce91a046588"
+    },
+    {
+      "path": "content/mods/connector.json",
+      "sha1": "9a78be26fec3eda33a8cb1810568fa8d812da90d"
+    },
+    {
+      "path": "content/mods/curios.json",
+      "sha1": "a4781ae087c0250a5ba4b1ce4f23433568b1999d"
+    },
+    {
+      "path": "content/mods/drops-backport.json",
+      "sha1": "9ce8e84446b5e449dd926b5807c74d41cd06ca4f"
+    },
+    {
+      "path": "content/mods/easy-shulker-boxes.json",
+      "sha1": "49d532a615d66dbdc25dbeaac379f4579945346d"
+    },
+    {
+      "path": "content/mods/experience-obliterator.json",
+      "sha1": "b451f3bbefb9af30383346c8fdf684d2afef7537"
+    },
+    {
+      "path": "content/mods/farmers-delight-refabricated.json",
+      "sha1": "b20203d8a045392d35c0815cdb041544908c38ff"
+    },
+    {
+      "path": "content/mods/fast-item-frames.json",
+      "sha1": "5294461653e536f60deb2a63d7b71136a718ca7b"
+    },
+    {
+      "path": "content/mods/fog.json",
+      "sha1": "613c718708b41a47727d8405fac45109ed169b15"
+    },
+    {
+      "path": "content/mods/forgified-fabric-api.json",
+      "sha1": "607e4bdc1a9f1075bb741e6fd10d659f539e9fb4"
+    },
+    {
+      "path": "content/mods/hybrid-beta.json",
+      "sha1": "76ac52992ba267de257bd2823c44f516dfb8eab6"
+    },
+    {
+      "path": "content/mods/icebreak.json",
+      "sha1": "b0b074382d983ffe4681fda87ebca30bfc0880ca"
+    },
+    {
+      "path": "content/mods/immersive-minimaps.json",
+      "sha1": "b46cde40dee3ada538b86f6bf867fa2a0b202d73"
+    },
+    {
+      "path": "content/mods/immersive-overlays.json",
+      "sha1": "a4dde5cbb38cbba1bca2639384369eddf317fa07"
+    },
+    {
+      "path": "content/mods/inline-tooltips.json",
+      "sha1": "f4338cc834fb85b5e076ddf08525921749640142"
+    },
+    {
+      "path": "content/mods/iris.json",
+      "sha1": "c777875f75f915987077b1ce2dc79d7a573396fb"
+    },
+    {
+      "path": "content/mods/item-descriptions.json",
+      "sha1": "8197b78295a75032d5b23c49eddd502a0f747e8b"
+    },
+    {
+      "path": "content/mods/jade.json",
+      "sha1": "67a778032709573f2ff3aaf0911b85cb302f81bd"
+    },
+    {
+      "path": "content/mods/jei.json",
+      "sha1": "1d36abd918c4982b0ef64ae619f595780ab98970"
+    },
+    {
+      "path": "content/mods/launchpad.json",
+      "sha1": "1b567e863c9e2a299a5d11c7e7c4d6032981ffa9"
+    },
+    {
+      "path": "content/mods/lithostitched.json",
+      "sha1": "17a3cff160a40b940189626883debc43a08281aa"
+    },
+    {
+      "path": "content/mods/mcqoy.json",
+      "sha1": "dc6c4e247fe52bd99cd4872e25c2dcf77dcdb001"
+    },
+    {
+      "path": "content/mods/modest-magic.json",
+      "sha1": "f0b3d97df11dddaa38301cea599995cea862ae9b"
+    },
+    {
+      "path": "content/mods/mouse-tweaks.json",
+      "sha1": "7b3810c1144fc43c7e19994e5559db2947b01742"
+    },
+    {
+      "path": "content/mods/mru.json",
+      "sha1": "d68a38906a9d8ba1cb63c08dfe2fd3a0b5a25322"
+    },
+    {
+      "path": "content/mods/no-chat-reports.json",
+      "sha1": "a0fb92a6fc143dc1c555557cd184814354f7ac90"
+    },
+    {
+      "path": "content/mods/o123456789-backport.json",
+      "sha1": "0df18bf6838a73aeec5ce896d7a629ded890a6da"
+    },
+    {
+      "path": "content/mods/permanent-paintings.json",
+      "sha1": "a0d1eb1142e1d219f6ebf9f0b07c5402b48e5d8d"
+    },
+    {
+      "path": "content/mods/puzzles-lib.json",
+      "sha1": "23da307b5580f050b27a05817daf98770ccfa781"
+    },
+    {
+      "path": "content/mods/reconnectible-chains.json",
+      "sha1": "a174b4009e5c582aef36d9e0a3458ccf9d4a070b"
+    },
+    {
+      "path": "content/mods/reliable-gliders.json",
+      "sha1": "861f79668605d108adba09f4451ea2c3b6632166"
+    },
+    {
+      "path": "content/mods/revault.json",
+      "sha1": "02222b065da3c012297ed4d45d68fc5324e67e35"
+    },
+    {
+      "path": "content/mods/rrv.json",
+      "sha1": "095a51b1576f00af8cdcd44504d7560ce95afaab"
+    },
+    {
+      "path": "content/mods/screencopy.json",
+      "sha1": "3360e9c0afe1664ca49655b3547f08038c0cab4e"
+    },
+    {
+      "path": "content/mods/slime-time.json",
+      "sha1": "dc9c372d7179eb8b04be6be5f1a3948e59b00974"
+    },
+    {
+      "path": "content/mods/sodium.json",
+      "sha1": "302678223324129d293a60acd40520f824938ea3"
+    },
+    {
+      "path": "content/mods/thaumaturge.json",
+      "sha1": "93b40fa80b55bade4cb27d41e3ef0bf729fc4974"
+    },
+    {
+      "path": "content/mods/unified-api.json",
+      "sha1": "5172bf773dd31412046dde157d0a2b321e79364f"
+    },
+    {
+      "path": "content/mods/yacl.json",
+      "sha1": "b2657ffcfa8aee8f9b9a9b9fe00e181a6bed37dc"
+    },
+    {
+      "path": "overrides/config/MouseTweaks.cfg",
+      "sha1": "651b3e4db2d430dc1da3566b2984b264061a6794"
+    },
+    {
+      "path": "overrides/config/fabric_loader_dependencies.json",
+      "sha1": "fb52e332af14252370bdb56ccbcfd771ee00e491"
+    },
+    {
+      "path": "overrides/config/fml.toml",
+      "sha1": "8bc7f42b0aca941dd294db49c3c4ca906d8e5a54"
+    },
+    {
+      "path": "overrides/config/rrv/bookmarks.json",
+      "sha1": "a78ffc7c73da6bf1af76fdaf5a2dddb4d9ffb1b8"
+    },
+    {
+      "path": "overrides/config/rrv/client_settings.json",
+      "sha1": "587cc290898984fb244e2c737789af6de6b5a6bb"
+    },
+    {
+      "path": "overrides/config/rrv/recipe_categories.json",
+      "sha1": "edcc27f64e54cc08b52be18c3a5ce8e8ad0aebbd"
+    },
+    {
+      "path": "overrides/config/rrv/stack_groups.json",
+      "sha1": "0998f4aa9fe238881a8e7ec8ba814305760cfe09"
+    },
+    {
+      "path": "overrides/config/slime_time.toml",
+      "sha1": "f164c67bc8778c02a7c639459103a0335fc68989"
+    },
+    {
+      "path": "overrides/config/yacl.json5",
+      "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2"
+    }
+  ]
 }

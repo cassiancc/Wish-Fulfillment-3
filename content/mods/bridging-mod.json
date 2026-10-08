@@ -1,0 +1,23 @@
+{
+  "name": "Bridging Mod",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lO3s8hjs",
+      "slug": "bridging-mod",
+      "versionId": "Zzz43Bx7",
+      "versionNumber": "2.6.6+26.1.neoforge",
+      "filename": "BridgingMod-2.6.6+26.1.neoforge-release.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lO3s8hjs/versions/Zzz43Bx7/BridgingMod-2.6.6%2B26.1.neoforge-release.jar",
+      "sha1": "626a650fa5f6adf0df3d6c7971bb9de3704d375b",
+      "sha512": "9ad712af13c743b167382ce06c54d2297b94067879c2be66f49228122a5765e6e3a788d07e14dfdd8ba02ae3513c9ac628f05aa2d05c4547cbd7a61222c10a75",
+      "fileSize": 5923644
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

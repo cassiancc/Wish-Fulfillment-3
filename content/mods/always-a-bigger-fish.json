@@ -1,0 +1,23 @@
+{
+  "name": "There's Always a Bigger Fish",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "tKKzcK6F",
+      "slug": "always-a-bigger-fish",
+      "versionId": "Hpa4ra0d",
+      "versionNumber": "1.2.4+26.1.2-neoforge",
+      "filename": "bigger_fish-1.2.4+26.1.2-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/tKKzcK6F/versions/Hpa4ra0d/bigger_fish-1.2.4%2B26.1.2-neoforge.jar",
+      "sha1": "db72eed61e987b91ccfdf516a7f9b070774edfc0",
+      "sha512": "0c951fb84145a9f6c85b02aa638e09605e4b35c8fa5d3bb725ade569575bd80f662ed6df439db3e2ca251b997dd6c5fd71c1166d6ed887f14bf69662a4d880a3",
+      "fileSize": 1482238
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -55,3 +55,5 @@ cherishedworlds-favorites.dat
 .probe/
 .vscode/probe.code-snippets
 config/sodium-fingerprint.json
+options.txt
+data/fabric_default_resource_packs.json

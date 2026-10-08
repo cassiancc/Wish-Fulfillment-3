@@ -1,0 +1,23 @@
+{
+  "name": "Immersive Minimaps",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "CbCN2Azx",
+      "slug": "immersive-minimaps",
+      "versionId": "XC2XYnuh",
+      "versionNumber": "1.2.4+26.1.2-neoforge",
+      "filename": "immersiveminimaps-1.2.4+26.1.2-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/CbCN2Azx/versions/XC2XYnuh/immersiveminimaps-1.2.4%2B26.1.2-neoforge.jar",
+      "sha1": "58ec4a319b7583e91b181735aaa4f29eb7a10b3b",
+      "sha512": "cbee578ec83caef87c9374c9954784363e78a03ee42a1616bb26160a79f15f716abf314201bb8a2d968c01d6dad9e1467313287941beb920ba58b4b47f496380",
+      "fileSize": 1823071
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

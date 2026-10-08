@@ -1,0 +1,23 @@
+{
+  "name": "Permanent Paintings",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "A07xPNkw",
+      "slug": "permanent-paintings",
+      "versionId": "xTyBawY8",
+      "versionNumber": "1.0.0+26.2",
+      "filename": "permanent_paintings-1.0.0+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/A07xPNkw/versions/xTyBawY8/permanent_paintings-1.0.0%2B26.2.jar",
+      "sha1": "4cf7bc19ed30ee8200c137b8291921954f4ad2fe",
+      "sha512": "2fdc5c599d1f3a541c752a28a2a8931791d95952abbd57d686e256321e7af0396ddc92f9a7a4d8bc5eb6e4836dbacd21b2340ed9ce12f7fa06410e8030391d76",
+      "fileSize": 292798
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

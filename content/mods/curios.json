@@ -1,0 +1,24 @@
+{
+  "name": "Curios API",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "309927",
+      "slug": "curios",
+      "versionId": "8463519",
+      "versionNumber": "curios-neoforge-15.0.0+26.1.2.jar",
+      "filename": "curios-neoforge-15.0.0+26.1.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8463/519/curios-neoforge-15.0.0%2b26.1.2.jar",
+      "sha1": "7d9d228d1224238750fd3924737c6734b58eb344",
+      "fileSize": 441630
+    }
+  },
+  "dependents": [
+    "1628024"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

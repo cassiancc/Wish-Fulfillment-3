@@ -1,0 +1,25 @@
+{
+  "name": "Unified API",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "vWUn8M9s",
+      "slug": "unified-api",
+      "versionId": "dcbFUC4i",
+      "versionNumber": "26.1-r6.5-neoforge",
+      "filename": "unified-api-26.1-r6.5-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/vWUn8M9s/versions/dcbFUC4i/unified-api-26.1-r6.5-neoforge.jar",
+      "sha1": "52125476d1427365d46a2134bbeaadb14205c7ce",
+      "sha512": "64176ad7fece49f1936e712ad3a6d20df3e894a9d70a4695417535a9f1a1aa9c2703cabf963a3836491a07172dddd8315520fe2e12e197ec4c65c16cf71c41b5",
+      "fileSize": 465766
+    }
+  },
+  "dependents": [
+    "dSuQn00p"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

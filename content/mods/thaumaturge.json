@@ -1,0 +1,22 @@
+{
+  "name": "Thaumaturge",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1628024",
+      "slug": "thaumaturge",
+      "versionId": "9095192",
+      "versionNumber": "thaumaturge-26.1.2-NeoForge-1.0.2.jar",
+      "filename": "thaumaturge-26.1.2-NeoForge-1.0.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9095/192/thaumaturge-26.1.2-NeoForge-1.0.2.jar",
+      "sha1": "f1d7445c4153eefd8797f498f97fa0138912f035",
+      "fileSize": 29239773
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

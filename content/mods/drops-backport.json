@@ -1,0 +1,23 @@
+{
+  "name": "Drops Backport",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "dSuQn00p",
+      "slug": "drops-backport",
+      "versionId": "lmlf9H54",
+      "versionNumber": "26.1-r2.1.2-neoforge",
+      "filename": "drops-backport-26.1-r2.1.2-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/dSuQn00p/versions/lmlf9H54/drops-backport-26.1-r2.1.2-neoforge.jar",
+      "sha1": "684b2c6aa52ba836ecc32b0cf4f6b8b98cdcae83",
+      "sha512": "254a55c531aaa7ad84b11a9fca6337d9a4eec602d59a25aa7bb08a0a168f251c1c2ff186fcdd900ff4753502b679e8468a2beabdcbd249251471110c649957a3",
+      "fileSize": 34387452
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Icebreak",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "dossS7yO",
+      "slug": "icebreak",
+      "versionId": "VI4TbjPV",
+      "versionNumber": "1.0.1+26.1.2",
+      "filename": "icebreak-1.0.1+26.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/dossS7yO/versions/VI4TbjPV/icebreak-1.0.1%2B26.1.2.jar",
+      "sha1": "3bb3b147b3a472b33dddb0a006c687ae82ae3a65",
+      "sha512": "346ed1414ed7b46c5698c1d13b637de4403e0ac2ffd25a07ac27ad199cc1a19fae60a802062ff7c24e0cd209065455e2ca2f0ace1cc5722994fa199bcaa25c2f",
+      "fileSize": 548848
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

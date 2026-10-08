@@ -1,0 +1,23 @@
+{
+  "name": "Reliable Recipe Viewer (RRV)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "5VolwT6c",
+      "slug": "rrv",
+      "versionId": "PFJ62puP",
+      "versionNumber": "8.10.9+26.1.2-neoforge",
+      "filename": "reliable-recipe-viewer-8.10.9+26.1.2-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/5VolwT6c/versions/PFJ62puP/reliable-recipe-viewer-8.10.9%2B26.1.2-neoforge.jar",
+      "sha1": "7a593644884faeee4df7eab3bb213061f91c15cb",
+      "sha512": "296df67614a657859fc22b5e878ceb9688eb190e77d4925f6ce77b654992a214f5dae715106e1ffafdca556b4cbaa3202963a738fd5bc7d163a77cbcbb253b18",
+      "fileSize": 807825
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

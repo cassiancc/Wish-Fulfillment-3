@@ -1,0 +1,22 @@
+{
+  "name": "The Aether II",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "223796",
+      "slug": "aether-ii",
+      "versionId": "8502033",
+      "versionNumber": "The Aether II - 26.1.2-alpha.4.1-neoforge",
+      "filename": "aether_ii-26.1.2-alpha.4.1-neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8502/33/aether_ii-26.1.2-alpha.4.1-neoforge.jar",
+      "sha1": "c587c4b1448ddd2698851868ec101f323ede4087",
+      "fileSize": 81045279
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

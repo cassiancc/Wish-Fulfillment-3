@@ -1,0 +1,23 @@
+{
+  "name": "Iris Shaders",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "YL57xq9U",
+      "slug": "iris",
+      "versionId": "qE5Y7GrZ",
+      "versionNumber": "1.11.4+26.1-neoforge",
+      "filename": "iris-neoforge-1.11.4+mc26.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/YL57xq9U/versions/qE5Y7GrZ/iris-neoforge-1.11.4%2Bmc26.1.2.jar",
+      "sha1": "15ac52fe7b35c66bb799f0f13021f549bf302c3c",
+      "sha512": "751cc32fbc319e2549759aa8ed2c798fa8e3a7a32924a27f6f80f81aa2634a5d9d726828348b271d70449c6d25d1fee352cec932185aa066da109414f0a7678f",
+      "fileSize": 2756643
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}
