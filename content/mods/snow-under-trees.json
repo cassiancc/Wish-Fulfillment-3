@@ -1,0 +1,23 @@
+{
+  "name": "Snow Under Trees",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Q3vyMuj2",
+      "slug": "snow-under-trees",
+      "versionId": "PXC8L6ZG",
+      "versionNumber": "v1.6.1",
+      "filename": "snowundertrees-neoforge-26.1.2-1.6.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Q3vyMuj2/versions/PXC8L6ZG/snowundertrees-neoforge-26.1.2-1.6.1.jar",
+      "sha1": "3b18d45e0cd66587f5efaafd5a6730196f55f305",
+      "sha512": "79173272796560e424b66c94bdff5203956590bbf3f31e082bfffacb61b058362467aafb16affd30812b31ef19d9c91ab346e2a95ae27b165455475888ede748",
+      "fileSize": 251939
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

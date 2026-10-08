@@ -15,6 +15,16 @@
       "sha1": "626a650fa5f6adf0df3d6c7971bb9de3704d375b",
       "sha512": "9ad712af13c743b167382ce06c54d2297b94067879c2be66f49228122a5765e6e3a788d07e14dfdd8ba02ae3513c9ac628f05aa2d05c4547cbd7a61222c10a75",
       "fileSize": 5923644
+    },
+    "curseforge": {
+      "id": "533942",
+      "slug": "bridging-mod",
+      "versionId": "7915822",
+      "versionNumber": "[NeoForge 26.1.x] v2.6.6 Bridging Mod",
+      "filename": "BridgingMod-2.6.6+26.1.neoforge-release.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7915/822/BridgingMod-2.6.6%2b26.1.neoforge-release.jar",
+      "sha1": "626a650fa5f6adf0df3d6c7971bb9de3704d375b",
+      "fileSize": 5923644
     }
   },
   "dependents": [],

@@ -1,0 +1,23 @@
+{
+  "name": "Item Collectors",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "y9vDr4Th",
+      "slug": "item-collectors",
+      "versionId": "dxlT0s0l",
+      "versionNumber": "1.1.12a-neoforge-mc26.1",
+      "filename": "itemcollectors-1.1.12a-neoforge-mc26.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/y9vDr4Th/versions/dxlT0s0l/itemcollectors-1.1.12a-neoforge-mc26.1.jar",
+      "sha1": "9a1ca25f2cf5cb4ac5ab10035298e0a0f5aa6286",
+      "sha512": "f9c8456162a6a7d000fbfaabd71087817e529d8736c4bc713f595e8e8da17c1421a54102f3272bf2e62097bf73a23d89370407362d89941d478907e2bbb28fed",
+      "fileSize": 105252
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

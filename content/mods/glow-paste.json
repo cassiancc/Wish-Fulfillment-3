@@ -1,0 +1,23 @@
+{
+  "name": "Glow Paste",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Q3EdhNFj",
+      "slug": "glow-paste",
+      "versionId": "1VQ8atAG",
+      "versionNumber": "1.0.0-neoforge-mc26.1",
+      "filename": "glowpaste-1.0.0-neoforge-mc26.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Q3EdhNFj/versions/1VQ8atAG/glowpaste-1.0.0-neoforge-mc26.1.jar",
+      "sha1": "54e9d169430763c314c2bad0af00245f792edda1",
+      "sha512": "0fab7cc161fed9838e8654b06adf4517b95bd6aecd8b3c686acd32f4416d43f31016231ab3ac5d637ae070c2d05a062de6613b7c44ea42b48e30657bfe4b69c9",
+      "fileSize": 93624
+    }
+  },
+  "dependents": [],
+  "clientSide": "unknown",
+  "serverSide": "unknown"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sculk Transporting",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "G2cuXzjx",
+      "slug": "sculk-transporting",
+      "versionId": "2Ca80ys5",
+      "versionNumber": "v1.2.4",
+      "filename": "sculktransporting-26.1.2-1.2.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/G2cuXzjx/versions/2Ca80ys5/sculktransporting-26.1.2-1.2.4.jar",
+      "sha1": "5dbb31e25182c27f3465ffc853f4f3e2ba3fc260",
+      "sha512": "15137285d86eb31d310c569aaca2cf21d7b305ee8d27b6bb56280ae9d139b78417b55d7fb77ade2eefc893c143208afc3a2b5851cd6ec3802e30ffcc07856a35",
+      "fileSize": 293436
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

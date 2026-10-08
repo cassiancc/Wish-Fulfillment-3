@@ -8,17 +8,20 @@
     "modrinth": {
       "id": "Aqlf1Shp",
       "slug": "forgified-fabric-api",
-      "versionId": "n96WMa6s",
-      "versionNumber": "0.155.3+26.1.2+3.5.7",
-      "filename": "forgified-fabric-api-0.155.3+26.1.2+3.5.7.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/n96WMa6s/forgified-fabric-api-0.155.3%2B26.1.2%2B3.5.7.jar",
-      "sha1": "2a5525cd1b59ab07fd4ab57da40eff94457732b6",
-      "sha512": "35612c7e97a105f1f7c673e9e7f5bc416c052e10252695a606ad40ca1d4292648834800eba0b96af19a6f8ca65756beae56015f3d5d887db50ffb261282f029f",
-      "fileSize": 2973583
+      "versionId": "qnvYPSnI",
+      "versionNumber": "0.155.3+26.1.2+3.5.8",
+      "filename": "forgified-fabric-api-0.155.3+26.1.2+3.5.8.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/qnvYPSnI/forgified-fabric-api-0.155.3%2B26.1.2%2B3.5.8.jar",
+      "sha1": "dc08b8a6459bbaf0bc0652f81ed8a2a088af4645",
+      "sha512": "a12c0a8fe3d139445a6e611667f1fe4690ebda3c66c398f27c10dd9bf20255d175293028e7bda9e2a54b45c32570a3415a123b4be68d3776abae96e59e34d01a",
+      "fileSize": 2975263
     }
   },
   "dependents": [
-    "u58R1TMW"
+    "9Ya7Yyre",
+    "UIZkbR3j",
+    "u58R1TMW",
+    "xABbFTq3"
   ],
   "clientSide": "required",
   "serverSide": "required"

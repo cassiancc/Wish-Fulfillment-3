@@ -1,0 +1,23 @@
+{
+  "name": "Superb Steeds",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "UIZkbR3j",
+      "slug": "superb-steeds",
+      "versionId": "lk5CqsVG",
+      "versionNumber": "26.1-r2",
+      "filename": "superb-steeds-neoforge-26.1-r2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/UIZkbR3j/versions/lk5CqsVG/superb-steeds-neoforge-26.1-r2.jar",
+      "sha1": "77b65eb76105632bb1f18240b907b6a28adcd1ef",
+      "sha512": "3aaab5f31488d09512a925af2514ccf6f656ee31e18a5ba0874fb0451f75683e4d04c203a8e33ec2c57dc63621b60ff049c442dbfa8f3497dac9dcc3948b1fdd",
+      "fileSize": 46335
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

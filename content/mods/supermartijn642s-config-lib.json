@@ -1,0 +1,26 @@
+{
+  "name": "SuperMartijn642's Config Lib",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "LN9BxssP",
+      "slug": "supermartijn642s-config-lib",
+      "versionId": "gD2yQaPN",
+      "versionNumber": "1.1.8-neoforge-mc26.1",
+      "filename": "supermartijn642configlib-1.1.8-neoforge-mc26.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/LN9BxssP/versions/gD2yQaPN/supermartijn642configlib-1.1.8-neoforge-mc26.1.jar",
+      "sha1": "1348561a0143b41e6737dd0ca8a7cf4f4be14fa2",
+      "sha512": "018e694d07217e4f597f7d3895038bb3327fe373d639ee87a4ce7e9b32e8bf4f37d3fc022851eba9e605285fc063164ebca62a8efc4afa49842cf2a4157d1e9e",
+      "fileSize": 206410
+    }
+  },
+  "dependents": [
+    "9KZOe6HD",
+    "y9vDr4Th"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Clutter No More",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ewyjbmG4",
+      "slug": "clutter-no-more",
+      "versionId": "nYXnVJmW",
+      "versionNumber": "2.0.7+26.1.2-neoforge",
+      "filename": "clutternomore-2.0.7+26.1.2-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ewyjbmG4/versions/nYXnVJmW/clutternomore-2.0.7%2B26.1.2-neoforge.jar",
+      "sha1": "8e0e2d4d79fde417153631728fb0e456eaebc692",
+      "sha512": "2adc112c888ecf3044db7c1c51690ec443d19e3316f14ebd286494fb7ad32e3ede17909382e398e3c5a3dbf6c7da861dbc2ff21eb007ab69e0b79586a8fdc8cf",
+      "fileSize": 749793
+    },
+    "curseforge": {
+      "id": "1339454",
+      "slug": "clutter-no-more",
+      "versionId": "8595704",
+      "versionNumber": "Clutter No More 2.0.7 for 26.1.2 Neoforge",
+      "filename": "clutternomore-2.0.7+26.1.2-neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8595/704/clutternomore-2.0.7%2b26.1.2-neoforge.jar",
+      "sha1": "8e0e2d4d79fde417153631728fb0e456eaebc692",
+      "fileSize": 749793
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

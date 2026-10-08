@@ -1,0 +1,23 @@
+{
+  "name": "Just Another Witchery Remake",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "LCO8KZvC",
+      "slug": "just-another-witchery-remake",
+      "versionId": "23l29Bqi",
+      "versionNumber": "0.5.13.1",
+      "filename": "witchery-0.5.13.1+mc26.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/LCO8KZvC/versions/23l29Bqi/witchery-0.5.13.1%2Bmc26.1.2.jar",
+      "sha1": "7a31cb50c1105d299716a906b5f4e56171c1e491",
+      "sha512": "8ceb04f8ff0533af7b783ac58637c10f17375c55c3e0dfae202880891442adafd4f28290caf9022e43445dd0b7ba5bbbe9f62ffd3b93f87819842d898dc511fb",
+      "fileSize": 9934653
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

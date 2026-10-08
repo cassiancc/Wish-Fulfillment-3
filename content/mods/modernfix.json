@@ -1,0 +1,23 @@
+{
+  "name": "ModernFix",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "nmDcB62a",
+      "slug": "modernfix",
+      "versionId": "j7EoxpYe",
+      "versionNumber": "5.27.22+mc26.1.2",
+      "filename": "modernfix-neoforge-5.27.22+mc26.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/nmDcB62a/versions/j7EoxpYe/modernfix-neoforge-5.27.22%2Bmc26.1.2.jar",
+      "sha1": "334500dd0c94a552005a432114fae32fe6c518fc",
+      "sha512": "3e521867166f05ae78f469fdcc531ab2736fa582729008a7132e2795082ae946975312a2f780e0bf774c3c993ac1ff20f2aad24f6b4043ab6114a0b6848e7254",
+      "fileSize": 505496
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

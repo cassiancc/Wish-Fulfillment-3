@@ -1,0 +1,33 @@
+{
+  "name": "Better Statistics Screen",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "n6PXGAoM",
+      "slug": "better-stats",
+      "versionId": "LqOH9k7B",
+      "versionNumber": "5.5.6+fn-26.1",
+      "filename": "betterstats-5.5.6+fn-26.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/n6PXGAoM/versions/LqOH9k7B/betterstats-5.5.6%2Bfn-26.1.jar",
+      "sha1": "0fdbcc0a80ff1ef3291f12b8e0c5d1b315064359",
+      "sha512": "015a6dbef0375dec01287afa23ba37490a0f1637a379414a274f85ddf4ec51a13318b57e06871806c4573a5cf854a7da18839bf38d66c332a0bf0da40a1661d6",
+      "fileSize": 405131
+    },
+    "curseforge": {
+      "id": "667464",
+      "slug": "betterstats",
+      "versionId": "8623300",
+      "versionNumber": "5.5.6+fn-26.1",
+      "filename": "betterstats-5.5.6+fn-26.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8623/300/betterstats-5.5.6+fn-26.1.jar",
+      "sha1": "0fdbcc0a80ff1ef3291f12b8e0c5d1b315064359",
+      "fileSize": 405131
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "optional"
+}

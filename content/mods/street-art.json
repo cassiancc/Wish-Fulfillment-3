@@ -1,0 +1,23 @@
+{
+  "name": "Street Art",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "n0uMUjJI",
+      "slug": "street-art",
+      "versionId": "LOmLSgfX",
+      "versionNumber": "1.0.14",
+      "filename": "street_art-1.0.14.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/n0uMUjJI/versions/LOmLSgfX/street_art-1.0.14.jar",
+      "sha1": "10823e605c56f0ba0f9f146a920a5e14552f910c",
+      "sha512": "199f5cfca197908a6dba66a2b5a7e9498d9bef82d7accfb242e1bd32cc2bab497fb6f295f12143371964159edb51a02458d3b815a07a6a7b408b799b66fb2fe8",
+      "fileSize": 465514
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

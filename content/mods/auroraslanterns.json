@@ -1,0 +1,33 @@
+{
+  "name": "Aurora's Lanterns",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "xABbFTq3",
+      "slug": "auroraslanterns",
+      "versionId": "tRtLAv7o",
+      "versionNumber": "2.0.1+26.1.2",
+      "filename": "auroraslanterns-2.0.1+26.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/xABbFTq3/versions/tRtLAv7o/auroraslanterns-2.0.1%2B26.1.2.jar",
+      "sha1": "a55afebe768283ccf32c9ca4929b4d8b3a8b6b3a",
+      "sha512": "7dc1dacf72b5dcda27c4c8efb3f284e71332f47efebc964998466fe5e7536b7a06cd8cd4615149dbeb9db75db27697f3457f575c7667275b1de21a1afc44ba06",
+      "fileSize": 980432
+    },
+    "curseforge": {
+      "id": "1368734",
+      "slug": "auroraslanterns",
+      "versionId": "8661850",
+      "versionNumber": "Aurora's Lanterns 2.0.1 (26.1.2)",
+      "filename": "auroraslanterns-2.0.1+26.1.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8661/850/auroraslanterns-2.0.1%2b26.1.2.jar",
+      "sha1": "a55afebe768283ccf32c9ca4929b4d8b3a8b6b3a",
+      "fileSize": 980432
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

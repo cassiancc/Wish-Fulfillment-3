@@ -1,0 +1,23 @@
+{
+  "name": "Moving Elevators",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "9KZOe6HD",
+      "slug": "moving-elevators",
+      "versionId": "lI5Wde1k",
+      "versionNumber": "1.4.12a-neoforge-mc26.1",
+      "filename": "movingelevators-1.4.12a-neoforge-mc26.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/9KZOe6HD/versions/lI5Wde1k/movingelevators-1.4.12a-neoforge-mc26.1.jar",
+      "sha1": "865915d918c49b2272e680a9585527241c3bc36c",
+      "sha512": "b412e2304613f32b3fbb4899659f0766ceedfbdc23aade1d972153cc3dc71d4454adf91c8cfff7c703f095d956419259c4bb06bd16a104626514ba66d7c9379f",
+      "fileSize": 349682
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

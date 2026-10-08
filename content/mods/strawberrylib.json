@@ -1,0 +1,25 @@
+{
+  "name": "StrawberryLib",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "9Ya7Yyre",
+      "slug": "strawberrylib",
+      "versionId": "9cn8abyl",
+      "versionNumber": "26.1-r11",
+      "filename": "strawberrylib-neoforge-26.1-r11.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/9Ya7Yyre/versions/9cn8abyl/strawberrylib-neoforge-26.1-r11.jar",
+      "sha1": "0b34e2ff6bb8b560ebe5e83ed8ce073c90af1fc1",
+      "sha512": "0acc0bd20d611d40d0d585eb35d9091734a8181b190169d64c23adbfb37f5c45ab1ee1d714ffb3b4d9abdea1d050ed140243aa1119aa46652c47925bb3b32e9e",
+      "fileSize": 1040296
+    }
+  },
+  "dependents": [
+    "UIZkbR3j"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

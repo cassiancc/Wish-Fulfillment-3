@@ -1,0 +1,23 @@
+{
+  "name": "Keymap [Maintained]",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "8b8sY7tn",
+      "slug": "keymap-maintained",
+      "versionId": "OUxJRkl4",
+      "versionNumber": "0.11.3",
+      "filename": "keymap-26.1.2-NeoForge-0.11.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/8b8sY7tn/versions/OUxJRkl4/keymap-26.1.2-NeoForge-0.11.3.jar",
+      "sha1": "625c534069209baf62f67ae81a3cf8dc6b63cde0",
+      "sha512": "89746f4126f398137cc503f5bc85ebce9513e10a901a21907877777120a7cf8af4cf6a938886a27497bd44e8463b1804993bc38a51c801957335f40336c1b728",
+      "fileSize": 182428
+    }
+  },
+  "dependents": [],
+  "clientSide": "unknown",
+  "serverSide": "unknown"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Horseman",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "qIv5FhAA",
+      "slug": "horseman",
+      "versionId": "tPHvVV59",
+      "versionNumber": "1.7.4",
+      "filename": "horseman-neoforge-26.1.1-1.7.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/qIv5FhAA/versions/tPHvVV59/horseman-neoforge-26.1.1-1.7.4.jar",
+      "sha1": "87e2afd5aedc3406964f6e833f6041a881848f58",
+      "sha512": "6e0a70f26e83d0ec6264ae165931617dece1a1f2182934c1389213b2291c593afed420e777a731a2fdfa5a435ea2464903e51671483c3c9fe7a0fee4782604f4",
+      "fileSize": 275516
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

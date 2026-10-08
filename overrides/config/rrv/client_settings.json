@@ -10,7 +10,7 @@
     "item_wrap_mode": true,
     "namespace_tooltip": "show",
     "right_index": true,
-    "center_search": true,
+    "center_search": false,
     "show_buttons": true,
     "show_progress_bar": true,
     "center_recipe_screen": false,

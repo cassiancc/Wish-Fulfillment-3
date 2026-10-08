@@ -1,45 +1,69 @@
 # Wish Fulfillment 3
 
-**Minecraft 26.1.2 · neoforge 26.1.2.114**, 39 mods (8 dependencies)
+**Minecraft 26.1.2 · neoforge 26.1.2.114**, 63 mods (12 dependencies)
 
 ## Contents
 
+- [Aurora's Lanterns](https://modrinth.com/project/auroraslanterns) `2.0.1+26.1.2`
 - [Better ModList](https://modrinth.com/project/better-modlist) `26.1.7`
+- [Better Statistics Screen](https://modrinth.com/project/better-stats) `5.5.6+fn-26.1`
 - [Bridging Mod](https://modrinth.com/project/bridging-mod) `2.6.6+26.1.neoforge`
 - [Cascades](https://modrinth.com/project/hybrid-beta) `1.0.6+mod`
 - [Chat Heads](https://modrinth.com/project/chat-heads) `1.3.2`
 - [ClickThrough Plus](https://modrinth.com/project/clickthrough+) `3.6.5+26.1.2-neoforge`
 - [Client Sort](https://modrinth.com/project/clientsort) `3.102.8+26.1.2`
+- [Clutter No More](https://modrinth.com/project/clutter-no-more) `2.0.7+26.1.2-neoforge`
+- [Combat Nouveau](https://modrinth.com/project/combat-nouveau) `26.1.0`
 - [Connector Extras](https://modrinth.com/project/connector-extras) `2.0.2+26.1.2`
 - [Drops Backport](https://modrinth.com/project/drops-backport) `26.1-r2.1.2-neoforge`
 - [Easy Shulker Boxes](https://modrinth.com/project/easy-shulker-boxes) `26.1.5`
 - [Experience Obliterator](https://modrinth.com/project/experience-obliterator) `1.2.0-26.1.2-neoforge`
+- [Extra Shields](https://modrinth.com/project/shields) `1.4.2+26.1-neoforge`
 - [Farmer's Delight Refabricated](https://modrinth.com/project/farmers-delight-refabricated) `26.1-3.6.26`
 - [Fast Item Frames](https://modrinth.com/project/fast-item-frames) `26.1.1`
+- [FerriteCore](https://modrinth.com/project/ferrite-core) `9.0.0-neoforge`
 - [Fog](https://modrinth.com/project/fog) `1.12.0+26.1.2-neoforge`
-- [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.155.3+26.1.2+3.5.7`
+- [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.155.3+26.1.2+3.5.8`
+- [Glow Paste](https://modrinth.com/project/glow-paste) `1.0.0-neoforge-mc26.1`
+- [Horseman](https://modrinth.com/project/horseman) `1.7.4`
 - [Icebreak](https://modrinth.com/project/icebreak) `1.0.1+26.1.2`
 - [Immersive Minimaps](https://modrinth.com/project/immersive-minimaps) `1.2.4+26.1.2-neoforge`
 - [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.5+26.1.2-neoforge`
 - [Inline Tooltips](https://modrinth.com/project/inline-tooltips) `1.7.3+26.1.2-neoforge`
 - [Iris Shaders](https://modrinth.com/project/iris) `1.11.4+26.1-neoforge`
+- [Item Collectors](https://modrinth.com/project/item-collectors) `1.1.12a-neoforge-mc26.1`
 - [Item Descriptions](https://modrinth.com/project/item-descriptions) `2.8.5+26.1.2-neoforge`
 - [Jade 🔍](https://modrinth.com/project/jade) `26.1.10+neoforge`
-- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `29.34.0.90`
+- [Just Another Witchery Remake](https://modrinth.com/project/just-another-witchery-remake) `0.5.13.1`
+- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `29.37.0.98`
+- [Keymap [Maintained]](https://modrinth.com/project/keymap-maintained) `0.11.3`
+- [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `6.3.0`
+- [Log Begone](https://modrinth.com/project/log-begone) `1.0.3`
 - [McQoy](https://modrinth.com/project/mcqoy) `0.4.1+fabric-26.1`
+- [MezzConfig](https://modrinth.com/project/mezzconfig) `0.6.8`
+- [ModernFix](https://modrinth.com/project/modernfix) `5.27.22+mc26.1.2`
 - [Modest Magic](https://modrinth.com/project/modest-magic) `1.4.1-26.1.2-neoforge`
+- [Modonomicon](https://modrinth.com/project/modonomicon) `26.1.2-2.3.0`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `26.1-2.31-neoforge`
+- [Moving Elevators](https://modrinth.com/project/moving-elevators) `1.4.12a-neoforge-mc26.1`
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-26.1-v2.19.0`
+- [No Chat Restrictions](https://modrinth.com/project/no-chat-restrictions) `NeoForge-MC26.1-v1.1.3`
 - [Permanent Paintings](https://modrinth.com/project/permanent-paintings) `1.0.0+26.2`
 - [Re vault](https://modrinth.com/project/revault) `1.3.2+mod`
 - [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.4.4+26.1.2-neoforge`
 - [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `1.3.3-26.1.2-neoforge`
 - [Reliable Recipe Viewer (RRV)](https://modrinth.com/project/rrv) `8.10.9+26.1.2-neoforge`
 - [Reliable Recount](https://modrinth.com/project/o123456789-backport) `1.0.1-26.1.2-neoforge`
+- [Scholar](https://modrinth.com/project/scholar) `1.2.5`
 - [Screencopy](https://modrinth.com/project/screencopy) `1.4.0-forge`
+- [Sculk Transporting](https://modrinth.com/project/sculk-transporting) `v1.2.4`
 - [Sinytra Connector](https://modrinth.com/project/connector) `3.0.0-beta.6+26.1.2`
 - [Slime Time](https://modrinth.com/project/slime-time) `1.2.3+26.1.2-neoforge`
+- [Snow Under Trees](https://modrinth.com/project/snow-under-trees) `v1.6.1`
 - [Sodium](https://modrinth.com/project/sodium) `mc26.1.2-0.9.2-neoforge`
+- [Sticky Redstone](https://modrinth.com/project/sticky-redstone) `1.0.1-neoforge-mc26.1`
+- [Street Art](https://modrinth.com/project/street-art) `1.0.14`
+- [Superb Steeds](https://modrinth.com/project/superb-steeds) `26.1-r2`
 - Thaumaturge `thaumaturge-26.1.2-NeoForge-1.0.2.jar` (curseforge)
 - The Aether II `The Aether II - 26.1.2-alpha.4.1-neoforge` (curseforge)
 - [There's Always a Bigger Fish](https://modrinth.com/project/always-a-bigger-fish) `1.2.4+26.1.2-neoforge`

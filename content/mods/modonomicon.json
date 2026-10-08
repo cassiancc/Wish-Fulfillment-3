@@ -1,0 +1,23 @@
+{
+  "name": "Modonomicon",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "692GClaE",
+      "slug": "modonomicon",
+      "versionId": "vZD3m9hF",
+      "versionNumber": "26.1.2-2.3.0",
+      "filename": "modonomicon-26.1.2-neoforge-2.3.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/692GClaE/versions/vZD3m9hF/modonomicon-26.1.2-neoforge-2.3.0.jar",
+      "sha1": "c49a487ad7b85b4e7a572d7c8ac76c79c49e2dce",
+      "sha512": "7b144fda510953f6239245db112e833b9609f15bb169952ff3dd0c361ddd7f98ee3f57f7cca964c9eea9e6a4dac8e6df35422e5068ca533f636e89023547f3d3",
+      "fileSize": 2854387
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

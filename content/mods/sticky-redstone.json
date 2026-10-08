@@ -1,0 +1,23 @@
+{
+  "name": "Sticky Redstone",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "1rA9AFJ9",
+      "slug": "sticky-redstone",
+      "versionId": "Hei2XUdu",
+      "versionNumber": "1.0.1-neoforge-mc26.1",
+      "filename": "stickyredstone-1.0.1-neoforge-mc26.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1rA9AFJ9/versions/Hei2XUdu/stickyredstone-1.0.1-neoforge-mc26.1.jar",
+      "sha1": "e49ff4e2d5f38c9b52f2d0d64e2215478ab1a77b",
+      "sha512": "1321bf18a7a79fcd1b947a3715733d4ae17120d7bf1f5b4f3373171da111491fca420d5fed1d5208403a176f8bb365663920b5f4de8b336265046856883dc759",
+      "fileSize": 482202
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

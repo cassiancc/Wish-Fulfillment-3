@@ -1,0 +1,23 @@
+{
+  "name": "Combat Nouveau",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Iv3kcKZn",
+      "slug": "combat-nouveau",
+      "versionId": "uZO74TET",
+      "versionNumber": "26.1.0",
+      "filename": "CombatNouveau-v26.1.0-mc26.1.x-NeoForge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Iv3kcKZn/versions/uZO74TET/CombatNouveau-v26.1.0-mc26.1.x-NeoForge.jar",
+      "sha1": "08b3de863a71a5d3edf353f5c1d7ca4d75413e4f",
+      "sha512": "9f6cded1d8a594c665729a567cb487643f4865a9e8cd91404c34ef9ec26ac92f0aa10af34fe97abaa08ae6abc3f1dda9ba1e73fa742e522c1a94523d914bc1a4",
+      "fileSize": 87907
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

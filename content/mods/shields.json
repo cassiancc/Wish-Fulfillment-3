@@ -1,0 +1,23 @@
+{
+  "name": "Extra Shields",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "GPVR65Ju",
+      "slug": "shields",
+      "versionId": "Rca9I32H",
+      "versionNumber": "1.4.2+26.1-neoforge",
+      "filename": "ExtraShields-1.4.2+26.1.2-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/GPVR65Ju/versions/Rca9I32H/ExtraShields-1.4.2%2B26.1.2-neoforge.jar",
+      "sha1": "1773237480e35b6508424b1adaabfe44c7f705e5",
+      "sha512": "a932b789bcc9439e12b318bcb838c01f1755c4ddbfa09675e523519de2827db3fc788495d338e01a2b3d9edc3c0063a2b5aa96bb24e010bd67552e133ec64659",
+      "fileSize": 406024
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
