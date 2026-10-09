@@ -1,0 +1,23 @@
+{
+  "name": "Penchant",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "BTORUTmf",
+      "slug": "penchant",
+      "versionId": "7wQW2Zr2",
+      "versionNumber": "0.5.8+mc26.1.2",
+      "filename": "penchant-0.5.8+mc26.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BTORUTmf/versions/7wQW2Zr2/penchant-0.5.8%2Bmc26.1.2.jar",
+      "sha1": "d3fb1378a2726d00f3b93a6510956484f590635e",
+      "sha512": "419ac64a166220179f4afa9084a62213d0e73d6d8173cdf8fd4b92f3182f9d3a99e43e5bba06d7a2a544013be8f123f9315f5ae6be9dd0efe0f3173611701e4b",
+      "fileSize": 617359
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

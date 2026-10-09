@@ -1,0 +1,23 @@
+{
+  "name": "Chase the Skies",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "tTxINQD9",
+      "slug": "chase-the-skies",
+      "versionId": "BOcgulHm",
+      "versionNumber": "3",
+      "filename": "Chase the Skies.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/tTxINQD9/versions/BOcgulHm/Chase%20the%20Skies.zip",
+      "sha1": "aca2133fc60b5433065ccc77c97b5adfe1929063",
+      "sha512": "de6065c61c13c7efc8182fe51441e8dda5e9652d0e94d6845b7df14f77cb7779b25bb6779a9e65d519397f8e2da92efddf46a903a19b36b42f8cf14f9645b394",
+      "fileSize": 1097913
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "CIT Painting Icons",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "dWloHgVp",
+      "slug": "cit-painting-icons",
+      "versionId": "14w4fdeJ",
+      "versionNumber": "1.2",
+      "filename": "CIT Painting Icons v1.2.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/dWloHgVp/versions/14w4fdeJ/CIT%20Painting%20Icons%20v1.2.zip",
+      "sha1": "633a84edd80c4d2d9459ae34ae76fe3a0acf3be6",
+      "sha512": "4ede9fce64856cc2b6b28bc528b97b8e9431eed13317a0f06f1792867b1d63075d5185f4aab2039ff455bed187e0e7046490914331b6b68ce2ec0d49c9fb2d6a",
+      "fileSize": 59671
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

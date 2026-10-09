@@ -1,0 +1,23 @@
+{
+  "name": "Nuit Interop",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "HpdHOPOp",
+      "slug": "nuit-interop",
+      "versionId": "TKaGXiZL",
+      "versionNumber": "mc26.1.2-1.0.0-beta.5+neoforge",
+      "filename": "nuit-interop-neoforge-1.0.0-beta.5+mc26.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/HpdHOPOp/versions/TKaGXiZL/nuit-interop-neoforge-1.0.0-beta.5%2Bmc26.1.2.jar",
+      "sha1": "194b1768309171b57ea1683c115a6bd360326c88",
+      "sha512": "c114eddd89548c28d939c75f99bcc18167fe44500874e3d7bec1d940ccdac5e1a99cf063904959318e92965f54eb9f1f956caebe972e0e75cced525f7528e5aa",
+      "fileSize": 763753
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

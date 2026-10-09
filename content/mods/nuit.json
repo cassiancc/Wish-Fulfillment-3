@@ -1,0 +1,25 @@
+{
+  "name": "Nuit",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "YBz7DOs8",
+      "slug": "nuit",
+      "versionId": "AIXX0xgJ",
+      "versionNumber": "mc26.1.2-1.0.0-beta.5+neoforge",
+      "filename": "nuit-neoforge-1.0.0-beta.5+mc26.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/YBz7DOs8/versions/AIXX0xgJ/nuit-neoforge-1.0.0-beta.5%2Bmc26.1.2.jar",
+      "sha1": "e9c740dfa3a9b309e12b5486c77ae2893a79982f",
+      "sha512": "b282a43e57ff17d6aa3f9f734ba41f7aa61d0b2b06aa8e0d525335dea181b67e05d9ef31943d5906ad8aa25c91ec4e83e7a51bb9ac2a25f3bbddf2768e8f9247",
+      "fileSize": 775396
+    }
+  },
+  "dependents": [
+    "HpdHOPOp"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

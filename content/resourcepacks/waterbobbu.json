@@ -1,0 +1,23 @@
+{
+  "name": "WaterBobbu",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "zR2Fy7SU",
+      "slug": "waterbobbu",
+      "versionId": "2EKpPgYI",
+      "versionNumber": "1.3",
+      "filename": "WaterBobbu_1.3.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/zR2Fy7SU/versions/2EKpPgYI/WaterBobbu_1.3.zip",
+      "sha1": "4d30a376d7faf16a616e3ccf8ec81e026eb2ccfa",
+      "sha512": "46c1038a0882ec832d8e515bf95c6a3731ee22cbe7e47a75e49d293c0a689fa7d9f3f4e40d688bb97bee660f0923275aef9d75009e17db7fcb98b83ce9190de6",
+      "fileSize": 118752
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

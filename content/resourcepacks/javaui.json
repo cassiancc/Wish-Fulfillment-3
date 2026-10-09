@@ -1,0 +1,23 @@
+{
+  "name": "JavaUI",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "NR2rahl9",
+      "slug": "javaui",
+      "versionId": "OE1OYINr",
+      "versionNumber": "1.0",
+      "filename": "JavaUI.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/NR2rahl9/versions/OE1OYINr/JavaUI.zip",
+      "sha1": "930d40d45356522498789824b8202e524b8493a4",
+      "sha512": "79e41772c7875e41e11d8d4347f42e89d8297a9731101ef5d528336049de1c29e9c8394173b2007ef7b511b15ed321731eb0893ca0d45c4f8cc9eeb3cd221fc6",
+      "fileSize": 38952
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

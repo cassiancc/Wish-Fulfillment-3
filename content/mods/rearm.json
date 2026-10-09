@@ -1,0 +1,23 @@
+{
+  "name": "ReArm: Combat Overhaul",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "NHzN2FGz",
+      "slug": "rearm",
+      "versionId": "lAiiROBr",
+      "versionNumber": "2.5.7+26.1.2",
+      "filename": "rearm-neoforge-2.5.7+26.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NHzN2FGz/versions/lAiiROBr/rearm-neoforge-2.5.7%2B26.1.2.jar",
+      "sha1": "dccd60821f7123c5bd72a7140f44f2adda224fa1",
+      "sha512": "6b9ff9de3739dfbac9f0ca72b773acfbb8ec25c8dc877f0d3a5d025b34f2920cb6791fd8d38e10680b35c06973bf2944ceef38850c7b3c6b24ea51c2b1a6dadd",
+      "fileSize": 267272
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

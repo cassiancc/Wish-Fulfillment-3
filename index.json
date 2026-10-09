@@ -53,10 +53,6 @@
       "sha1": "97bec0e796efbc0745c4afa653e9cdab0e5b85f0"
     },
     {
-      "path": "content/mods/combat-nouveau.json",
-      "sha1": "b7bf528fdc43ce225665cc8dc5af398775846637"
-    },
-    {
       "path": "content/mods/connector-extras.json",
       "sha1": "eb5f19b11aeb0184795184ee7b17dce91a046588"
     },
@@ -77,10 +73,6 @@
       "sha1": "49d532a615d66dbdc25dbeaac379f4579945346d"
     },
     {
-      "path": "content/mods/experience-obliterator.json",
-      "sha1": "b451f3bbefb9af30383346c8fdf684d2afef7537"
-    },
-    {
       "path": "content/mods/farmers-delight-refabricated.json",
       "sha1": "b20203d8a045392d35c0815cdb041544908c38ff"
     },
@@ -98,7 +90,11 @@
     },
     {
       "path": "content/mods/forgified-fabric-api.json",
-      "sha1": "dd3d8b869bfd8777553fdbdc31b5c254114e1962"
+      "sha1": "26e9761006f379a6ede9d814a5a0e71a666f51ec"
+    },
+    {
+      "path": "content/mods/fzzy-config.json",
+      "sha1": "df51b94ebbad7dd5383f43bc18b19da0288948b0"
     },
     {
       "path": "content/mods/glow-paste.json",
@@ -158,11 +154,11 @@
     },
     {
       "path": "content/mods/kotlin-for-forge.json",
-      "sha1": "b4eee812335ea0a1cecb8d73aaaf950b8867114f"
+      "sha1": "bc24dca3220f42192c686b228ad8f040e8b4cc0b"
     },
     {
       "path": "content/mods/launchpad.json",
-      "sha1": "9de006191ed9e92a2c01e3efb998e2ec907e8020"
+      "sha1": "763767a1bae324474481271e1bbd93450c0edf8a"
     },
     {
       "path": "content/mods/lithostitched.json",
@@ -181,12 +177,12 @@
       "sha1": "14035e4833067b44ede911e5f5a86c2d45f5386a"
     },
     {
-      "path": "content/mods/modernfix.json",
-      "sha1": "16018cb42f43b6b79ca5352ab9dd486f241ff43d"
+      "path": "content/mods/mixson.json",
+      "sha1": "6704139bc1b51f00e17442b65a4bd8b5d62bd73b"
     },
     {
-      "path": "content/mods/modest-magic.json",
-      "sha1": "f0b3d97df11dddaa38301cea599995cea862ae9b"
+      "path": "content/mods/modernfix.json",
+      "sha1": "16018cb42f43b6b79ca5352ab9dd486f241ff43d"
     },
     {
       "path": "content/mods/modonomicon.json",
@@ -213,8 +209,20 @@
       "sha1": "7c8f3ab0717bdb8d03ed9fd4254befe5cec09c17"
     },
     {
+      "path": "content/mods/nuit-interop.json",
+      "sha1": "406863042b64d0f02ced42348e8ae1157772f59b"
+    },
+    {
+      "path": "content/mods/nuit.json",
+      "sha1": "2bec8962fcedfaa2ad1d5992baa66b50f1c0f7b4"
+    },
+    {
       "path": "content/mods/o123456789-backport.json",
       "sha1": "0df18bf6838a73aeec5ce896d7a629ded890a6da"
+    },
+    {
+      "path": "content/mods/penchant.json",
+      "sha1": "d7f13a7ee9763dcfe7f8b9b464b58b60b3e7430f"
     },
     {
       "path": "content/mods/permanent-paintings.json",
@@ -222,7 +230,11 @@
     },
     {
       "path": "content/mods/puzzles-lib.json",
-      "sha1": "c80c80ffa53751083ff055539ef4176a4c305e07"
+      "sha1": "23da307b5580f050b27a05817daf98770ccfa781"
+    },
+    {
+      "path": "content/mods/rearm.json",
+      "sha1": "e37cadef2bfb73bc30348e0c52b3c54f1fa99a94"
     },
     {
       "path": "content/mods/reconnectible-chains.json",
@@ -263,6 +275,10 @@
     {
       "path": "content/mods/shields.json",
       "sha1": "5a15b0e4ed11a7ac4371fea10a919b134b328766"
+    },
+    {
+      "path": "content/mods/simple-smithing-overhaul.json",
+      "sha1": "748a391849fa281d534225c1d91ae963f6f4889c"
     },
     {
       "path": "content/mods/slime-time.json",
@@ -318,7 +334,23 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "a367bc57244802c5c258b803608da50c3c057dbf"
+      "sha1": "6dc41504623350c89d927410192a5a92dd02be1a"
+    },
+    {
+      "path": "content/resourcepacks/chase-the-skies.json",
+      "sha1": "087b0587871353d32c8f3bf7ba155d81c12fef81"
+    },
+    {
+      "path": "content/resourcepacks/cit-painting-icons.json",
+      "sha1": "269f06a12b43b1340703fbd27c8430cec32783aa"
+    },
+    {
+      "path": "content/resourcepacks/javaui.json",
+      "sha1": "33a3d8677a0d958215a886b9d26c054e68e02dd8"
+    },
+    {
+      "path": "content/resourcepacks/waterbobbu.json",
+      "sha1": "ec91634264f88235d39bda2e1581ea059ba2db6c"
     },
     {
       "path": "overrides/config/MouseTweaks.cfg",
