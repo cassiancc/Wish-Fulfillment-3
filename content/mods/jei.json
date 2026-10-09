@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "u6dRKJwZ",
       "slug": "jei",
-      "versionId": "zzwHVX9f",
-      "versionNumber": "29.37.0.98",
-      "filename": "jei-26.1.2-neoforge-29.37.0.98.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/zzwHVX9f/jei-26.1.2-neoforge-29.37.0.98.jar",
-      "sha1": "81418c43398058f90989a128e9ab37f597dffa91",
-      "sha512": "f5d46da9476999d7959eca700ac1a63edd634c83c25090eefb38c65c1f105ada21f8ca5d36a73a3e25b1706d0b62afc3292e7b804f80a87cbf7468349e9fa076",
-      "fileSize": 1872075
+      "versionId": "bEulRYY2",
+      "versionNumber": "29.43.0.107",
+      "filename": "jei-26.1.2-neoforge-29.43.0.107.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/bEulRYY2/jei-26.1.2-neoforge-29.43.0.107.jar",
+      "sha1": "8c5462e8e6af9ac4dd8b881091667ea0fd1ee3b2",
+      "sha512": "abf545dab1163218701874289a296731a93067a7e8571024798b4f9439b1b21297383e01d491fd0a23b5d9795d8db7e8419c7e142dd90424ec1777ac5174ac5c",
+      "fileSize": 2277277
     }
   },
   "dependents": [],

@@ -1,6 +1,6 @@
 # Wish Fulfillment 3
 
-**Minecraft 26.1.2 · neoforge 26.1.2.114**, 76 mods (14 dependencies), 4 resource packs
+**Minecraft 26.1.2 · neoforge 26.1.2.114**, 75 mods (14 dependencies), 4 resource packs
 
 ## Contents
 
@@ -40,8 +40,9 @@
 - [Item Descriptions](https://modrinth.com/project/item-descriptions) `2.8.5+26.1.2-neoforge`
 - [Jade 🔍](https://modrinth.com/project/jade) `26.1.10+neoforge`
 - [JavaUI](https://modrinth.com/project/javaui) `1.0`
+- [JEIOptimizer](https://modrinth.com/project/jeioptimizer) `1.2.0-29.43`
 - [Just Another Witchery Remake](https://modrinth.com/project/just-another-witchery-remake) `0.5.13.1`
-- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `29.37.0.98`
+- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `29.43.0.107`
 - [Keymap [Maintained]](https://modrinth.com/project/keymap-maintained) `0.11.3`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `6.3.0`
 - [Log Begone](https://modrinth.com/project/log-begone) `1.0.3`
@@ -63,8 +64,6 @@
 - [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.4.4+26.1.2-neoforge`
 - [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `1.3.3-26.1.2-neoforge`
 - [Reliable Name Tags](https://modrinth.com/project/reliable-name-tags) `2.0.0+26.1.2-fabric`
-- [Reliable Recipe Viewer (RRV)](https://modrinth.com/project/rrv) `8.10.9+26.1.2-neoforge`
-- [Reliable Recipe Viewer Addons](https://modrinth.com/project/rrv-addons) `1.0.2+26.1.2-neoforge`
 - [Reliable Recount](https://modrinth.com/project/o123456789-backport) `1.0.1-26.1.2-neoforge`
 - [Scholar](https://modrinth.com/project/scholar) `1.2.5`
 - [Screencopy](https://modrinth.com/project/screencopy) `1.4.0-forge`

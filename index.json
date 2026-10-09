@@ -150,7 +150,11 @@
     },
     {
       "path": "content/mods/jei.json",
-      "sha1": "26ddb0530c6cf75021c0aa892eace5eec8b16171"
+      "sha1": "5aa2a1f31789d2f7a2e8249bc9b67968a945957c"
+    },
+    {
+      "path": "content/mods/jeioptimizer.json",
+      "sha1": "ba9f42a8d520cc7f271599729b6b720cf3db3db8"
     },
     {
       "path": "content/mods/just-another-witchery-remake.json",
@@ -182,7 +186,7 @@
     },
     {
       "path": "content/mods/mezzconfig.json",
-      "sha1": "14035e4833067b44ede911e5f5a86c2d45f5386a"
+      "sha1": "8ca39df7d26ebdd54de75ff0ea0a99c5f102648a"
     },
     {
       "path": "content/mods/mixson.json",
@@ -263,14 +267,6 @@
     {
       "path": "content/mods/revault.json",
       "sha1": "02222b065da3c012297ed4d45d68fc5324e67e35"
-    },
-    {
-      "path": "content/mods/rrv-addons.json",
-      "sha1": "1101cb16fa18467d605b8d6796e540b3190f6513"
-    },
-    {
-      "path": "content/mods/rrv.json",
-      "sha1": "095a51b1576f00af8cdcd44504d7560ce95afaab"
     },
     {
       "path": "content/mods/scholar.json",
@@ -781,8 +777,8 @@
       "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2"
     },
     {
-      "path": "overrides/mods/reliable-recipe-viewer-8.10.10+26.1.2-neoforge.jar",
-      "sha1": "0b17870e19f3c7caf91789a849e8f79fbe8da9af"
+      "path": "overrides/mods/jei-bridge-2.0.4+26.1.2+dev-g0f36aae.jar",
+      "sha1": "7f76f64b9c2f65ccb773e5c4854b310536a093ba"
     },
     {
       "path": "overrides/mods/wish-fulfillment-1.0.0.jar",

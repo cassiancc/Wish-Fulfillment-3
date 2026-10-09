@@ -1,0 +1,23 @@
+{
+  "name": "JEIOptimizer",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "GRvMb5oF",
+      "slug": "jeioptimizer",
+      "versionId": "izcsvV3I",
+      "versionNumber": "1.2.0-29.43",
+      "filename": "jeioptimizer-26.1.2-1.2.0-29.43.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/GRvMb5oF/versions/izcsvV3I/jeioptimizer-26.1.2-1.2.0-29.43.jar",
+      "sha1": "5344be902f7f87ba13c43c24fecbbc8caf9bf30b",
+      "sha512": "2bb7d473dea06b4efd3378c413958b7868e392ceb54374e859a2655f931745f84145c83cd633c37d09e9085a7095efd0bf15dbddf229f29a5ace50520180df6e",
+      "fileSize": 26504
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}
