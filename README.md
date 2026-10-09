@@ -1,12 +1,14 @@
 # Wish Fulfillment 3
 
-**Minecraft 26.1.2 · neoforge 26.1.2.114**, 65 mods (12 dependencies)
+**Minecraft 26.1.2 · neoforge 26.1.2.114**, 68 mods (12 dependencies)
 
 ## Contents
 
+- [Additional Additions: Vanilla+ QoL, Sniffers, Music, Food](https://modrinth.com/project/addadd) `10.0.11+26.1.x-neoforge`
 - [Aurora's Lanterns](https://modrinth.com/project/auroraslanterns) `2.0.1+26.1.2`
 - [Better ModList](https://modrinth.com/project/better-modlist) `26.1.7`
 - [Better Statistics Screen](https://modrinth.com/project/better-stats) `5.5.6+fn-26.1`
+- [BetterF3](https://modrinth.com/project/betterf3) `18.0.2`
 - [Bridging Mod](https://modrinth.com/project/bridging-mod) `2.6.6+26.1.neoforge`
 - [Cascades](https://modrinth.com/project/hybrid-beta) `1.0.6+mod`
 - [Chat Heads](https://modrinth.com/project/chat-heads) `1.3.2`
@@ -52,6 +54,7 @@
 - [Re vault](https://modrinth.com/project/revault) `1.3.2+mod`
 - [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.4.4+26.1.2-neoforge`
 - [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `1.3.3-26.1.2-neoforge`
+- [Reliable Name Tags](https://modrinth.com/project/reliable-name-tags) `2.0.0+26.1.2-fabric`
 - [Reliable Recipe Viewer (RRV)](https://modrinth.com/project/rrv) `8.10.9+26.1.2-neoforge`
 - [Reliable Recipe Viewer Addons](https://modrinth.com/project/rrv-addons) `1.0.2+26.1.2-neoforge`
 - [Reliable Recount](https://modrinth.com/project/o123456789-backport) `1.0.1-26.1.2-neoforge`

@@ -1,0 +1,23 @@
+{
+  "name": "Reliable Name Tags",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "xvUE2Syx",
+      "slug": "reliable-name-tags",
+      "versionId": "qQsc2FiN",
+      "versionNumber": "2.0.0+26.1.2-fabric",
+      "filename": "reliablenametags-2.0.0+26.1.2-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/xvUE2Syx/versions/qQsc2FiN/reliablenametags-2.0.0%2B26.1.2-fabric.jar",
+      "sha1": "693cb5f2833ab8ea7d17e0dedfe40d493b63b29a",
+      "sha512": "cf8391f9a2c31698c3d611358c1c9c53f36babc67aee6302d563e38d671e81ecb417b82d8478c9724db80a21e703ac7654c881db841ae12c7898a05b9a2539c3",
+      "fileSize": 558548
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

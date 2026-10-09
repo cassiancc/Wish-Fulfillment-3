@@ -1,6 +1,10 @@
 {
   "files": [
     {
+      "path": "content/mods/addadd.json",
+      "sha1": "9099a00c2706f3708de729af38dfadb2a40d1806"
+    },
+    {
       "path": "content/mods/aether-ii.json",
       "sha1": "db91f548701c2c3a0718da4db117cd5ed0fa11ce"
     },
@@ -21,6 +25,10 @@
       "sha1": "8b59e85fb5cb7b9bf9290652baf40f897c3c28fb"
     },
     {
+      "path": "content/mods/betterf3.json",
+      "sha1": "35b6228bef09cedcc9f5752c57ca810f79f53e41"
+    },
+    {
       "path": "content/mods/bridging-mod.json",
       "sha1": "3d449a6e1bc235d79c996ce34c38bd8198bee82e"
     },
@@ -38,7 +46,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "849e54348375f8896b2d9423559d850f796db0e1"
+      "sha1": "592c87cdb51ce7eedefac66924cf3249cac48298"
     },
     {
       "path": "content/mods/clutter-no-more.json",
@@ -223,6 +231,10 @@
     {
       "path": "content/mods/reliable-gliders.json",
       "sha1": "861f79668605d108adba09f4451ea2c3b6632166"
+    },
+    {
+      "path": "content/mods/reliable-name-tags.json",
+      "sha1": "f593078898a64ad401f7dab693dca6beed10d22a"
     },
     {
       "path": "content/mods/revault.json",
@@ -478,7 +490,7 @@
     },
     {
       "path": "overrides/config/keymap.json",
-      "sha1": "94bef4c696c3be383af7d9ac40786e6686c68075"
+      "sha1": "cc7f0347e5f8199fbcd98244f9f30b097dd098e0"
     },
     {
       "path": "overrides/config/lithostitched.json",
@@ -515,6 +527,10 @@
     {
       "path": "overrides/mods/reliable-recipe-viewer-8.10.10+26.1.2-neoforge.jar",
       "sha1": "0b17870e19f3c7caf91789a849e8f79fbe8da9af"
+    },
+    {
+      "path": "overrides/mods/vaulted-end-1.7.0.jar",
+      "sha1": "e5af0936434d1a0bb10461f37d000788b73884d7"
     },
     {
       "path": "overrides/mods/wish-fulfillment-1.0.0.jar",

@@ -1,0 +1,23 @@
+{
+  "name": "Additional Additions: Vanilla+ QoL, Sniffers, Music, Food",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "R4TvILfj",
+      "slug": "addadd",
+      "versionId": "2NgNd3pK",
+      "versionNumber": "10.0.11+26.1.x-neoforge",
+      "filename": "additionaladditions-neoforge-10.0.11.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/R4TvILfj/versions/2NgNd3pK/additionaladditions-neoforge-10.0.11.jar",
+      "sha1": "8cacc3767c7327fdcb74d7d2ea225cecd5ac4983",
+      "sha512": "0e91df307f364985984ce6d991e9dad78c9e505f931603ca195466a01db456dee3f80c49bafc04da671afc97e85913b22de382c657176d84ce051181b1c7e929",
+      "fileSize": 4490157
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
