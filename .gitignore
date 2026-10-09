@@ -61,3 +61,10 @@ data/surveyor/*
 data/scholar_loaded_built_in_resource_packs.dat
 icon.png
 config/NoChatReports/README.md
+*.bak.1
+config/jei/world/local/*
+polymer/resource_pack.zip
+config/jade/profiles/*
+config/iris-excluded.json
+config/iris.properties
+config/mcqoy.toml

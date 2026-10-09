@@ -1,0 +1,4 @@
+{
+	// Last resort for if something goes terribly wrong. Please report the issue and don't just ignore it!
+	ignoreEverything: false
+}

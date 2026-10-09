@@ -1,0 +1,13 @@
+{
+  "config_version_do_not_touch": 2,
+  "recipeSharing": true,
+  "synchronizedRecipeSerializers": [],
+  "synchronizedRecipeTypes": [
+    "minecraft:crafting",
+    "minecraft:smelting",
+    "minecraft:blasting",
+    "minecraft:campfire_cooking",
+    "minecraft:smoking",
+    "minecraft:smithing"
+  ]
+}

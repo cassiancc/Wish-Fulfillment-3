@@ -337,6 +337,146 @@
       "sha1": "3c04f45c210048b5e722b294dcc0d9f073374160"
     },
     {
+      "path": "overrides/config/additionaladditions/album.json5",
+      "sha1": "32c74d66ccb3f3a6cddb882206ff2d15ea38afc9"
+    },
+    {
+      "path": "overrides/config/additionaladditions/barometer.json5",
+      "sha1": "bab744671ce479ae243348e7e04256c125af1099"
+    },
+    {
+      "path": "overrides/config/additionaladditions/berry_pie.json5",
+      "sha1": "5050a4eff6b0973d444198dffbccb6ece4089ee1"
+    },
+    {
+      "path": "overrides/config/additionaladditions/chicken_nugget.json5",
+      "sha1": "e650355f91c6fb609c2383724dd24014629aae0b"
+    },
+    {
+      "path": "overrides/config/additionaladditions/copper_patina.json5",
+      "sha1": "5fabf2592ff374e88f7c1b0ebe11274ad755de43"
+    },
+    {
+      "path": "overrides/config/additionaladditions/fried_egg.json5",
+      "sha1": "e650355f91c6fb609c2383724dd24014629aae0b"
+    },
+    {
+      "path": "overrides/config/additionaladditions/glow_stick.json5",
+      "sha1": "5fabf2592ff374e88f7c1b0ebe11274ad755de43"
+    },
+    {
+      "path": "overrides/config/additionaladditions/honeyed_apple.json5",
+      "sha1": "1f7bafcfabcb7114117b9ae4f7da66b75dc7916b"
+    },
+    {
+      "path": "overrides/config/additionaladditions/music_discs/0308.json5",
+      "sha1": "5fabf2592ff374e88f7c1b0ebe11274ad755de43"
+    },
+    {
+      "path": "overrides/config/additionaladditions/music_discs/1007.json5",
+      "sha1": "5fabf2592ff374e88f7c1b0ebe11274ad755de43"
+    },
+    {
+      "path": "overrides/config/additionaladditions/music_discs/1507.json5",
+      "sha1": "5fabf2592ff374e88f7c1b0ebe11274ad755de43"
+    },
+    {
+      "path": "overrides/config/additionaladditions/pocket_jukebox.json5",
+      "sha1": "5fabf2592ff374e88f7c1b0ebe11274ad755de43"
+    },
+    {
+      "path": "overrides/config/additionaladditions/powered_rails_copper_recipe.json5",
+      "sha1": "5fabf2592ff374e88f7c1b0ebe11274ad755de43"
+    },
+    {
+      "path": "overrides/config/additionaladditions/rope.json5",
+      "sha1": "894cae11d94b343b7212fa608434efa32db937c3"
+    },
+    {
+      "path": "overrides/config/additionaladditions/rose_gold/axe.json5",
+      "sha1": "c3841f40fdceadd5e75a7fd0a8d71d711c720d38"
+    },
+    {
+      "path": "overrides/config/additionaladditions/rose_gold/body_armor.json5",
+      "sha1": "c33f794c45a4502fb412cb72d9f365a2b10e7df7"
+    },
+    {
+      "path": "overrides/config/additionaladditions/rose_gold/boots.json5",
+      "sha1": "8a1711ee6b326336abeb62c19382d82162361cf1"
+    },
+    {
+      "path": "overrides/config/additionaladditions/rose_gold/chestplate.json5",
+      "sha1": "16b949231459c246ae03919a925636710be4748c"
+    },
+    {
+      "path": "overrides/config/additionaladditions/rose_gold/enabled.json5",
+      "sha1": "5fabf2592ff374e88f7c1b0ebe11274ad755de43"
+    },
+    {
+      "path": "overrides/config/additionaladditions/rose_gold/helmet.json5",
+      "sha1": "82f9ce7972738d39f48fb67b7b0f22df461b4740"
+    },
+    {
+      "path": "overrides/config/additionaladditions/rose_gold/hoe.json5",
+      "sha1": "16091f1374ed16fe620807cabebdc0568ad21447"
+    },
+    {
+      "path": "overrides/config/additionaladditions/rose_gold/leggings.json5",
+      "sha1": "b4b54be1ffb020525f8e264b67e9bacce78b48db"
+    },
+    {
+      "path": "overrides/config/additionaladditions/rose_gold/material.json5",
+      "sha1": "b07ba606ec401651e853945545c66caa29443672"
+    },
+    {
+      "path": "overrides/config/additionaladditions/rose_gold/pickaxe.json5",
+      "sha1": "701cce3814cbfa13b135842aa8a55613dc7f7108"
+    },
+    {
+      "path": "overrides/config/additionaladditions/rose_gold/shovel.json5",
+      "sha1": "1bc97e324b279b8491ec18ad2fee4fa1b4a45239"
+    },
+    {
+      "path": "overrides/config/additionaladditions/rose_gold/spear.json5",
+      "sha1": "738108f845e1b32719168573287394a945b3b56e"
+    },
+    {
+      "path": "overrides/config/additionaladditions/rose_gold/sword.json5",
+      "sha1": "7fdc20a489fcfe8c5e599ee27f5fcaa017f1fd06"
+    },
+    {
+      "path": "overrides/config/additionaladditions/shipwreck_spyglass_loot.json5",
+      "sha1": "5fabf2592ff374e88f7c1b0ebe11274ad755de43"
+    },
+    {
+      "path": "overrides/config/additionaladditions/sniffer_plants.json5",
+      "sha1": "5fabf2592ff374e88f7c1b0ebe11274ad755de43"
+    },
+    {
+      "path": "overrides/config/additionaladditions/suspicious_dye.json5",
+      "sha1": "fe4e8c7feaaa8445d1043c6c8ce9d2355fdcec76"
+    },
+    {
+      "path": "overrides/config/additionaladditions/tinted_redstone_lamp.json5",
+      "sha1": "4874699ec95936e9c1cd75eb9010825a2fa77838"
+    },
+    {
+      "path": "overrides/config/additionaladditions/trident_shard.json5",
+      "sha1": "5fabf2592ff374e88f7c1b0ebe11274ad755de43"
+    },
+    {
+      "path": "overrides/config/additionaladditions/version.json5",
+      "sha1": "0867dca8f1ce450a76cb2cb4cc22ba9f7dc4f5ee"
+    },
+    {
+      "path": "overrides/config/additionaladditions/watering_can.json5",
+      "sha1": "74b64296a82b7dddddc17480b42a47cc3cb79aea"
+    },
+    {
+      "path": "overrides/config/additionaladditions/wrench.json5",
+      "sha1": "ad899130fc5d5f503e3e5d6eb5fb05325e19b5ac"
+    },
+    {
       "path": "overrides/config/aether_ii-common.toml",
       "sha1": "8ac8c3f91d15563435360f0cec512fae554470d2"
     },
@@ -347,6 +487,10 @@
     {
       "path": "overrides/config/better_modlist-client.toml",
       "sha1": "aef39373409d6015999118d9037cc8348af6dc68"
+    },
+    {
+      "path": "overrides/config/betterf3.json",
+      "sha1": "3c78f121c1010ca3f45c3e066e198093e9ee0e13"
     },
     {
       "path": "overrides/config/bigger_fish.toml",
@@ -497,6 +641,42 @@
       "sha1": "25a9fbeb8f4983e718327cb08392e755e2730f95"
     },
     {
+      "path": "overrides/config/logbegone.json",
+      "sha1": "e0f8809be7f0c57abae0d7b136981b994f2737b7"
+    },
+    {
+      "path": "overrides/config/modestmagic.json",
+      "sha1": "256d51981beeeed55f1092667b1dfef3aa2002d4"
+    },
+    {
+      "path": "overrides/config/neoforge-client.toml",
+      "sha1": "313d8a293f1860e8c62297215d7032fdb603f26b"
+    },
+    {
+      "path": "overrides/config/neoforge-common.toml",
+      "sha1": "81ca4ecf57a9a8e9df01e6d8ecb939faf088b915"
+    },
+    {
+      "path": "overrides/config/neoforge-server.toml",
+      "sha1": "9ad07b62d9ad75ae6131648b1331ccd9169492b6"
+    },
+    {
+      "path": "overrides/config/o123456789.json",
+      "sha1": "cdfa96297b1ef9db255932ac50b2c17a8d8f065b"
+    },
+    {
+      "path": "overrides/config/permanent_paintings.toml",
+      "sha1": "67a32d3f958f25804d857be3881a91c7d421a481"
+    },
+    {
+      "path": "overrides/config/reliable_gliders.json",
+      "sha1": "3f6068ae4a06001b0cddf2572cf1729efc22f220"
+    },
+    {
+      "path": "overrides/config/reliablenametags.toml",
+      "sha1": "6f341f6e7a864dad466228f386bd72ed3c7504fc"
+    },
+    {
       "path": "overrides/config/rrv/bookmarks.json",
       "sha1": "a78ffc7c73da6bf1af76fdaf5a2dddb4d9ffb1b8"
     },
@@ -509,8 +689,24 @@
       "sha1": "7df25b66e36d6a9516319979a9f0b7888b997120"
     },
     {
+      "path": "overrides/config/rrv/server_settings.json",
+      "sha1": "e8162778a950a817d391e0af7a5fc7cd73c9aafa"
+    },
+    {
       "path": "overrides/config/rrv/stack_groups.json",
       "sha1": "0998f4aa9fe238881a8e7ec8ba814305760cfe09"
+    },
+    {
+      "path": "overrides/config/scholar-client.toml",
+      "sha1": "cb144a8c97f525d725737c075e15035c4315e659"
+    },
+    {
+      "path": "overrides/config/scholar-common.toml",
+      "sha1": "ee8ae7e2531aa3e36878fb8dc78274c0bc698eed"
+    },
+    {
+      "path": "overrides/config/screencopy.toml",
+      "sha1": "e709806d3332309ef267ac8cffcf1c5400608b09"
     },
     {
       "path": "overrides/config/slime_time.toml",
@@ -519,6 +715,14 @@
     {
       "path": "overrides/config/snowundertrees-common.toml",
       "sha1": "01c47c75f96e46c743e2c852ddac61512de666b0"
+    },
+    {
+      "path": "overrides/config/street_art.json5",
+      "sha1": "5a2a646d304b99ff8095be109f86f99f7da1aa1b"
+    },
+    {
+      "path": "overrides/config/surveyor.toml",
+      "sha1": "5aada439f8d0ed90d1960a6c2f855812b83341f1"
     },
     {
       "path": "overrides/config/yacl.json5",
