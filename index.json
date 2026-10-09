@@ -73,6 +73,14 @@
       "sha1": "49d532a615d66dbdc25dbeaac379f4579945346d"
     },
     {
+      "path": "content/mods/enderscape.json",
+      "sha1": "7bce637413ef3d185b3464c9702febcd7767d6de"
+    },
+    {
+      "path": "content/mods/experimentalist.json",
+      "sha1": "767c78b110f869264dc8ac4bd58138430e6956fa"
+    },
+    {
       "path": "content/mods/farmers-delight-refabricated.json",
       "sha1": "b20203d8a045392d35c0815cdb041544908c38ff"
     },
@@ -94,7 +102,7 @@
     },
     {
       "path": "content/mods/fzzy-config.json",
-      "sha1": "df51b94ebbad7dd5383f43bc18b19da0288948b0"
+      "sha1": "9c9106236adc7587c2f9d6408a1382bb096bf6c7"
     },
     {
       "path": "content/mods/glow-paste.json",
@@ -162,7 +170,7 @@
     },
     {
       "path": "content/mods/lithostitched.json",
-      "sha1": "17a3cff160a40b940189626883debc43a08281aa"
+      "sha1": "c1cd4204e17f372fdc889760cd8a4c1d6024631c"
     },
     {
       "path": "content/mods/log-begone.json",
@@ -233,6 +241,10 @@
       "sha1": "23da307b5580f050b27a05817daf98770ccfa781"
     },
     {
+      "path": "content/mods/raised.json",
+      "sha1": "5903cd71c2ae929e190f4c214cb0f325666c5d4e"
+    },
+    {
       "path": "content/mods/rearm.json",
       "sha1": "e37cadef2bfb73bc30348e0c52b3c54f1fa99a94"
     },
@@ -271,6 +283,10 @@
     {
       "path": "content/mods/sculk-transporting.json",
       "sha1": "429d531f2a855a28a99b54e5d6ac0072a1ca6696"
+    },
+    {
+      "path": "content/mods/sensible-stackables.json",
+      "sha1": "5f5466516bf0760c610cba90c586d5665d3e61fd"
     },
     {
       "path": "content/mods/shields.json",
@@ -329,12 +345,16 @@
       "sha1": "dcca7c684f5ce700018618a4a9ef814b9cf094ea"
     },
     {
+      "path": "content/mods/trim-patcher.json",
+      "sha1": "f59971d0fb114d2c969d031a832284d925c303c0"
+    },
+    {
       "path": "content/mods/unified-api.json",
       "sha1": "5172bf773dd31412046dde157d0a2b321e79364f"
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "6dc41504623350c89d927410192a5a92dd02be1a"
+      "sha1": "a43a7acb78496539105e9227057fc5688393556b"
     },
     {
       "path": "content/resourcepacks/chase-the-skies.json",
@@ -718,7 +738,7 @@
     },
     {
       "path": "overrides/config/rrv/recipe_categories.json",
-      "sha1": "7df25b66e36d6a9516319979a9f0b7888b997120"
+      "sha1": "13ff9922bded44cce6816ca4194be2e9180ec760"
     },
     {
       "path": "overrides/config/rrv/server_settings.json",
@@ -765,12 +785,8 @@
       "sha1": "0b17870e19f3c7caf91789a849e8f79fbe8da9af"
     },
     {
-      "path": "overrides/mods/vaulted-end-1.7.0.jar",
-      "sha1": "e5af0936434d1a0bb10461f37d000788b73884d7"
-    },
-    {
       "path": "overrides/mods/wish-fulfillment-1.0.0.jar",
-      "sha1": "eabfdb55c9e635ecb6934793328713d1481050ef"
+      "sha1": "be873687f7d515bb4723c922d96da0bd50fff471"
     }
   ]
 }

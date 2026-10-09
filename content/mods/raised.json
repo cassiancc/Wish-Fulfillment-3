@@ -1,0 +1,23 @@
+{
+  "name": "Raised",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "nCQRBEiR",
+      "slug": "raised",
+      "versionId": "GOK34QDf",
+      "versionNumber": "NeoForge-26.1.2-6.0.2",
+      "filename": "raised-neoforge-26.1.2-6.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/nCQRBEiR/versions/GOK34QDf/raised-neoforge-26.1.2-6.0.2.jar",
+      "sha1": "3bd989e18e50c816893009e918973fffdc75da6b",
+      "sha512": "dcc24d6a9b7bfdd2c5484faf0d62d1f99c0f5ecafb32776639d2492c6643b1b36b6e7292813520172d8f267d30477120e69aeada301ec628366e915492e70f20",
+      "fileSize": 136219
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

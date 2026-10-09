@@ -103,6 +103,14 @@
     "farmersdelight:decomposition": {
       "enabled": true,
       "priority": 14
+    },
+    "enderscape:rustle": {
+      "enabled": true,
+      "priority": 12
+    },
+    "enderscape:void_lachryma": {
+      "enabled": true,
+      "priority": 13
     }
   }
 }

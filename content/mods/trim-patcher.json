@@ -1,0 +1,25 @@
+{
+  "name": "Trim Patcher",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "bNK1MS7o",
+      "slug": "trim-patcher",
+      "versionId": "Dx6JqHzq",
+      "versionNumber": "2.1-mc26.1-neoforge",
+      "filename": "Trim Patcher-2.1-mc26.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/bNK1MS7o/versions/Dx6JqHzq/Trim%20Patcher-2.1-mc26.1-neoforge.jar",
+      "sha1": "ca8467e1dd8557f2c554505051f1cc3878a4fa8b",
+      "sha512": "9b533378898900d7f46e08e176646db8e6bae27b896d9e5199b6288b8a4ffe5b56ebaecddf0f5a725be486cfbdc9fcc3c0f964e76959a324ed7bf8c2a955f13c",
+      "fileSize": 36669
+    }
+  },
+  "dependents": [
+    "btCrWvHr"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

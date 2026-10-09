@@ -1,0 +1,23 @@
+{
+  "name": "Experimentalist",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "SKCLXAJ2",
+      "slug": "experimentalist",
+      "versionId": "r8Mcih9b",
+      "versionNumber": "2.0.5+26.1-neoforge",
+      "filename": "experimentalist-2.0.5+26.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/SKCLXAJ2/versions/r8Mcih9b/experimentalist-2.0.5%2B26.1-neoforge.jar",
+      "sha1": "7678a717e0d061e9cf91eb8e02f274ccbe06033c",
+      "sha512": "27ecc21e95637a36d5aacd0d29a8ad3f8a107f62f17d4c770508f34a44cd56758fac1f201a01d9494a04eed5de7a3b3bc22a407ca80a1a3ebbe6e41bb6809ac2",
+      "fileSize": 60544
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

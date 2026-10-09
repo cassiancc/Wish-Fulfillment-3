@@ -1,0 +1,23 @@
+{
+  "name": "Enderscape",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "btCrWvHr",
+      "slug": "enderscape",
+      "versionId": "N7HhWOxJ",
+      "versionNumber": "3.0.2",
+      "filename": "enderscape-fabric-3.0.2+mc26.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/btCrWvHr/versions/N7HhWOxJ/enderscape-fabric-3.0.2%2Bmc26.1.2.jar",
+      "sha1": "89bd1dcfeca4e47e8afecc84f1ad3ed8e174f6e3",
+      "sha512": "5ab2d248135e7d00e7415e6a5c5797a2056931de263648d1b3e3de63f13e594523220cd36c97b0e925d513c56fad04475954e9dd8d6982b7e153c48fd964438e",
+      "fileSize": 104145450
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

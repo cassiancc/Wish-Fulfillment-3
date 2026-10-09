@@ -3,22 +3,23 @@
   "side": "auto",
   "explicit": false,
   "disabled": false,
-  "preferred": "curseforge",
+  "preferred": "modrinth",
   "sources": {
-    "curseforge": {
-      "id": "936015",
+    "modrinth": {
+      "id": "XaDC71GB",
       "slug": "lithostitched",
-      "versionId": "8944658",
-      "versionNumber": "v1.8.0 ~ Neoforge 26.1",
+      "versionId": "jsm1eBZo",
+      "versionNumber": "1.8.0-neoforge-26.1",
       "filename": "lithostitched-1.8.0-neoforge-26.1.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/8944/658/lithostitched-1.8.0-neoforge-26.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/XaDC71GB/versions/jsm1eBZo/lithostitched-1.8.0-neoforge-26.1.jar",
       "sha1": "9300373bdd523ebd9e18320961edb710db8dc465",
+      "sha512": "6a9cbe420832a6aa7ca3d5e28e65a11ee09f12942f48491744599733ceaee1606401dac563f261cb29efd698bdeb84dc97d05bd0a97bafffa0224e562184cbac",
       "fileSize": 1021057
     }
   },
   "dependents": [
-    "1628024"
+    "btCrWvHr"
   ],
-  "clientSide": "required",
+  "clientSide": "unsupported",
   "serverSide": "required"
 }

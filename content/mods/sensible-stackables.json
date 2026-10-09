@@ -1,0 +1,23 @@
+{
+  "name": "Sensible Stackables",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "5lQcMjaC",
+      "slug": "sensible-stackables",
+      "versionId": "cd8fC0MR",
+      "versionNumber": "3.1.1+26.1.2",
+      "filename": "sensible_stackables-neoforge-3.1.1+26.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/5lQcMjaC/versions/cd8fC0MR/sensible_stackables-neoforge-3.1.1%2B26.1.2.jar",
+      "sha1": "f2f92ef55632b583e76cb1d4dc8a5445077b0293",
+      "sha512": "0f924bfaf3050243ee1e3e1292fc0bf28a81fc75ab99503961876c4d76381592acfe5f107d64c4b11b408b159f71b8dbee4783f9634a136149c3a25273427d4d",
+      "fileSize": 63091
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
