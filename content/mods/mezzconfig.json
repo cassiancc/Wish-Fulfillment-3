@@ -15,6 +15,16 @@
       "sha1": "7b25d2cd33d9d6c71712355d0d2f07ab65f66382",
       "sha512": "6cc0a5cb45204636b21aa193845fdaafa866759a756b12e975ff313fb14e1ec81f0b3bf256979b6bd3424d3dddac93f48cda64b9370f8e92ff70fc7f7a14ee08",
       "fileSize": 327190
+    },
+    "curseforge": {
+      "id": "1689768",
+      "slug": "mezzconfig",
+      "versionId": "9048671",
+      "versionNumber": "MezzConfig 0.6.8 for NeoForge 26.1.2",
+      "filename": "mezz_config-26.1.2-neoforge-0.6.8-standalone.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9048/671/mezz_config-26.1.2-neoforge-0.6.8-standalone.jar",
+      "sha1": "7b25d2cd33d9d6c71712355d0d2f07ab65f66382",
+      "fileSize": 327190
     }
   },
   "dependents": [

@@ -1,7 +1,7 @@
 {
   "name": "SuperMartijn642's Core Lib",
   "side": "auto",
-  "explicit": false,
+  "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
   "sources": {
@@ -14,6 +14,16 @@
       "downloadUrl": "https://cdn.modrinth.com/data/rOUBggPv/versions/hQ4d4zUa/supermartijn642corelib-1.1.25-neoforge-mc26.1.jar",
       "sha1": "afeaceb047c63488b6eac29703e1bdac3301e471",
       "sha512": "a11b5f3b3ae7bb0b5d1b708dd55084098065a80cf20d582742d9ff2e919bdc9a220c4eac984ddd3ce0e671c77c653b45f5178d74db80c1af66ef32e423882a2e",
+      "fileSize": 609092
+    },
+    "curseforge": {
+      "id": "454372",
+      "slug": "supermartijn642s-core-lib",
+      "versionId": "9083828",
+      "versionNumber": "SuperMartijn642's Core Lib 1.1.25 for NeoForge 26.1",
+      "filename": "supermartijn642corelib-1.1.25-neoforge-mc26.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9083/828/supermartijn642corelib-1.1.25-neoforge-mc26.1.jar",
+      "sha1": "afeaceb047c63488b6eac29703e1bdac3301e471",
       "fileSize": 609092
     }
   },

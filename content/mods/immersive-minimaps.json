@@ -15,6 +15,16 @@
       "sha1": "58ec4a319b7583e91b181735aaa4f29eb7a10b3b",
       "sha512": "cbee578ec83caef87c9374c9954784363e78a03ee42a1616bb26160a79f15f716abf314201bb8a2d968c01d6dad9e1467313287941beb920ba58b4b47f496380",
       "fileSize": 1823071
+    },
+    "curseforge": {
+      "id": "1545227",
+      "slug": "immersive-minimaps",
+      "versionId": "8527579",
+      "versionNumber": "Immersive Minimaps 1.2.4 for 26.1",
+      "filename": "immersiveminimaps-1.2.4+26.1.2-neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8527/579/immersiveminimaps-1.2.4%2b26.1.2-neoforge.jar",
+      "sha1": "58ec4a319b7583e91b181735aaa4f29eb7a10b3b",
+      "fileSize": 1823071
     }
   },
   "dependents": [],

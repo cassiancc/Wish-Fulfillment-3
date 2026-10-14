@@ -15,6 +15,16 @@
       "sha1": "502c2fa5d567f7a238a8990c9b0483c10ad36eaf",
       "sha512": "5780e1559cffaf82691e325ffccbedc092663e294e97151fcee95913c513c4f08697aa2e60db7660a5a079b92bcdb45f4ddc8c26c529f09d7afb48fff127e96b",
       "fileSize": 2348328
+    },
+    "curseforge": {
+      "id": "1005914",
+      "slug": "fzzy-config",
+      "versionId": "8883534",
+      "versionNumber": "fzzy_config-0.7.7+26.1+neoforge",
+      "filename": "fzzy_config-0.7.7+26.1+neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8883/534/fzzy_config-0.7.7%2b26.1%2bneoforge.jar",
+      "sha1": "502c2fa5d567f7a238a8990c9b0483c10ad36eaf",
+      "fileSize": 2348328
     }
   },
   "dependents": [

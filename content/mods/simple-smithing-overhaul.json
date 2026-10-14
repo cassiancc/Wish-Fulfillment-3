@@ -8,13 +8,23 @@
     "modrinth": {
       "id": "U5TJjZc3",
       "slug": "simple-smithing-overhaul",
-      "versionId": "GdtYCOpa",
-      "versionNumber": "2.10.0+26.1.2",
-      "filename": "simple_smithing_overhaul-neoforge-2.10.0+26.1.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/U5TJjZc3/versions/GdtYCOpa/simple_smithing_overhaul-neoforge-2.10.0%2B26.1.2.jar",
-      "sha1": "077839b9545db68b32117e4828c65d4469e41b6e",
-      "sha512": "27825aea43b049bcba7fcfc336faba7f53862e3327bb39e6831e0c09d6a42c769f6f96913a6993a2c4e59f4505d8b470cbbc40e5052b718550bda88aa97127e2",
-      "fileSize": 637072
+      "versionId": "Jh39gOGV",
+      "versionNumber": "2.10.1+26.1.2",
+      "filename": "simple_smithing_overhaul-neoforge-2.10.1+26.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/U5TJjZc3/versions/Jh39gOGV/simple_smithing_overhaul-neoforge-2.10.1%2B26.1.2.jar",
+      "sha1": "a22a7824cf4b615214ab8251cf778b5eea93207b",
+      "sha512": "1f93966cc01d8ea0711e959f9fa770cfc248290bb333e37100beb702cb2a440cd0ca167fa5d8d4690ae37c93d178a07cbdd0a0e163ebf25a58e199f396525dca",
+      "fileSize": 637097
+    },
+    "curseforge": {
+      "id": "1179744",
+      "slug": "simple-smithing-overhaul",
+      "versionId": "9122104",
+      "versionNumber": "2.10.1 for NeoForge 26.1.2",
+      "filename": "simple_smithing_overhaul-neoforge-2.10.1+26.1.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9122/104/simple_smithing_overhaul-neoforge-2.10.1%2b26.1.2.jar",
+      "sha1": "a22a7824cf4b615214ab8251cf778b5eea93207b",
+      "fileSize": 637097
     }
   },
   "dependents": [],

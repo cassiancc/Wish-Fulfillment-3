@@ -15,6 +15,16 @@
       "sha1": "87e2afd5aedc3406964f6e833f6041a881848f58",
       "sha512": "6e0a70f26e83d0ec6264ae165931617dece1a1f2182934c1389213b2291c593afed420e777a731a2fdfa5a435ea2464903e51671483c3c9fe7a0fee4782604f4",
       "fileSize": 275516
+    },
+    "curseforge": {
+      "id": "1082085",
+      "slug": "horseman",
+      "versionId": "8533167",
+      "versionNumber": "Horseman - NeoForge 26.1.1 - 1.7.4",
+      "filename": "horseman-neoforge-26.1.1-1.7.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8533/167/horseman-neoforge-26.1.1-1.7.4.jar",
+      "sha1": "87e2afd5aedc3406964f6e833f6041a881848f58",
+      "fileSize": 275516
     }
   },
   "dependents": [],

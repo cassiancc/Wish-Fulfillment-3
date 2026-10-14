@@ -8,16 +8,29 @@
     "modrinth": {
       "id": "FYpiwiBR",
       "slug": "connector-extras",
-      "versionId": "hGQUSqpt",
-      "versionNumber": "2.0.2+26.1.2",
-      "filename": "ConnectorExtras-2.0.2+26.1.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/FYpiwiBR/versions/hGQUSqpt/ConnectorExtras-2.0.2%2B26.1.2.jar",
-      "sha1": "b55b649fb209122297c16f6f7b76dd7ec84f5d1a",
-      "sha512": "ce84e969abfa0690bd23ffa00dedfdd9e6f6527445b7511a34e1e024063ce2493b8a99d01200b9e4f3854f12f3d29c848c999fe070cc4452c6f95adc59ae4644",
-      "fileSize": 139585
+      "versionId": "iHaZEnHy",
+      "versionNumber": "2.0.4+26.1.2",
+      "filename": "ConnectorExtras-2.0.4+26.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/FYpiwiBR/versions/iHaZEnHy/ConnectorExtras-2.0.4%2B26.1.2.jar",
+      "sha1": "ec16b8794f49f354997e6dc6c44305f3b7a26ae0",
+      "sha512": "e110570f2e0072c6758cefefdb245098a1ab4938fc45370c68c6297fc4fc97f4c9d9bb0d80e67601158b760026b0213fa58bafe617be5b1ec521916b4c348516",
+      "fileSize": 139577
+    },
+    "curseforge": {
+      "id": "913445",
+      "slug": "connector-extras",
+      "versionId": "9171607",
+      "versionNumber": "ConnectorExtras 2.0.4+26.1.2",
+      "filename": "ConnectorExtras-2.0.4+26.1.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9171/607/ConnectorExtras-2.0.4%2b26.1.2.jar",
+      "sha1": "ec16b8794f49f354997e6dc6c44305f3b7a26ae0",
+      "fileSize": 139577
     }
   },
   "dependents": [],
+  "optionalDependents": [
+    "u58R1TMW"
+  ],
   "clientSide": "optional",
   "serverSide": "optional"
 }

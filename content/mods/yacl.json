@@ -1,7 +1,7 @@
 {
   "name": "YetAnotherConfigLib (YACL)",
   "side": "auto",
-  "explicit": false,
+  "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
   "sources": {
@@ -15,6 +15,16 @@
       "sha1": "9e975787de1cde9e4af741d6973999a52cb68dc1",
       "sha512": "df39cf9eeabf4c82733436c6561f625c7a4052736bfe2136e213f51e17a1fbd14b444957134097eff073d8ebeb2f7f93ca6505e0779c70cb61ba728202930658",
       "fileSize": 1116964
+    },
+    "curseforge": {
+      "id": "667299",
+      "slug": "yacl",
+      "versionId": "8935501",
+      "versionNumber": "3.9.7 for neoforge 26.1",
+      "filename": "yet_another_config_lib_v3-3.9.7+26.1-neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8935/501/yet_another_config_lib_v3-3.9.7%2b26.1-neoforge.jar",
+      "sha1": "9e975787de1cde9e4af741d6973999a52cb68dc1",
+      "fileSize": 1116964
     }
   },
   "dependents": [
@@ -25,6 +35,9 @@
     "lO3s8hjs",
     "n0uMUjJI",
     "tNmWwdI2"
+  ],
+  "optionalDependents": [
+    "UaizcMKP"
   ],
   "clientSide": "optional",
   "serverSide": "optional"

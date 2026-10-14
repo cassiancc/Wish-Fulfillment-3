@@ -15,6 +15,16 @@
       "sha1": "b43a8d3205ac49f5ca275987656cdb48214fcc13",
       "sha512": "b2475acf2044f0b156863e68b374514a58909183487be8f35d251c8961bfe9f03267cb9343daf09adeafa0568454248bee0a1d56a6930c29491e36bd04f92def",
       "fileSize": 33057
+    },
+    "curseforge": {
+      "id": "1416624",
+      "slug": "o123456789-backport",
+      "versionId": "8743629",
+      "versionNumber": "O123456789 Neoforge 26.1.2 - 1.0.1",
+      "filename": "o123456789-neoforge-26.1.2-1.0.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8743/629/o123456789-neoforge-26.1.2-1.0.1.jar",
+      "sha1": "b43a8d3205ac49f5ca275987656cdb48214fcc13",
+      "fileSize": 33057
     }
   },
   "dependents": [],

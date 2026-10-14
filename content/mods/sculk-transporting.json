@@ -15,6 +15,16 @@
       "sha1": "5dbb31e25182c27f3465ffc853f4f3e2ba3fc260",
       "sha512": "15137285d86eb31d310c569aaca2cf21d7b305ee8d27b6bb56280ae9d139b78417b55d7fb77ade2eefc893c143208afc3a2b5851cd6ec3802e30ffcc07856a35",
       "fileSize": 293436
+    },
+    "curseforge": {
+      "id": "653704",
+      "slug": "sculk-transporting",
+      "versionId": "8089296",
+      "versionNumber": "sculktransporting-26.1.2-1.2.4.jar",
+      "filename": "sculktransporting-26.1.2-1.2.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8089/296/sculktransporting-26.1.2-1.2.4.jar",
+      "sha1": "5dbb31e25182c27f3465ffc853f4f3e2ba3fc260",
+      "fileSize": 293436
     }
   },
   "dependents": [],

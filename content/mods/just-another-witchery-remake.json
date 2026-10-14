@@ -8,13 +8,17 @@
     "modrinth": {
       "id": "LCO8KZvC",
       "slug": "just-another-witchery-remake",
-      "versionId": "23l29Bqi",
-      "versionNumber": "0.5.13.1",
-      "filename": "witchery-0.5.13.1+mc26.1.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/LCO8KZvC/versions/23l29Bqi/witchery-0.5.13.1%2Bmc26.1.2.jar",
-      "sha1": "7a31cb50c1105d299716a906b5f4e56171c1e491",
-      "sha512": "8ceb04f8ff0533af7b783ac58637c10f17375c55c3e0dfae202880891442adafd4f28290caf9022e43445dd0b7ba5bbbe9f62ffd3b93f87819842d898dc511fb",
-      "fileSize": 9934653
+      "versionId": "WUyVVaVN",
+      "versionNumber": "0.5.15",
+      "filename": "witchery-0.5.15+mc26.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/LCO8KZvC/versions/WUyVVaVN/witchery-0.5.15%2Bmc26.1.2.jar",
+      "sha1": "0cd609648266dd0aa8019059b74d798cafc2129d",
+      "sha512": "7666c4f27f8d338d27e6a47dffe05e25090dab663fd2f7afeaf44700ee814caefdd1780ebead3dee5acb0a40828bd4a9377e7bc94eef7d5ca14ecd0bb504d6b5",
+      "fileSize": 9899247
+    },
+    "curseforge": {
+      "id": "1125946",
+      "slug": "just-another-witchery-remake"
     }
   },
   "dependents": [],

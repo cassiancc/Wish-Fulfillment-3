@@ -1,7 +1,7 @@
 {
   "name": "SuperMartijn642's Config Lib",
   "side": "auto",
-  "explicit": false,
+  "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
   "sources": {
@@ -14,6 +14,16 @@
       "downloadUrl": "https://cdn.modrinth.com/data/LN9BxssP/versions/gD2yQaPN/supermartijn642configlib-1.1.8-neoforge-mc26.1.jar",
       "sha1": "1348561a0143b41e6737dd0ca8a7cf4f4be14fa2",
       "sha512": "018e694d07217e4f597f7d3895038bb3327fe373d639ee87a4ce7e9b32e8bf4f37d3fc022851eba9e605285fc063164ebca62a8efc4afa49842cf2a4157d1e9e",
+      "fileSize": 206410
+    },
+    "curseforge": {
+      "id": "438332",
+      "slug": "supermartijn642s-config-lib",
+      "versionId": "8306682",
+      "versionNumber": "SuperMartijn642's Config Library 1.1.8 for NeoForge 26.1",
+      "filename": "supermartijn642configlib-1.1.8-neoforge-mc26.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8306/682/supermartijn642configlib-1.1.8-neoforge-mc26.1.jar",
+      "sha1": "1348561a0143b41e6737dd0ca8a7cf4f4be14fa2",
       "fileSize": 206410
     }
   },

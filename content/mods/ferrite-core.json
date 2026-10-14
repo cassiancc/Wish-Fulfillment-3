@@ -15,6 +15,16 @@
       "sha1": "b8bfb14ba6ce7068aae08c3a132ca40bda6bd143",
       "sha512": "e96a99ac5539f56a1f4cd109d62b668ebd5283f0068491ede956f52e67023beba7abe2e40021499352ffc41ead950bebcabce7792352249a1b45c5dccb3cf99c",
       "fileSize": 71947
+    },
+    "curseforge": {
+      "id": "429235",
+      "slug": "ferritecore",
+      "versionId": "7806039",
+      "versionNumber": "ferritecore-9.0.0-neoforge",
+      "filename": "ferritecore-9.0.0-neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7806/39/ferritecore-9.0.0-neoforge.jar",
+      "sha1": "b8bfb14ba6ce7068aae08c3a132ca40bda6bd143",
+      "fileSize": 71947
     }
   },
   "dependents": [],

@@ -15,6 +15,16 @@
       "sha1": "865915d918c49b2272e680a9585527241c3bc36c",
       "sha512": "b412e2304613f32b3fbb4899659f0766ceedfbdc23aade1d972153cc3dc71d4454adf91c8cfff7c703f095d956419259c4bb06bd16a104626514ba66d7c9379f",
       "fileSize": 349682
+    },
+    "curseforge": {
+      "id": "373051",
+      "slug": "moving-elevators",
+      "versionId": "8393283",
+      "versionNumber": "Moving Elevators 1.4.12a for NeoForge 26.1",
+      "filename": "movingelevators-1.4.12a-neoforge-mc26.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8393/283/movingelevators-1.4.12a-neoforge-mc26.1.jar",
+      "sha1": "865915d918c49b2272e680a9585527241c3bc36c",
+      "fileSize": 349682
     }
   },
   "dependents": [],

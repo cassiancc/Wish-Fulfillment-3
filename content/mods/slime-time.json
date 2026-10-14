@@ -15,9 +15,16 @@
       "sha1": "934bd5bfd46c59e6a5398615d72b8cd9112e1b03",
       "sha512": "78a39714d72e3abf27c359389c38b19e915cc67c96c2b5054b364ab6df5ac09941459ca481196d5f9e12a84bb4f2ab8a5e3df704eb8081a50820d996a794b3ca",
       "fileSize": 538997
+    },
+    "curseforge": {
+      "id": "1545221",
+      "slug": "slime-time"
     }
   },
   "dependents": [],
+  "optionalDependents": [
+    "n0uMUjJI"
+  ],
   "clientSide": "required",
   "serverSide": "required"
 }

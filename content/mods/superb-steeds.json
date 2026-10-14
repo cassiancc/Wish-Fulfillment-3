@@ -15,6 +15,16 @@
       "sha1": "77b65eb76105632bb1f18240b907b6a28adcd1ef",
       "sha512": "3aaab5f31488d09512a925af2514ccf6f656ee31e18a5ba0874fb0451f75683e4d04c203a8e33ec2c57dc63621b60ff049c442dbfa8f3497dac9dcc3948b1fdd",
       "fileSize": 46335
+    },
+    "curseforge": {
+      "id": "953254",
+      "slug": "superb-steeds",
+      "versionId": "8472572",
+      "versionNumber": "superb-steeds-neoforge-26.1-r2.jar",
+      "filename": "superb-steeds-neoforge-26.1-r2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8472/572/superb-steeds-neoforge-26.1-r2.jar",
+      "sha1": "77b65eb76105632bb1f18240b907b6a28adcd1ef",
+      "fileSize": 46335
     }
   },
   "dependents": [],

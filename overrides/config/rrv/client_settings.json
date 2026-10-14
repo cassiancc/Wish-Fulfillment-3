@@ -10,14 +10,14 @@
     "item_wrap_mode": true,
     "namespace_tooltip": "show",
     "right_index": true,
-    "center_search": false,
+    "center_search": true,
     "show_buttons": true,
     "show_progress_bar": true,
     "center_recipe_screen": false,
     "recipe_book_theme": true,
     "workstation_display": "in_footer",
-    "item_view_panel_max_width": 6,
-    "side_panel_max_width": 6
+    "item_view_panel_max_width": 7,
+    "side_panel_max_width": 7
   },
   "advanced": {
     "fluid_unit_droplets": false,

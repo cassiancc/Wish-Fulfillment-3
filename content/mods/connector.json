@@ -15,6 +15,16 @@
       "sha1": "be19358e16a22ad6174075e6f5b0f78fd1b36e12",
       "sha512": "2b36450c5f80c5d504495634091cd7897466dc45a2f6b771305e133b111d15615c7a6b9df833481295c5b8830c9ade0fd446b6cd26517cc0d1697c5d16cf23f5",
       "fileSize": 1011536
+    },
+    "curseforge": {
+      "id": "890127",
+      "slug": "sinytra-connector",
+      "versionId": "8654130",
+      "versionNumber": "Connector 3.0.0 beta 6",
+      "filename": "connector-3.0.0-beta.6+26.1.2-full.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8654/130/connector-3.0.0-beta.6%2b26.1.2-full.jar",
+      "sha1": "be19358e16a22ad6174075e6f5b0f78fd1b36e12",
+      "fileSize": 1011536
     }
   },
   "dependents": [

@@ -1,0 +1,10 @@
+{
+  "enableMod": true,
+  "togglePreview": true,
+  "blockFilter": false,
+  "previewMode": "TRANSPARENT",
+  "previewActivation": "TOGGLE",
+  "transparentOpacity": 0.62,
+  "outlineColor": "#A8FFF9",
+  "disableOutline": true
+}

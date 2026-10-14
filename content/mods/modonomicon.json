@@ -15,9 +15,21 @@
       "sha1": "c49a487ad7b85b4e7a572d7c8ac76c79c49e2dce",
       "sha512": "7b144fda510953f6239245db112e833b9609f15bb169952ff3dd0c361ddd7f98ee3f57f7cca964c9eea9e6a4dac8e6df35422e5068ca533f636e89023547f3d3",
       "fileSize": 2854387
+    },
+    "curseforge": {
+      "id": "538392",
+      "slug": "modonomicon",
+      "versionId": "8594747",
+      "versionNumber": "modonomicon-26.1.2-neoforge-2.3.0.jar",
+      "filename": "modonomicon-26.1.2-neoforge-2.3.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8594/747/modonomicon-26.1.2-neoforge-2.3.0.jar",
+      "sha1": "c49a487ad7b85b4e7a572d7c8ac76c79c49e2dce",
+      "fileSize": 2854387
     }
   },
-  "dependents": [],
+  "dependents": [
+    "LCO8KZvC"
+  ],
   "clientSide": "required",
   "serverSide": "required"
 }

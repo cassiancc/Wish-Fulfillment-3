@@ -1,20 +1,30 @@
 {
   "name": "Launchpad",
   "side": "auto",
-  "explicit": false,
+  "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
   "sources": {
     "modrinth": {
       "id": "voWgQoWV",
       "slug": "launchpad",
-      "versionId": "VtoPSyMI",
-      "versionNumber": "1.9.2+26.1.2",
-      "filename": "launchpad-1.9.2+26.1.2-full.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/voWgQoWV/versions/VtoPSyMI/launchpad-1.9.2%2B26.1.2-full.jar",
-      "sha1": "2f4514d1980c735bde499bc25760fae45f44448e",
-      "sha512": "183d5f1ed0746b2c94f31944945f4c7396c836de942b416d53feef7e3dbe7d05bdd33a6ab6199e38147a7316a81417f44e9cee770494c051a9d38d2d4d2b92a5",
-      "fileSize": 466664
+      "versionId": "SmoKhFsl",
+      "versionNumber": "1.10.1+26.1.2",
+      "filename": "launchpad-1.10.1+26.1.2-full.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/voWgQoWV/versions/SmoKhFsl/launchpad-1.10.1%2B26.1.2-full.jar",
+      "sha1": "42358983b8c58fa6d4eb2b43a7c9a95edf735a67",
+      "sha512": "ba970cd48a77ed9925185a309d065d6fa05c28759dfe669352326ca6a18da7e382f75ccab8453af8e2ca51ed115f808fa91a2d80bb0212e672439acf493464b5",
+      "fileSize": 464488
+    },
+    "curseforge": {
+      "id": "1584761",
+      "slug": "launchpad",
+      "versionId": "9118659",
+      "versionNumber": "[26.1.2] Launchpad 1.10.1+26.1.2",
+      "filename": "launchpad-1.10.1+26.1.2-full.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9118/659/launchpad-1.10.1%2b26.1.2-full.jar",
+      "sha1": "42358983b8c58fa6d4eb2b43a7c9a95edf735a67",
+      "fileSize": 464488
     }
   },
   "dependents": [

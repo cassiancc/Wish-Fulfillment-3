@@ -1,7 +1,7 @@
 {
   "name": "StrawberryLib",
   "side": "auto",
-  "explicit": false,
+  "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
   "sources": {
@@ -14,6 +14,16 @@
       "downloadUrl": "https://cdn.modrinth.com/data/9Ya7Yyre/versions/9cn8abyl/strawberrylib-neoforge-26.1-r11.jar",
       "sha1": "0b34e2ff6bb8b560ebe5e83ed8ce073c90af1fc1",
       "sha512": "0acc0bd20d611d40d0d585eb35d9091734a8181b190169d64c23adbfb37f5c45ab1ee1d714ffb3b4d9abdea1d050ed140243aa1119aa46652c47925bb3b32e9e",
+      "fileSize": 1040296
+    },
+    "curseforge": {
+      "id": "1218484",
+      "slug": "strawberrylib",
+      "versionId": "8837931",
+      "versionNumber": "strawberrylib-neoforge-26.1-r11.jar",
+      "filename": "strawberrylib-neoforge-26.1-r11.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8837/931/strawberrylib-neoforge-26.1-r11.jar",
+      "sha1": "0b34e2ff6bb8b560ebe5e83ed8ce073c90af1fc1",
       "fileSize": 1040296
     }
   },

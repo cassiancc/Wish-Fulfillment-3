@@ -15,6 +15,16 @@
       "sha1": "a80f548fde1ab7136882dc57093399852531bf22",
       "sha512": "e21f40933ba230a75cf852aaab380f6d39e47b85218935c643b56006fee6a20fd0f2016fc965bb0fb9d7c15531528ee95b87c6722de381686369fb6f509c183f",
       "fileSize": 2522728
+    },
+    "curseforge": {
+      "id": "574902",
+      "slug": "screencopy",
+      "versionId": "7826659",
+      "versionNumber": "1.4.0 (Neoforge)",
+      "filename": "screenshotcopy-neoforge-1.4.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7826/659/screenshotcopy-neoforge-1.4.0.jar",
+      "sha1": "a80f548fde1ab7136882dc57093399852531bf22",
+      "fileSize": 2522728
     }
   },
   "dependents": [],

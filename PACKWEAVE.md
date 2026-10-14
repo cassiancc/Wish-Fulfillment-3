@@ -1,6 +1,6 @@
 # Wish Fulfillment 3
 
-**Minecraft 26.1.2 · neoforge 26.1.2.114**, 75 mods (14 dependencies), 4 resource packs
+**Minecraft 26.1.2 · neoforge 26.1.2.114**, 87 mods (1 dependency), 4 resource packs
 
 ## Contents
 
@@ -14,10 +14,11 @@
 - [Chase the Skies](https://modrinth.com/project/chase-the-skies) `3`
 - [Chat Heads](https://modrinth.com/project/chat-heads) `1.3.2`
 - [CIT Painting Icons](https://modrinth.com/project/cit-painting-icons) `1.2`
-- [ClickThrough Plus](https://modrinth.com/project/clickthrough+) `3.6.5+26.1.2-neoforge`
+- [ClickThrough Plus](https://modrinth.com/project/clickthrough-plus) `3.6.5+26.1.2-neoforge`
 - [Client Sort](https://modrinth.com/project/clientsort) `3.102.8+26.1.2`
+- [Cloth Config API](https://modrinth.com/project/cloth-config) `26.1.154+neoforge`
 - [Clutter No More](https://modrinth.com/project/clutter-no-more) `2.0.7+26.1.2-neoforge`
-- [Connector Extras](https://modrinth.com/project/connector-extras) `2.0.2+26.1.2`
+- [Connector Extras](https://modrinth.com/project/connector-extras) `2.0.4+26.1.2`
 - [Drops Backport](https://modrinth.com/project/drops-backport) `26.1-r2.1.2-neoforge`
 - [Easy Shulker Boxes](https://modrinth.com/project/easy-shulker-boxes) `26.1.5`
 - [Enderscape](https://modrinth.com/project/enderscape) `3.0.2`
@@ -27,7 +28,7 @@
 - [Fast Item Frames](https://modrinth.com/project/fast-item-frames) `26.1.1`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `9.0.0-neoforge`
 - [Fog](https://modrinth.com/project/fog) `1.12.0+26.1.2-neoforge`
-- [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.155.3+26.1.2+3.5.8`
+- [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.155.3+26.1.2+3.5.9`
 - [Fzzy Config](https://modrinth.com/project/fzzy-config) `0.7.7+26.1+neoforge`
 - [Glow Paste](https://modrinth.com/project/glow-paste) `1.0.0-neoforge-mc26.1`
 - [Horseman](https://modrinth.com/project/horseman) `1.7.4`
@@ -41,23 +42,28 @@
 - [Jade 🔍](https://modrinth.com/project/jade) `26.1.10+neoforge`
 - [JavaUI](https://modrinth.com/project/javaui) `1.0`
 - [JEIOptimizer](https://modrinth.com/project/jeioptimizer) `1.2.0-29.43`
-- [Just Another Witchery Remake](https://modrinth.com/project/just-another-witchery-remake) `0.5.13.1`
+- [Just Another Witchery Remake](https://modrinth.com/project/just-another-witchery-remake) `0.5.15`
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `29.43.0.107`
 - [Keymap [Maintained]](https://modrinth.com/project/keymap-maintained) `0.11.3`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `6.3.0`
+- [Launchpad](https://modrinth.com/project/launchpad) `1.10.1+26.1.2`
+- [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.0-neoforge-26.1`
 - [Log Begone](https://modrinth.com/project/log-begone) `1.0.3`
 - [McQoy](https://modrinth.com/project/mcqoy) `0.4.1+fabric-26.1`
 - [MezzConfig](https://modrinth.com/project/mezzconfig) `0.6.8`
+- [mixson](https://modrinth.com/project/mixson) `2.2.0`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.22+mc26.1.2`
 - [Modonomicon](https://modrinth.com/project/modonomicon) `26.1.2-2.3.0`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `26.1-2.31-neoforge`
 - [Moving Elevators](https://modrinth.com/project/moving-elevators) `1.4.12a-neoforge-mc26.1`
+- [MRU](https://modrinth.com/project/mru) `1.0.43+26.1.2-neoforge`
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-26.1-v2.19.0`
 - [No Chat Restrictions](https://modrinth.com/project/no-chat-restrictions) `NeoForge-MC26.1-v1.1.3`
 - [Nuit](https://modrinth.com/project/nuit) `mc26.1.2-1.0.0-beta.5+neoforge`
 - [Nuit Interop](https://modrinth.com/project/nuit-interop) `mc26.1.2-1.0.0-beta.5+neoforge`
 - [Penchant](https://modrinth.com/project/penchant) `0.5.8+mc26.1.2`
 - [Permanent Paintings](https://modrinth.com/project/permanent-paintings) `1.0.0+26.2`
+- [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `26.1.15`
 - [Raised](https://modrinth.com/project/raised) `NeoForge-26.1.2-6.0.2`
 - [Re vault](https://modrinth.com/project/revault) `1.3.2+mod`
 - [ReArm: Combat Overhaul](https://modrinth.com/project/rearm) `2.5.7+26.1.2`
@@ -69,19 +75,25 @@
 - [Screencopy](https://modrinth.com/project/screencopy) `1.4.0-forge`
 - [Sculk Transporting](https://modrinth.com/project/sculk-transporting) `v1.2.4`
 - [Sensible Stackables](https://modrinth.com/project/sensible-stackables) `3.1.1+26.1.2`
-- [Simple Smithing Overhaul](https://modrinth.com/project/simple-smithing-overhaul) `2.10.0+26.1.2`
+- [Simple Smithing Overhaul](https://modrinth.com/project/simple-smithing-overhaul) `2.10.1+26.1.2`
 - [Sinytra Connector](https://modrinth.com/project/connector) `3.0.0-beta.6+26.1.2`
 - [Slime Time](https://modrinth.com/project/slime-time) `1.2.3+26.1.2-neoforge`
 - [Snow Under Trees](https://modrinth.com/project/snow-under-trees) `v1.6.1`
 - [Sodium](https://modrinth.com/project/sodium) `mc26.1.2-0.9.2-neoforge`
 - [Sticky Redstone](https://modrinth.com/project/sticky-redstone) `1.0.1-neoforge-mc26.1`
+- [StrawberryLib](https://modrinth.com/project/strawberrylib) `26.1-r11`
 - [Street Art](https://modrinth.com/project/street-art) `1.0.14`
 - [Superb Steeds](https://modrinth.com/project/superb-steeds) `26.1-r2`
+- [SuperMartijn642's Config Lib](https://modrinth.com/project/supermartijn642s-config-lib) `1.1.8-neoforge-mc26.1`
+- [SuperMartijn642's Core Lib](https://modrinth.com/project/supermartijn642s-core-lib) `1.1.25-neoforge-mc26.1`
+- [TCDCommons API](https://modrinth.com/project/tcdcommons) `5.5.6+fn-26.1`
 - Thaumaturge `thaumaturge-26.1.2-NeoForge-1.0.2.jar` (curseforge)
-- The Aether II `The Aether II - 26.1.2-alpha.4.1-neoforge` (curseforge)
+- [The Aether II](https://modrinth.com/project/aether-ii) `26.1.2-alpha.4.1-neoforge`
 - [The Block Box](https://modrinth.com/project/the-block-box) `0.1.3`
 - [There's Always a Bigger Fish](https://modrinth.com/project/always-a-bigger-fish) `1.2.4+26.1.2-neoforge`
 - [Trim Patcher](https://modrinth.com/project/trim-patcher) `2.1-mc26.1-neoforge`
+- [Unified API](https://modrinth.com/project/unified-api) `26.1-r6.5-neoforge`
 - [WaterBobbu](https://modrinth.com/project/waterbobbu) `1.3`
+- [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.9.7+26.1-neoforge`
 
 _Generated by packweave._

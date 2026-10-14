@@ -15,6 +15,16 @@
       "sha1": "3c707c89e0d3a2ffcfe9baed460e0a08a6703288",
       "sha512": "e130b717a999a5efb7fe4a2bc005b00ce000f987158231e1a954fa693ac3fde5b34dbf6ae3c2c7a52a80e3f26d6df847b50b5b86c683f80fa18c82a11dd953c9",
       "fileSize": 257477
+    },
+    "curseforge": {
+      "id": "1451848",
+      "slug": "reconnectible-chains",
+      "versionId": "9020469",
+      "versionNumber": "Reconnectible Chains NeoForge 26.1 - 2.4.4",
+      "filename": "connectiblechains-2.4.4+26.1.2-neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9020/469/connectiblechains-2.4.4%2b26.1.2-neoforge.jar",
+      "sha1": "3c707c89e0d3a2ffcfe9baed460e0a08a6703288",
+      "fileSize": 257477
     }
   },
   "dependents": [],

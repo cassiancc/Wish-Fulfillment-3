@@ -3,21 +3,26 @@
   "side": "auto",
   "explicit": false,
   "disabled": false,
-  "preferred": "curseforge",
+  "preferred": "modrinth",
   "sources": {
-    "curseforge": {
-      "id": "309927",
+    "modrinth": {
+      "id": "vvuO3ImH",
       "slug": "curios",
-      "versionId": "8463519",
-      "versionNumber": "curios-neoforge-15.0.0+26.1.2.jar",
+      "versionId": "dRnRThvD",
+      "versionNumber": "15.0.0+26.1.2",
       "filename": "curios-neoforge-15.0.0+26.1.2.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/8463/519/curios-neoforge-15.0.0%2b26.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/vvuO3ImH/versions/dRnRThvD/curios-neoforge-15.0.0%2B26.1.2.jar",
       "sha1": "7d9d228d1224238750fd3924737c6734b58eb344",
+      "sha512": "0b1a79e78e74e1fd45fe70264ac69329432199ea9e21dfae01a3435b5da8b153b4b218276091b2fa82de6cf40a42273af2b2cbc84667b3b5de2f9c932b4551db",
       "fileSize": 441630
     }
   },
   "dependents": [
-    "1628024"
+    "1628024",
+    "LCO8KZvC"
+  ],
+  "optionalDependents": [
+    "pVIWsXir"
   ],
   "clientSide": "required",
   "serverSide": "required"

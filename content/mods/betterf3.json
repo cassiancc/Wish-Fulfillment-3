@@ -15,6 +15,16 @@
       "sha1": "279aa10f2b59769f4b329d11d599c416934b0f25",
       "sha512": "0118401bd8c764545f7c03f6c251109369950acc251a0a8cc481b671466fc1866ef72d2b5492e0b65817fe5e30fe5e3fee05ef4e6aaba8ec5e3dde309a084a30",
       "fileSize": 494981
+    },
+    "curseforge": {
+      "id": "401648",
+      "slug": "betterf3",
+      "versionId": "8008320",
+      "versionNumber": "BetterF3 NeoForge v18.0.2 (26.1-26.1.2)",
+      "filename": "BetterF3-18.0.2-NeoForge-26.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8008/320/BetterF3-18.0.2-NeoForge-26.1.jar",
+      "sha1": "279aa10f2b59769f4b329d11d599c416934b0f25",
+      "fileSize": 494981
     }
   },
   "dependents": [],

@@ -15,6 +15,16 @@
       "sha1": "801a52960b5938a7085e2bd675ab4bcb9efeb6c7",
       "sha512": "6fa1ba09c22d90afbb0a60c5596927a58e436d729ecfa3e9cab14b17dac07458fb0807a00dd995709b105439a4be5f9a43a673fe1585400b5cd878df8e037f9f",
       "fileSize": 291476
+    },
+    "curseforge": {
+      "id": "815438",
+      "slug": "fog",
+      "versionId": "9063810",
+      "versionNumber": "Fog 1.12.0 for 26.1.2 NeoForge",
+      "filename": "fog-1.12.0+26.1.2-neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9063/810/fog-1.12.0%2b26.1.2-neoforge.jar",
+      "sha1": "801a52960b5938a7085e2bd675ab4bcb9efeb6c7",
+      "fileSize": 291476
     }
   },
   "dependents": [],
