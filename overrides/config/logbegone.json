@@ -1,6 +1,12 @@
 {
   "logbegone": {
     "phrases": [
+      "Global NeoForge version check system disabled",
+      " Pack key supported_formats is deprecated starting from pack format 65. ",
+      "Initializing 'betterstats' ",
+      "Mod is loading on a neoforge environment!",
+      "[BetterF3] Starting...",
+      "Initializing 'tcdcommons'",
       "Initializing ShieldItems",
       "Debug functionality is disabled.",
       "Registering Raised layer ",

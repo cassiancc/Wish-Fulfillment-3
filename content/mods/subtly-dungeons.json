@@ -1,0 +1,23 @@
+{
+  "name": "Subtly Dungeons",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "c65QHwL5",
+      "slug": "subtly-dungeons",
+      "versionId": "NyPskItc",
+      "versionNumber": "3.1.2",
+      "filename": "subtlyd-3.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/c65QHwL5/versions/NyPskItc/subtlyd-3.1.2.jar",
+      "sha1": "a875d1bb8006db4090c39ba52ce5ba868b7afcde",
+      "sha512": "c632179740b062d93ce27a6dd9db6fbfdfdca2f05e585dbf62388ffce2ab6b42af5e5b1f0975844ac4e7e879f05ea999353fcdaba1382eaa37f8461686463ba4",
+      "fileSize": 420597364
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

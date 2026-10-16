@@ -1,0 +1,23 @@
+{
+  "name": "White Tooltip (Frame-only Monochrome)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "QkBxt4A4",
+      "slug": "tooltip_white.mono-frame",
+      "versionId": "EHQvOizv",
+      "versionNumber": "v1+v1+v4",
+      "filename": "tooltip_white.v1+mono-frame.v1+v4.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/QkBxt4A4/versions/EHQvOizv/tooltip_white.v1%2Bmono-frame.v1%2Bv4.zip",
+      "sha1": "0506a859141379d0bc81ab283c28608afc5505da",
+      "sha512": "493faaccc7e0937ebc665dc181f8220bb1abbb98458d95df10bf1f02a1329fee3e01871f768dbbeb925f1c41aae94aee8e25c8d38a36f955b200122ac52f6397",
+      "fileSize": 3475
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}
