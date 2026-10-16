@@ -13,6 +13,10 @@
       "sha1": "c3d1a89f7529c8cd20914b7392cf23e2a1edc889"
     },
     {
+      "path": "content/mods/anthology.json",
+      "sha1": "6b1114cc03126e120a30538cca27c6a2cc7f1fa6"
+    },
+    {
       "path": "content/mods/auroraslanterns.json",
       "sha1": "0887e763c3bb64b5bdbe7ebd2208fb46714f50f7"
     },
@@ -62,7 +66,7 @@
     },
     {
       "path": "content/mods/curios.json",
-      "sha1": "445ac1169a0da06f864f3ae217ddf76dc22926e0"
+      "sha1": "afea0b44af89de37bc72f9cfc5627469b8557449"
     },
     {
       "path": "content/mods/drops-backport.json",
@@ -71,6 +75,10 @@
     {
       "path": "content/mods/easy-shulker-boxes.json",
       "sha1": "c8a17ea8cc98b7ebf9ef149de137495b89fe5715"
+    },
+    {
+      "path": "content/mods/enchanteds-sodium-options.json",
+      "sha1": "08916b10c886f1328275acbdbb32797226526846"
     },
     {
       "path": "content/mods/enderscape.json",
@@ -82,7 +90,7 @@
     },
     {
       "path": "content/mods/farmers-delight-refabricated.json",
-      "sha1": "eaf438836055fff5fe44ac3c57c797fddc5cc6b8"
+      "sha1": "f46b5f27d8471320f31107d302b75716505e4fae"
     },
     {
       "path": "content/mods/fast-item-frames.json",
@@ -103,6 +111,10 @@
     {
       "path": "content/mods/fzzy-config.json",
       "sha1": "24223e64b49ca5ef6bf12a597387a2351c3d610e"
+    },
+    {
+      "path": "content/mods/geckolib.json",
+      "sha1": "c067c91eb9d7c8ce909f7d1d7a440f8dc6ff80ab"
     },
     {
       "path": "content/mods/glow-paste.json",
@@ -165,6 +177,10 @@
       "sha1": "ed2ea77b5d8dc06cf90d2cab73d37d8d22b0553e"
     },
     {
+      "path": "content/mods/kitchen-projectiles.json",
+      "sha1": "7c128badb3aa196c7b46823fc73864c03b2e46af"
+    },
+    {
       "path": "content/mods/kotlin-for-forge.json",
       "sha1": "3c7854ff275b391091c2e84c2c61b7d24425ff4e"
     },
@@ -193,12 +209,20 @@
       "sha1": "3266c73f7202103c05bfcee237a0beeacf50944e"
     },
     {
+      "path": "content/mods/modern-portal-gun.json",
+      "sha1": "688d02f839ca909d8b62b711ad08473135296a44"
+    },
+    {
       "path": "content/mods/modernfix.json",
       "sha1": "4719c4fa92d0c7bdde1c258410ec91bede017931"
     },
     {
       "path": "content/mods/modonomicon.json",
       "sha1": "36cb4c792f3403bc03e65e2932c1f903c7102c77"
+    },
+    {
+      "path": "content/mods/modulation.json",
+      "sha1": "3f3dc4ceaae37e657731f8daee22b7c7f3989730"
     },
     {
       "path": "content/mods/mouse-tweaks.json",
@@ -254,7 +278,7 @@
     },
     {
       "path": "content/mods/reconnectible-chains.json",
-      "sha1": "d3b25ce84518a1238f185971e94be9586faae504"
+      "sha1": "c6b4b8423779d13e9f65d5d0ad0299e552ce5789"
     },
     {
       "path": "content/mods/reliable-gliders.json",
@@ -263,6 +287,10 @@
     {
       "path": "content/mods/reliable-name-tags.json",
       "sha1": "f593078898a64ad401f7dab693dca6beed10d22a"
+    },
+    {
+      "path": "content/mods/reliable-requiem.json",
+      "sha1": "064c9d11429a7861e741f771439d6742a8b6af46"
     },
     {
       "path": "content/mods/revault.json",
@@ -302,7 +330,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "ee685b1bf4acefc1665dd30a382e4e20307f9188"
+      "sha1": "c8503b45702a515ddba2f570451519e5a8bd720a"
     },
     {
       "path": "content/mods/sticky-redstone.json",
@@ -350,7 +378,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "da40c2c98374c1ee64c9ad2c9229f843d7a5d8e0"
+      "sha1": "6948f99e41484a579135bb7b1afaee13ac945927"
     },
     {
       "path": "content/resourcepacks/chase-the-skies.json",
@@ -625,8 +653,8 @@
       "sha1": "81d93eedbe298af8dbc0f41ddf930563de3ed98d"
     },
     {
-      "path": "overrides/config/emi.css",
-      "sha1": "f27a45daee5c4a6ba4633e711513d22074fa872d"
+      "path": "overrides/config/enchanteds_sodium_options.json",
+      "sha1": "8b8403c235c8a43afff6c6847809839e03921fba"
     },
     {
       "path": "overrides/config/enderscape.json5",
@@ -638,7 +666,7 @@
     },
     {
       "path": "overrides/config/experimentalist.json",
-      "sha1": "1d497a7e6abaaf4293869325c466b7647601ab73"
+      "sha1": "fe0dd7b331a8b371d502c67f4360c90e26539119"
     },
     {
       "path": "overrides/config/fabric_loader_dependencies.json",
@@ -770,7 +798,7 @@
     },
     {
       "path": "overrides/config/jei/client/ingredient-list-mod-sort-order.ini",
-      "sha1": "6c8e24001747d30cc3fa2e9d4ee60d4cc61119f3"
+      "sha1": "d84772f23854abda55a0c1fbb425fdc1f885ecdb"
     },
     {
       "path": "overrides/config/jei/client/ingredient-list-type-sort-order.ini",
@@ -838,7 +866,7 @@
     },
     {
       "path": "overrides/config/logbegone.json",
-      "sha1": "e0f8809be7f0c57abae0d7b136981b994f2737b7"
+      "sha1": "25114c2a4afa259c2e82091e57ffcfb8385357db"
     },
     {
       "path": "overrides/config/mezz_config/client/default/settings.ini",
@@ -863,6 +891,10 @@
     {
       "path": "overrides/config/modonomicon-client.toml",
       "sha1": "60cecbd34d361877907ddd35346561f6ab4dc885"
+    },
+    {
+      "path": "overrides/config/modulation.json",
+      "sha1": "86608b0bc8f7995b168328b322acce26d9e4e56b"
     },
     {
       "path": "overrides/config/movingelevators-common.toml",
@@ -919,6 +951,10 @@
     {
       "path": "overrides/config/reliable_gliders.json",
       "sha1": "3f6068ae4a06001b0cddf2572cf1729efc22f220"
+    },
+    {
+      "path": "overrides/config/reliable_requiem.json",
+      "sha1": "bbb5d673cb305c791c0ee2cef1e8e850522ab4ee"
     },
     {
       "path": "overrides/config/reliablenametags.toml",
@@ -982,7 +1018,7 @@
     },
     {
       "path": "overrides/config/sodium-options.json",
-      "sha1": "4e387fec4f1b6a19200a5fe36874b2f2edafac82"
+      "sha1": "95bed4be573538ede67e796155b228bdd830ece1"
     },
     {
       "path": "overrides/config/street_art.json5",
@@ -1006,7 +1042,7 @@
     },
     {
       "path": "overrides/config/thaumaturge/aspect_index.json",
-      "sha1": "c046364e33e12e16cfbd07a185ffd3507ae4f6dd"
+      "sha1": "99617e6eda9f53c8a8993cc84b5c6548fbe5634a"
     },
     {
       "path": "overrides/config/trailiertales/mixins.json5",
@@ -1022,7 +1058,7 @@
     },
     {
       "path": "overrides/mods/wish-fulfillment-1.0.0.jar",
-      "sha1": "7ce62ce0e13095db1b8f23d42d952917e692f5ec"
+      "sha1": "2dba4a990b3e4887067f45ff5bd2a8a7f3913b45"
     }
   ]
 }

@@ -10,3 +10,4 @@
 # !config/somemod.toml#client.debug
 options.txt
 servers.dat
+config/modulation.json#vanilla_gameplay.dispenser_shears_pumpkins

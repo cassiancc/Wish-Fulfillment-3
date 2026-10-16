@@ -1,0 +1,24 @@
+{
+  "name": "GeckoLib",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "388172",
+      "slug": "geckolib",
+      "versionId": "8327201",
+      "versionNumber": "NeoForge 5.5.2",
+      "filename": "geckolib-neoforge-26.1.2-5.5.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8327/201/geckolib-neoforge-26.1.2-5.5.2.jar",
+      "sha1": "2108a1175f8edb52f30a9b3d6dd42eccf045623f",
+      "fileSize": 664146
+    }
+  },
+  "dependents": [
+    "1741569"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,6 +1,9 @@
 {
   "logbegone": {
     "phrases": [
+      "Initializing ShieldItems",
+      "Debug functionality is disabled.",
+      "Registering Raised layer ",
       "Iris Update Check",
       "because the anchor was not present",
       "Pack key supported_formats is deprecated",

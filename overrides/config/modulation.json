@@ -1,0 +1,85 @@
+{
+  "brainier_bees": {
+    "enable_brainier_bees": true,
+    "max_wander_radius": 22,
+    "flower_locate_range": 8,
+    "bees_avoid_ladders": true
+  },
+  "farmers_delight": {
+    "stoves_place_unlit": true
+  },
+  "reconnectible_chains": {
+    "enabled": false,
+    "charge_up_ticks": 10,
+    "consume_durability": true,
+    "consume_chains": true
+  },
+  "passable_foliage": {
+    "enable_passable_foliage": false,
+    "enable_scaffolding_mode": false,
+    "enable_pale_oak_leaves": true,
+    "enable_tinted_leaves": true,
+    "enable_cherry_leaves": true,
+    "base_drag": 0.3,
+    "max_drag": 0.7,
+    "enable_leaf_sounds": true
+  },
+  "vanilla_bugfixes": {
+    "improved_fog": true
+  },
+  "vanilla_gameplay": {
+    "flammable_cobwebs": true,
+    "campfires_place_unlit": true,
+    "campfires_ignite_entities": true,
+    "disable_axe_stripping": false,
+    "disable_copper_scraping": false,
+    "no_dinnerlava": false,
+    "cracking_spawn_eggs": false,
+    "disable_anvil_damage": false,
+    "tridents_in_void_return": false,
+    "cactus_punching_hurts": true,
+    "chaining_creepers": false,
+    "furnace_minecart_any_fuel": false,
+    "infibows": false,
+    "tridents_accept_sharpness": false,
+    "bedrock_impaling": true,
+    "nether_cauldron": true,
+    "fire_aspect_is_flint_and_steel": true,
+    "no_chest_when_targeted": false,
+    "disable_path_creation": false,
+    "disable_farmland_creation": false,
+    "disable_ender_pearl_damage": false,
+    "dispenser_shears_pumpkins": true,
+    "water_bottles_on_concrete": false,
+    "leaves_support_blocks": false,
+    "monsters_leave_boats": false
+  },
+  "vanilla_gui": {
+    "ctrl_drag_to_crafting_grid": true,
+    "chat_message_duration": 200,
+    "disable_creative_inventory": false,
+    "creative_deletion_button": true,
+    "clear_button_x": 148,
+    "clear_button_y": 162,
+    "chat_markdown": true,
+    "panorama_screenshot": true,
+    "panorama_resolution": 1024
+  },
+  "vanilla_visual": {
+    "waxed_item_icon_overlay": true,
+    "extra_item_icon_overlays": true,
+    "better_copper_tooltips": true,
+    "legible_signs": true,
+    "less_annoying_fire": false,
+    "pixel_consistent_block_drops": false,
+    "smooth_light": false,
+    "smooth_light_fade_out_only": false,
+    "smooth_light_fade_speed": 2,
+    "nicer_map_colors": true
+  },
+  "vanilla_walls": {
+    "walls_connect_to_fences": true,
+    "fences_connect_to_walls_and_bars": true,
+    "bars_connect_to_fences": true
+  }
+}

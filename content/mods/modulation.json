@@ -1,0 +1,23 @@
+{
+  "name": "Modulation",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ItRzabx0",
+      "slug": "modulation",
+      "versionId": "TeQmSMFF",
+      "versionNumber": "4.0.0+26.1.2-neoforge",
+      "filename": "modulation-4.0.0+26.1.2-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ItRzabx0/versions/TeQmSMFF/modulation-4.0.0%2B26.1.2-neoforge.jar",
+      "sha1": "7924a9415653410b105bd72e096762607305b2d7",
+      "sha512": "a6988e4d37417a9300e69cd3ebd6e6282667a57cc063275e3543380edff30adef0690937af5d2e0ceb4fe8b299316923da7f268ffc4076c8998659b2f7bb245a",
+      "fileSize": 382957
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

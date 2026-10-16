@@ -1,0 +1,24 @@
+{
+  "name": "Anthology: Time & Space API",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1741821",
+      "slug": "anthology",
+      "versionId": "9186929",
+      "versionNumber": "anthology-1.0.0+26.1-neoforge.jar",
+      "filename": "anthology-1.0.0+26.1-neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9186/929/anthology-1.0.0%2b26.1-neoforge.jar",
+      "sha1": "052bfb18f264284fb4efffe151db3001ee3013a5",
+      "fileSize": 481227
+    }
+  },
+  "dependents": [
+    "1741569"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

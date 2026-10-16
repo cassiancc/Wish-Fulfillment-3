@@ -28,7 +28,8 @@
     }
   },
   "dependents": [
-    "YL57xq9U"
+    "YL57xq9U",
+    "bd7qKEEC"
   ],
   "clientSide": "required",
   "serverSide": "unsupported"

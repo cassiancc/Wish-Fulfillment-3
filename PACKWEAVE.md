@@ -1,6 +1,6 @@
 # Wish Fulfillment 3
 
-**Minecraft 26.1.2 · neoforge 26.1.2.114**, 87 mods (1 dependency), 4 resource packs
+**Minecraft 26.1.2 · neoforge 26.1.2.114**, 92 mods (3 dependencies), 4 resource packs
 
 ## Contents
 
@@ -21,6 +21,7 @@
 - [Connector Extras](https://modrinth.com/project/connector-extras) `2.0.4+26.1.2`
 - [Drops Backport](https://modrinth.com/project/drops-backport) `26.1-r2.1.2-neoforge`
 - [Easy Shulker Boxes](https://modrinth.com/project/easy-shulker-boxes) `26.1.5`
+- [Enchanted's Sodium Options](https://modrinth.com/project/enchanteds-sodium-options) `1.3.2+0.9.2-mc26.1.2-neoforge`
 - [Enderscape](https://modrinth.com/project/enderscape) `3.0.2`
 - [Experimentalist](https://modrinth.com/project/experimentalist) `2.0.5+26.1-neoforge`
 - [Extra Shields](https://modrinth.com/project/shields) `1.4.2+26.1-neoforge`
@@ -45,6 +46,7 @@
 - [Just Another Witchery Remake](https://modrinth.com/project/just-another-witchery-remake) `0.5.15`
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `29.43.0.107`
 - [Keymap [Maintained]](https://modrinth.com/project/keymap-maintained) `0.11.3`
+- [Kitchen Projectiles](https://modrinth.com/project/kitchen-projectiles) `1.0.13+mc26.1.2`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `6.3.0`
 - [Launchpad](https://modrinth.com/project/launchpad) `1.10.1+26.1.2`
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.0-neoforge-26.1`
@@ -52,8 +54,10 @@
 - [McQoy](https://modrinth.com/project/mcqoy) `0.4.1+fabric-26.1`
 - [MezzConfig](https://modrinth.com/project/mezzconfig) `0.6.8`
 - [mixson](https://modrinth.com/project/mixson) `2.2.0`
+- Modern Portal Gun `portal_gun-neoforge-26.1-1.0.0.jar` (curseforge)
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.22+mc26.1.2`
 - [Modonomicon](https://modrinth.com/project/modonomicon) `26.1.2-2.3.0`
+- [Modulation](https://modrinth.com/project/modulation) `4.0.0+26.1.2-neoforge`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `26.1-2.31-neoforge`
 - [Moving Elevators](https://modrinth.com/project/moving-elevators) `1.4.12a-neoforge-mc26.1`
 - [MRU](https://modrinth.com/project/mru) `1.0.43+26.1.2-neoforge`
@@ -71,6 +75,7 @@
 - [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `1.3.3-26.1.2-neoforge`
 - [Reliable Name Tags](https://modrinth.com/project/reliable-name-tags) `2.0.0+26.1.2-fabric`
 - [Reliable Recount](https://modrinth.com/project/o123456789-backport) `1.0.1-26.1.2-neoforge`
+- [Reliable Requiem](https://modrinth.com/project/reliable-requiem) `2.0.0+26.1.2-neoforge`
 - [Scholar](https://modrinth.com/project/scholar) `1.2.5`
 - [Screencopy](https://modrinth.com/project/screencopy) `1.4.0-forge`
 - [Sculk Transporting](https://modrinth.com/project/sculk-transporting) `v1.2.4`

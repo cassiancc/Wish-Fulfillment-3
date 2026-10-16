@@ -1,0 +1,22 @@
+{
+  "name": "Modern Portal Gun",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1741569",
+      "slug": "modern-portal-gun",
+      "versionId": "9187066",
+      "versionNumber": "portal_gun-neoforge-26.1-1.0.0.jar",
+      "filename": "portal_gun-neoforge-26.1-1.0.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9187/66/portal_gun-neoforge-26.1-1.0.0.jar",
+      "sha1": "9912b4a98448d0fe40debc4139b04c6737e5a70c",
+      "fileSize": 1107766
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

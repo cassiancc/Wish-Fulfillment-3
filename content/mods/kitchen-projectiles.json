@@ -1,0 +1,23 @@
+{
+  "name": "Kitchen Projectiles",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "BYmvNgRP",
+      "slug": "kitchen-projectiles",
+      "versionId": "MnBFsRpq",
+      "versionNumber": "1.0.13+mc26.1.2",
+      "filename": "kitchenprojectiles-1.0.13+mc26.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BYmvNgRP/versions/MnBFsRpq/kitchenprojectiles-1.0.13%2Bmc26.1.2.jar",
+      "sha1": "2e530909810240dd65da24aaa43050ad56f16059",
+      "sha512": "e370f202a44fb04643a12a9ee18df553bf6f6c2072bdc6c44fa114391de193ae4e8067ad6b53374102ee201f5140ac9f7d3949f9e2c406630ce3f285acc17598",
+      "fileSize": 66612
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
