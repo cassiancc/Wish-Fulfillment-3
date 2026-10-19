@@ -1,6 +1,6 @@
 # Wish Fulfillment 3
 
-**Minecraft 26.1.2 · neoforge 26.1.2.114**, 95 mods (5 dependencies), 5 resource packs
+**Minecraft 26.1.2 · neoforge 26.1.2.114**, 96 mods (5 dependencies), 5 resource packs
 
 ## Contents
 
@@ -10,6 +10,7 @@
 - [Better Statistics Screen](https://modrinth.com/project/better-stats) `5.5.6+fn-26.1`
 - [BetterF3](https://modrinth.com/project/betterf3) `18.0.2`
 - [Bridging Mod](https://modrinth.com/project/bridging-mod) `2.6.6+26.1.neoforge`
+- [Bundle Upgrade](https://modrinth.com/project/bundle-upgrade) `26.1.6`
 - [Cascades](https://modrinth.com/project/hybrid-beta) `1.0.6+mod`
 - [Chase the Skies](https://modrinth.com/project/chase-the-skies) `3`
 - [Chat Heads](https://modrinth.com/project/chat-heads) `1.3.2`
@@ -19,8 +20,8 @@
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `26.1.154+neoforge`
 - [Clutter No More](https://modrinth.com/project/clutternomore) `2.0.7+26.1.2-neoforge`
 - [Connector Extras](https://modrinth.com/project/connector-extras) `2.0.4+26.1.2`
-- [Drops Backport](https://modrinth.com/project/drops-backport) `26.1-r2.1.2-neoforge`
-- [Easy Shulker Boxes](https://modrinth.com/project/easy-shulker-boxes) `26.1.5`
+- [Drops Backport](https://modrinth.com/project/drops-backport) `26.1-r2.4-neoforge`
+- [Easy Shulker Boxes](https://modrinth.com/project/easy-shulker-boxes) `26.1.7`
 - [Enchanted's Sodium Options](https://modrinth.com/project/enchanteds-sodium-options) `1.3.2+0.9.2-mc26.1.2-neoforge`
 - [Enderscape](https://modrinth.com/project/enderscape) `3.0.2`
 - [Experimentalist](https://modrinth.com/project/experimentalist) `2.0.5+26.1-neoforge`
@@ -73,7 +74,7 @@
 - [Re vault](https://modrinth.com/project/revault) `1.3.2+mod`
 - [ReArm: Combat Overhaul](https://modrinth.com/project/rearm) `2.5.7+26.1.2`
 - [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.4.4+26.1.2-neoforge`
-- [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `1.3.3-26.1.2-neoforge`
+- [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `2.0.0+26.1.2-neoforge`
 - [Reliable Name Tags](https://modrinth.com/project/reliable-name-tags) `2.0.0+26.1.2-fabric`
 - [Reliable Recount](https://modrinth.com/project/o123456789-backport) `1.0.1-26.1.2-neoforge`
 - [Reliable Requiem](https://modrinth.com/project/reliable-requiem) `2.0.0+26.1.2-neoforge`

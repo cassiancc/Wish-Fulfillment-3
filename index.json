@@ -37,6 +37,10 @@
       "sha1": "3d449a6e1bc235d79c996ce34c38bd8198bee82e"
     },
     {
+      "path": "content/mods/bundle-upgrade.json",
+      "sha1": "66183b007fdfdda31bba9c4fbe0bba84f297d10d"
+    },
+    {
       "path": "content/mods/chat-heads.json",
       "sha1": "93a643269b234c79be2534499f851a133e2803b4"
     },
@@ -50,7 +54,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "2275353e34ede04ee0c02a366e226ec14b2b94ec"
+      "sha1": "0c1dae8c69ce0af42bcf4edafb148660e2b9878c"
     },
     {
       "path": "content/mods/clutter-no-more.json",
@@ -70,11 +74,11 @@
     },
     {
       "path": "content/mods/drops-backport.json",
-      "sha1": "0627418e26390c028ef7a267751416b2e2b26ce6"
+      "sha1": "25366a8dc73ca6cb1620c3590389999e6e655ec5"
     },
     {
       "path": "content/mods/easy-shulker-boxes.json",
-      "sha1": "c8a17ea8cc98b7ebf9ef149de137495b89fe5715"
+      "sha1": "cbd417a1771719c2b1d25f5d68ea03b20c23c1a1"
     },
     {
       "path": "content/mods/enchanteds-sodium-options.json",
@@ -278,7 +282,7 @@
     },
     {
       "path": "content/mods/puzzles-lib.json",
-      "sha1": "42a8e9ebab6756b409b583601a4a6be8de758ecf"
+      "sha1": "122d9f2e85fbbcad110e0776293bf1b5e8667e39"
     },
     {
       "path": "content/mods/raised.json",
@@ -294,7 +298,7 @@
     },
     {
       "path": "content/mods/reliable-gliders.json",
-      "sha1": "41e2fea7544e9495db7cbf275fd3d62d6347f8f5"
+      "sha1": "3938e1cd72e3f2bd66fa62f5822c82041942d432"
     },
     {
       "path": "content/mods/reliable-name-tags.json",
@@ -398,7 +402,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "6948f99e41484a579135bb7b1afaee13ac945927"
+      "sha1": "7d5201f9e2334be76a83f346356f71c8c74262a6"
     },
     {
       "path": "content/resourcepacks/chase-the-skies.json",
@@ -426,7 +430,7 @@
     },
     {
       "path": "overrides/config/NoChatReports/NCR-Client.json",
-      "sha1": "d891af70a74a76fbcdb7026204257a48374d2023"
+      "sha1": "6e5e984944d93359a454e53525ebeb93b541e441"
     },
     {
       "path": "overrides/config/NoChatReports/NCR-Common.json",
@@ -677,6 +681,10 @@
       "sha1": "81d93eedbe298af8dbc0f41ddf930563de3ed98d"
     },
     {
+      "path": "overrides/config/embers_and_icicles.toml",
+      "sha1": "7997b39d52c41781534ea3c30acb104368b5dfe6"
+    },
+    {
       "path": "overrides/config/enchanteds_sodium_options.json",
       "sha1": "8b8403c235c8a43afff6c6847809839e03921fba"
     },
@@ -846,7 +854,7 @@
     },
     {
       "path": "overrides/config/jei/client/ingredient-list-mod-sort-order.ini",
-      "sha1": "a1463fe578c71d3b4aacadbccbc899c6482a0a57"
+      "sha1": "e76fcf5db54f86371b889d1ac264c7fce628dfca"
     },
     {
       "path": "overrides/config/jei/client/ingredient-list-type-sort-order.ini",
@@ -1094,7 +1102,7 @@
     },
     {
       "path": "overrides/config/thaumaturge/aspect_index.json",
-      "sha1": "1834e44294fd9bc328e197779892b5fae6e33421"
+      "sha1": "25c793b6fd187d6a7a64eb17989ac3ff01fd7b84"
     },
     {
       "path": "overrides/config/trailiertales/mixins.json5",
@@ -1111,6 +1119,10 @@
     {
       "path": "overrides/config/yacl.json5",
       "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2"
+    },
+    {
+      "path": "overrides/mods/embers_and_icicles-1.0.2+26.1.2-neoforge.jar",
+      "sha1": "fb3c4f52fdb46f2260fcb6e8530e766b657012b2"
     },
     {
       "path": "overrides/mods/wish-fulfillment-1.0.0.jar",

@@ -8,23 +8,23 @@
     "modrinth": {
       "id": "pVIWsXir",
       "slug": "reliable-gliders",
-      "versionId": "Xx8kxwzV",
-      "versionNumber": "1.3.3-26.1.2-neoforge",
-      "filename": "reliable_gliders-neoforge-26.1.2-1.3.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/pVIWsXir/versions/Xx8kxwzV/reliable_gliders-neoforge-26.1.2-1.3.3.jar",
-      "sha1": "8c6a11fd22c0546b9630d801c7c3fe39c5da9e27",
-      "sha512": "02490aa90348b358ac389da1ee800f74b53780230bd0e1d224a09c808f39efe0350cfea4368ca22a7ea3b93f3073872a41be36311fa12b67be434e4caed97a05",
-      "fileSize": 59924
+      "versionId": "bvY28DRJ",
+      "versionNumber": "2.0.0+26.1.2-neoforge",
+      "filename": "reliable_gliders-2.0.0+26.1.2-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/pVIWsXir/versions/bvY28DRJ/reliable_gliders-2.0.0%2B26.1.2-neoforge.jar",
+      "sha1": "a327626cd3e018c511478ce0ef06c7ed708b44f6",
+      "sha512": "08115f4be9c6c66a831ee7fc7bb4b88c72d75cb270deabe2d7b8fd68c9b647bb57603b6994add81ec8417882ed8ba17eb76f62e86e0cf093b005a1fa98c90b42",
+      "fileSize": 63064
     },
     "curseforge": {
       "id": "1528600",
       "slug": "reliable-gliders",
-      "versionId": "8643083",
-      "versionNumber": "Reliable Gliders Neoforge 26.1.2 - 1.3.3",
-      "filename": "reliable_gliders-neoforge-26.1.2-1.3.3.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/8643/83/reliable_gliders-neoforge-26.1.2-1.3.3.jar",
-      "sha1": "8c6a11fd22c0546b9630d801c7c3fe39c5da9e27",
-      "fileSize": 59924
+      "versionId": "9218779",
+      "versionNumber": "Reliable Gliders NeoForge 26.1 - 2.0.0",
+      "filename": "reliable_gliders-2.0.0+26.1.2-neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9218/779/reliable_gliders-2.0.0%2b26.1.2-neoforge.jar",
+      "sha1": "a327626cd3e018c511478ce0ef06c7ed708b44f6",
+      "fileSize": 63064
     }
   },
   "dependents": [],

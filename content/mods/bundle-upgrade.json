@@ -1,0 +1,23 @@
+{
+  "name": "Bundle Upgrade",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "4GmQWkZz",
+      "slug": "bundle-upgrade",
+      "versionId": "Ii5cuqpw",
+      "versionNumber": "26.1.6",
+      "filename": "bundleupgrade-v26.1.6-mc26.1.x+neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4GmQWkZz/versions/Ii5cuqpw/bundleupgrade-v26.1.6-mc26.1.x%2Bneoforge.jar",
+      "sha1": "34ec49d593459356bc56a04bbb29224b0fe4aec0",
+      "sha512": "276d67669353cb1f753541457c07798f0a0eb2ed74eadfd1328d27f428e60becef4d7663e3a11b3c307bdef04dc702c82d2e3ba3d1aa0bc77b0a6d5e2e92fd4b",
+      "fileSize": 205606
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

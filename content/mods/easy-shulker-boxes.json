@@ -8,23 +8,23 @@
     "modrinth": {
       "id": "gA5euN8S",
       "slug": "easy-shulker-boxes",
-      "versionId": "A2jC1kHJ",
-      "versionNumber": "26.1.5",
-      "filename": "easyshulkerboxes-v26.1.5-mc26.1.x+neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/gA5euN8S/versions/A2jC1kHJ/easyshulkerboxes-v26.1.5-mc26.1.x%2Bneoforge.jar",
-      "sha1": "a22f5e953cdb1f0955814140e3fbdd959bffaecb",
-      "sha512": "e6354c41c52a40f263b6c97aad401b16d9de69d788416e94d04b8d2ce1cc8d5ab337d4938cd5150745620b5cef24f4b033dc947d8abc48da92cbefbb1a8e8cc7",
-      "fileSize": 640195
+      "versionId": "pa04dSo8",
+      "versionNumber": "26.1.7",
+      "filename": "easyshulkerboxes-v26.1.7-mc26.1.x+neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/gA5euN8S/versions/pa04dSo8/easyshulkerboxes-v26.1.7-mc26.1.x%2Bneoforge.jar",
+      "sha1": "5f883d0b83b4c3f3775dc70384e8a96e145438fd",
+      "sha512": "e93ca03499e673811b06c51e5066e852f2741d7403add0bf5adc17f47633422a2a01518c80077050170a754aefaa6a26ef627cf542dcebde8abf89df2fd66310",
+      "fileSize": 655835
     },
     "curseforge": {
       "id": "594006",
       "slug": "easy-shulker-boxes",
-      "versionId": "8958741",
-      "versionNumber": "v26.1.5-mc26.1.x+neoforge",
-      "filename": "easyshulkerboxes-v26.1.5-mc26.1.x+neoforge.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/8958/741/easyshulkerboxes-v26.1.5-mc26.1.x%2bneoforge.jar",
-      "sha1": "a22f5e953cdb1f0955814140e3fbdd959bffaecb",
-      "fileSize": 640195
+      "versionId": "9197925",
+      "versionNumber": "v26.1.7-mc26.1.x+neoforge",
+      "filename": "easyshulkerboxes-v26.1.7-mc26.1.x+neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9197/925/easyshulkerboxes-v26.1.7-mc26.1.x%2bneoforge.jar",
+      "sha1": "5f883d0b83b4c3f3775dc70384e8a96e145438fd",
+      "fileSize": 655835
     }
   },
   "dependents": [],
