@@ -1,0 +1,23 @@
+{
+  "name": "Tropicraft",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "20zpzIT1",
+      "slug": "tropicraft",
+      "versionId": "jBtaT3wX",
+      "versionNumber": "9.10.1+26.1",
+      "filename": "Tropicraft-9.10.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/20zpzIT1/versions/jBtaT3wX/Tropicraft-9.10.1.jar",
+      "sha1": "6efcf908891b22c9ae8b0bf6a9b84700dd958d77",
+      "sha512": "b3e8d9f538cfe4c71b4b5f5a95f28df90fe3b3d9db1707fbdb250424883fcd0739f3b0eddcc48854d06280940000722c703d9d9a5fd907bcabc0c1cf47ea5bd9",
+      "fileSize": 19601490
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

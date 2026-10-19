@@ -1,6 +1,6 @@
 # Wish Fulfillment 3
 
-**Minecraft 26.1.2 · neoforge 26.1.2.114**, 94 mods (5 dependencies), 5 resource packs
+**Minecraft 26.1.2 · neoforge 26.1.2.114**, 95 mods (5 dependencies), 5 resource packs
 
 ## Contents
 
@@ -17,7 +17,7 @@
 - [ClickThrough Plus](https://modrinth.com/project/clickthrough-plus) `3.6.5+26.1.2-neoforge`
 - [Client Sort](https://modrinth.com/project/clientsort) `3.102.8+26.1.2`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `26.1.154+neoforge`
-- [Clutter No More](https://modrinth.com/project/clutter-no-more) `2.0.7+26.1.2-neoforge`
+- [Clutter No More](https://modrinth.com/project/clutternomore) `2.0.7+26.1.2-neoforge`
 - [Connector Extras](https://modrinth.com/project/connector-extras) `2.0.4+26.1.2`
 - [Drops Backport](https://modrinth.com/project/drops-backport) `26.1-r2.1.2-neoforge`
 - [Easy Shulker Boxes](https://modrinth.com/project/easy-shulker-boxes) `26.1.5`
@@ -99,6 +99,7 @@
 - [The Block Box](https://modrinth.com/project/the-block-box) `0.1.3`
 - [There's Always a Bigger Fish](https://modrinth.com/project/always-a-bigger-fish) `1.2.4+26.1.2-neoforge`
 - [Trim Patcher](https://modrinth.com/project/trim-patcher) `2.1-mc26.1-neoforge`
+- [Tropicraft](https://modrinth.com/project/tropicraft) `9.10.1+26.1`
 - [Unified API](https://modrinth.com/project/unified-api) `26.1-r6.5-neoforge`
 - [WaterBobbu](https://modrinth.com/project/waterbobbu) `1.3`
 - [White Tooltip (Frame-only Monochrome)](https://modrinth.com/project/tooltip_white.mono-frame) `v1+v1+v4`

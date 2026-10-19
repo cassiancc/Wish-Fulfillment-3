@@ -10,6 +10,11 @@ minecraft:turtle_scute
 minecraft:netherite
 minecraft:armadillo_scute
 slime_time:slime
+tropicraft:none
+tropicraft:scale
+tropicraft:fire
+tropicraft:scuba/pink
+tropicraft:scuba/yellow
 aether_ii:beast_pelt
 aether_ii:burrukai_plate
 aether_ii:zanite

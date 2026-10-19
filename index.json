@@ -54,7 +54,7 @@
     },
     {
       "path": "content/mods/clutter-no-more.json",
-      "sha1": "97bec0e796efbc0745c4afa653e9cdab0e5b85f0"
+      "sha1": "a07e418b88968124b55f490f44a1ef0b04732186"
     },
     {
       "path": "content/mods/connector-extras.json",
@@ -389,6 +389,10 @@
       "sha1": "ef4be5054e7a85333e8c8b8a9542dc1690b1a6b1"
     },
     {
+      "path": "content/mods/tropicraft.json",
+      "sha1": "dc67f34d9029da4f37a8905b224a508122579404"
+    },
+    {
       "path": "content/mods/unified-api.json",
       "sha1": "12bfa9294f673b998e1a7161263c0bd762b54ad7"
     },
@@ -590,7 +594,7 @@
     },
     {
       "path": "overrides/config/bigger_fish.toml",
-      "sha1": "121bcb9d57560acc4e26d3e7f4d5333e02f4fdd9"
+      "sha1": "ea004e30cfe7110824a6bff54b5850308c869b85"
     },
     {
       "path": "overrides/config/blockbox-common.toml",
@@ -925,6 +929,10 @@
       "sha1": "2e98746ebd1407cee8fd7961ca9dadad7888a32b"
     },
     {
+      "path": "overrides/config/midnightlib.json",
+      "sha1": "ef717d24a45baf1406cd1c5600b176cb8b3cb2db"
+    },
+    {
       "path": "overrides/config/modernfix-mixins.properties",
       "sha1": "4f39a2870ba27c383d462580e766d42570254168"
     },
@@ -986,7 +994,7 @@
     },
     {
       "path": "overrides/config/rearm/armor_materials.txt",
-      "sha1": "48fdb44c2892a177856306db4cc983bca4aafc8f"
+      "sha1": "497379d14ed889b5edb729a0822cd891cea3f210"
     },
     {
       "path": "overrides/config/rearm/config.toml",
@@ -1091,6 +1099,10 @@
     {
       "path": "overrides/config/trailiertales/mixins.json5",
       "sha1": "c4e407bc5dd92eadd338e34822bf1be2a25ceffd"
+    },
+    {
+      "path": "overrides/config/tropicraft-common.toml",
+      "sha1": "8c1d076d672aae799ed25d60c44e03f58e5cdba0"
     },
     {
       "path": "overrides/config/witchery-common.toml",
