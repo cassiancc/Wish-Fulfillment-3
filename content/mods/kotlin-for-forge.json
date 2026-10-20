@@ -8,21 +8,26 @@
     "modrinth": {
       "id": "ordsPcFz",
       "slug": "kotlin-for-forge",
-      "versionId": "WSKgpZoB",
-      "versionNumber": "6.3.0",
-      "filename": "kotlinforforge-6.3.0-all.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/ordsPcFz/versions/WSKgpZoB/kotlinforforge-6.3.0-all.jar",
-      "sha1": "62098bba4a4dba3354ede43a62fe5e012e5e667a",
-      "sha512": "0092fc7b4db1e35e53e7ddb5e7b4fa1dc5654c9100cdb298ad1b802308a470e75da21019d25774e643ff43bb79e9fb11d03170321504e0e471b4c36c00fad339",
-      "fileSize": 7279413
+      "versionId": "9fo5CJQk",
+      "versionNumber": "6.4.0",
+      "filename": "kotlinforforge-6.4.0-all.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ordsPcFz/versions/9fo5CJQk/kotlinforforge-6.4.0-all.jar",
+      "sha1": "4e5da9058aea1c882974b1c9b9d30e2db651c272",
+      "sha512": "f164697b47a5b23591a4555ce655eb0ba865ceb1972c29e2c53603bb70a38b948e23801e3dc0291a3f6f0bbb40b3fefc0fa79e9b4586ab9e40b821097b61f03c",
+      "fileSize": 7279332
     },
     "curseforge": {
       "id": "351264",
-      "slug": "kotlin-for-forge"
+      "slug": "kotlin-for-forge",
+      "versionId": "9123340",
+      "versionNumber": "Kotlin for Forge 6.4.0",
+      "filename": "kotlinforforge-6.4.0-all.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9123/340/kotlinforforge-6.4.0-all.jar",
+      "sha1": "4e5da9058aea1c882974b1c9b9d30e2db651c272",
+      "fileSize": 7279332
     }
   },
   "dependents": [
-    "LCO8KZvC",
     "hYykXjDp"
   ],
   "clientSide": "optional",

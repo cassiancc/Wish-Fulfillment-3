@@ -1,12 +1,12 @@
 # Wish Fulfillment 3
 
-**Minecraft 26.1.2 · neoforge 26.1.2.114**, 96 mods (5 dependencies), 5 resource packs
+**Minecraft 26.1.2 · neoforge 26.1.2.114**, 95 mods (5 dependencies), 5 resource packs
 
 ## Contents
 
 - [Additional Additions: Vanilla+ QoL, Sniffers, Music, Food](https://modrinth.com/project/addadd) `10.0.11+26.1.x-neoforge`
 - [Aurora's Lanterns](https://modrinth.com/project/auroraslanterns) `2.0.1+26.1.2`
-- [Better ModList](https://modrinth.com/project/better-modlist) `26.1.7`
+- [Better ModList](https://modrinth.com/project/better-modlist) `26.1.8`
 - [Better Statistics Screen](https://modrinth.com/project/better-stats) `5.5.6+fn-26.1`
 - [BetterF3](https://modrinth.com/project/betterf3) `18.0.2`
 - [Bridging Mod](https://modrinth.com/project/bridging-mod) `2.6.6+26.1.neoforge`
@@ -18,7 +18,7 @@
 - [ClickThrough Plus](https://modrinth.com/project/clickthrough-plus) `3.6.5+26.1.2-neoforge`
 - [Client Sort](https://modrinth.com/project/clientsort) `3.102.8+26.1.2`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `26.1.154+neoforge`
-- [Clutter No More](https://modrinth.com/project/clutternomore) `2.0.7+26.1.2-neoforge`
+- [Clutter No More](https://modrinth.com/project/clutternomore) `3.0.3+26.1.2-neoforge`
 - [Connector Extras](https://modrinth.com/project/connector-extras) `2.0.4+26.1.2`
 - [Drops Backport](https://modrinth.com/project/drops-backport) `26.1-r2.4-neoforge`
 - [Easy Shulker Boxes](https://modrinth.com/project/easy-shulker-boxes) `26.1.7`
@@ -42,24 +42,23 @@
 - [Iris Shaders](https://modrinth.com/project/iris) `1.11.4+26.1-neoforge`
 - [Item Collectors](https://modrinth.com/project/item-collectors) `1.1.12a-neoforge-mc26.1`
 - [Item Descriptions](https://modrinth.com/project/item-descriptions) `2.8.5+26.1.2-neoforge`
-- [Jade 🔍](https://modrinth.com/project/jade) `26.1.10+neoforge`
+- [Jade 🔍](https://modrinth.com/project/jade) `26.1.12+neoforge`
 - [JavaUI](https://modrinth.com/project/javaui) `1.0`
-- [JEIOptimizer](https://modrinth.com/project/jeioptimizer) `1.2.0-29.43`
-- [Just Another Witchery Remake](https://modrinth.com/project/just-another-witchery-remake) `0.5.15`
-- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `29.43.0.107`
+- [Just Another Witchery Remake](https://modrinth.com/project/just-another-witchery-remake) `0.5.25`
+- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `29.47.0.110`
 - [Keymap [Maintained]](https://modrinth.com/project/keymap-maintained) `0.11.3`
 - [Kitchen Projectiles](https://modrinth.com/project/kitchen-projectiles) `1.0.13+mc26.1.2`
-- [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `6.3.0`
-- [Launchpad](https://modrinth.com/project/launchpad) `1.10.1+26.1.2`
-- [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.0-neoforge-26.1`
+- [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `6.4.0`
+- [Launchpad](https://modrinth.com/project/launchpad) `1.10.2+26.1.2`
+- [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.1-neoforge-26.1`
 - [Log Begone](https://modrinth.com/project/log-begone) `1.0.3`
 - [McQoy](https://modrinth.com/project/mcqoy) `0.4.1+fabric-26.1`
 - [MezzConfig](https://modrinth.com/project/mezzconfig) `0.6.8`
 - [mixson](https://modrinth.com/project/mixson) `2.2.0`
-- Modern Portal Gun `portal_gun-neoforge-26.1-1.0.0.jar` (curseforge)
-- [ModernFix](https://modrinth.com/project/modernfix) `5.27.22+mc26.1.2`
-- [Modonomicon](https://modrinth.com/project/modonomicon) `26.1.2-2.3.0`
-- [Modulation](https://modrinth.com/project/modulation) `4.0.0+26.1.2-neoforge`
+- Modern Portal Gun `portal_gun-neoforge-26.1-1.0.2.jar` (curseforge)
+- [ModernFix](https://modrinth.com/project/modernfix) `5.27.24+mc26.1.2`
+- [Modonomicon](https://modrinth.com/project/modonomicon) `26.1.2-2.17.1`
+- [Modulation](https://modrinth.com/project/modulation) `4.0.6+26.1.2-neoforge`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `26.1-2.31-neoforge`
 - [Moving Elevators](https://modrinth.com/project/moving-elevators) `1.4.12a-neoforge-mc26.1`
 - [MRU](https://modrinth.com/project/mru) `1.0.43+26.1.2-neoforge`
@@ -69,13 +68,13 @@
 - [Nuit Interop](https://modrinth.com/project/nuit-interop) `mc26.1.2-1.0.0-beta.5+neoforge`
 - [Penchant](https://modrinth.com/project/penchant) `0.5.8+mc26.1.2`
 - [Permanent Paintings](https://modrinth.com/project/permanent-paintings) `1.0.0+26.2`
-- [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `26.1.15`
+- [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `26.1.16`
 - [Raised](https://modrinth.com/project/raised) `NeoForge-26.1.2-6.0.2`
 - [Re vault](https://modrinth.com/project/revault) `1.3.2+mod`
 - [ReArm: Combat Overhaul](https://modrinth.com/project/rearm) `2.5.7+26.1.2`
 - [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.4.4+26.1.2-neoforge`
 - [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `2.0.0+26.1.2-neoforge`
-- [Reliable Name Tags](https://modrinth.com/project/reliable-name-tags) `2.0.0+26.1.2-fabric`
+- [Reliable Name Tags](https://modrinth.com/project/reliable-name-tags) `2.1.0+26.1.2-neoforge`
 - [Reliable Recount](https://modrinth.com/project/o123456789-backport) `1.0.1-26.1.2-neoforge`
 - [Reliable Requiem](https://modrinth.com/project/reliable-requiem) `2.0.0+26.1.2-neoforge`
 - [Scholar](https://modrinth.com/project/scholar) `1.2.5`
@@ -101,7 +100,7 @@
 - [There's Always a Bigger Fish](https://modrinth.com/project/always-a-bigger-fish) `1.2.4+26.1.2-neoforge`
 - [Trim Patcher](https://modrinth.com/project/trim-patcher) `2.1-mc26.1-neoforge`
 - [Tropicraft](https://modrinth.com/project/tropicraft) `9.10.1+26.1`
-- [Unified API](https://modrinth.com/project/unified-api) `26.1-r6.5-neoforge`
+- [Unified API](https://modrinth.com/project/unified-api) `26.1-1.0-beta-21-neoforge`
 - [WaterBobbu](https://modrinth.com/project/waterbobbu) `1.3`
 - [White Tooltip (Frame-only Monochrome)](https://modrinth.com/project/tooltip_white.mono-frame) `v1+v1+v4`
 - [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.9.7+26.1-neoforge`

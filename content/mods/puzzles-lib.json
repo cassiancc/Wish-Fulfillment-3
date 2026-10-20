@@ -8,23 +8,23 @@
     "modrinth": {
       "id": "QAGBst4M",
       "slug": "puzzles-lib",
-      "versionId": "RTC7EJbD",
-      "versionNumber": "26.1.15",
-      "filename": "PuzzlesLib-v26.1.15-mc26.1.x-NeoForge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/QAGBst4M/versions/RTC7EJbD/PuzzlesLib-v26.1.15-mc26.1.x-NeoForge.jar",
-      "sha1": "24ebbd91353090e95d31715d855ba38b02f5aeb6",
-      "sha512": "7549c26fd45e1b5acd7c32260dd077371f27e0a695d8c369c13b09cb3e7b7c5943dded9c412e53eb579d2725cfda6cf836fd599a97c21d71525fed5d284be8ac",
-      "fileSize": 1077046
+      "versionId": "ntQknrEC",
+      "versionNumber": "26.1.16",
+      "filename": "puzzleslib-v26.1.16-mc26.1.x+neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/QAGBst4M/versions/ntQknrEC/puzzleslib-v26.1.16-mc26.1.x%2Bneoforge.jar",
+      "sha1": "45b246435cdba69afa2312c7fa8c757e212685de",
+      "sha512": "73f88f6a25712a6d11b4f45dded52721a755348bf932525b2a7d3ff84adea4659460f21da88894d69df541a87a079c467d46c6920a6b77016c7b4cc6741755fa",
+      "fileSize": 1077103
     },
     "curseforge": {
       "id": "495476",
       "slug": "puzzles-lib",
-      "versionId": "8878109",
-      "versionNumber": "[NEOFORGE] [26.1.x] v26.1.15",
-      "filename": "PuzzlesLib-v26.1.15-mc26.1.x-NeoForge.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/8878/109/PuzzlesLib-v26.1.15-mc26.1.x-NeoForge.jar",
-      "sha1": "24ebbd91353090e95d31715d855ba38b02f5aeb6",
-      "fileSize": 1077046
+      "versionId": "9129960",
+      "versionNumber": "v26.1.16-mc26.1.x+neoforge",
+      "filename": "puzzleslib-v26.1.16-mc26.1.x+neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9129/960/puzzleslib-v26.1.16-mc26.1.x%2bneoforge.jar",
+      "sha1": "45b246435cdba69afa2312c7fa8c757e212685de",
+      "fileSize": 1077103
     }
   },
   "dependents": [

@@ -8,28 +8,27 @@
     "modrinth": {
       "id": "XaDC71GB",
       "slug": "lithostitched",
-      "versionId": "jsm1eBZo",
-      "versionNumber": "1.8.0-neoforge-26.1",
-      "filename": "lithostitched-1.8.0-neoforge-26.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/XaDC71GB/versions/jsm1eBZo/lithostitched-1.8.0-neoforge-26.1.jar",
-      "sha1": "9300373bdd523ebd9e18320961edb710db8dc465",
-      "sha512": "6a9cbe420832a6aa7ca3d5e28e65a11ee09f12942f48491744599733ceaee1606401dac563f261cb29efd698bdeb84dc97d05bd0a97bafffa0224e562184cbac",
-      "fileSize": 1021057
+      "versionId": "pLlJIqyp",
+      "versionNumber": "1.8.1-neoforge-26.1",
+      "filename": "lithostitched-1.8.1-neoforge-26.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/XaDC71GB/versions/pLlJIqyp/lithostitched-1.8.1-neoforge-26.1.jar",
+      "sha1": "d75234f094b08e0d11a4ac6ade43f01c33a659a9",
+      "sha512": "2d4bec8cda3c9f18f6806bf757c7c9352e86454237b35239d59b11e28a98023a106ea8ecd7137ea46a397f2ff7a5ce1d4e0e532fd53ecda6e6c5e51b0e1c7a61",
+      "fileSize": 1069275
     },
     "curseforge": {
       "id": "936015",
       "slug": "lithostitched",
-      "versionId": "8944658",
-      "versionNumber": "v1.8.0 ~ Neoforge 26.1",
-      "filename": "lithostitched-1.8.0-neoforge-26.1.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/8944/658/lithostitched-1.8.0-neoforge-26.1.jar",
-      "sha1": "9300373bdd523ebd9e18320961edb710db8dc465",
-      "fileSize": 1021057
+      "versionId": "9170254",
+      "versionNumber": "v1.8.1 ~ Neoforge 26.1",
+      "filename": "lithostitched-1.8.1-neoforge-26.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9170/254/lithostitched-1.8.1-neoforge-26.1.jar",
+      "sha1": "d75234f094b08e0d11a4ac6ade43f01c33a659a9",
+      "fileSize": 1069275
     }
   },
   "dependents": [
     "1628024",
-    "LCO8KZvC",
     "btCrWvHr"
   ],
   "clientSide": "unsupported",

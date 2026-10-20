@@ -22,7 +22,7 @@
     },
     {
       "path": "content/mods/better-modlist.json",
-      "sha1": "169af6e296b7ba394d04231c51943b8ed30e0545"
+      "sha1": "ab71646a0661be1cf7024b02dabb8a7abe460d21"
     },
     {
       "path": "content/mods/better-stats.json",
@@ -58,7 +58,7 @@
     },
     {
       "path": "content/mods/clutter-no-more.json",
-      "sha1": "a07e418b88968124b55f490f44a1ef0b04732186"
+      "sha1": "15082458609491ec0a691b06d029a1f918676286"
     },
     {
       "path": "content/mods/connector-extras.json",
@@ -70,7 +70,7 @@
     },
     {
       "path": "content/mods/curios.json",
-      "sha1": "afea0b44af89de37bc72f9cfc5627469b8557449"
+      "sha1": "a4781ae087c0250a5ba4b1ce4f23433568b1999d"
     },
     {
       "path": "content/mods/drops-backport.json",
@@ -166,19 +166,15 @@
     },
     {
       "path": "content/mods/jade.json",
-      "sha1": "a54c37a1b112de149e5b16535ad184ca5e9c26e1"
+      "sha1": "94e9d24163dd4259de561c8304d11f3355cf8a97"
     },
     {
       "path": "content/mods/jei.json",
-      "sha1": "152135af31ebbcaabd880f34f19fe33d6b0f050a"
-    },
-    {
-      "path": "content/mods/jeioptimizer.json",
-      "sha1": "d935bc38f4667daec148ddbdc7651471fd3402e0"
+      "sha1": "82c071a3028ddfc99ff739ab83dd41e6603e7a48"
     },
     {
       "path": "content/mods/just-another-witchery-remake.json",
-      "sha1": "80b5a768d410e69c4e3030025bc073a5f45e5402"
+      "sha1": "27a9dfb36e03d41f73c9c67e2fa4a5d4273ce270"
     },
     {
       "path": "content/mods/keymap-maintained.json",
@@ -194,15 +190,15 @@
     },
     {
       "path": "content/mods/kotlin-for-forge.json",
-      "sha1": "3c7854ff275b391091c2e84c2c61b7d24425ff4e"
+      "sha1": "e1fcdc81b4980ff901e68f3f443e63a140d9703d"
     },
     {
       "path": "content/mods/launchpad.json",
-      "sha1": "73d55c96519b75ddd794a108be9df8afbfe67e9a"
+      "sha1": "2a48ba3993d1ff25b493ce80e0f5c403fe494662"
     },
     {
       "path": "content/mods/lithostitched.json",
-      "sha1": "bc0831b80b8af6f0bbf583c7edec1ead281ef560"
+      "sha1": "e8dbe135eebcd455d8f309aaf1878b19e3c2abbf"
     },
     {
       "path": "content/mods/log-begone.json",
@@ -226,19 +222,19 @@
     },
     {
       "path": "content/mods/modern-portal-gun.json",
-      "sha1": "688d02f839ca909d8b62b711ad08473135296a44"
+      "sha1": "4e19626fbac3f8a14473dc626634ccf6abcdfdc0"
     },
     {
       "path": "content/mods/modernfix.json",
-      "sha1": "4719c4fa92d0c7bdde1c258410ec91bede017931"
+      "sha1": "a6f7c31530c934cf787d4e7f354ba909cf20090e"
     },
     {
       "path": "content/mods/modonomicon.json",
-      "sha1": "36cb4c792f3403bc03e65e2932c1f903c7102c77"
+      "sha1": "d771ef213d4d3f99f52d84c16aa1493b7a53c1fe"
     },
     {
       "path": "content/mods/modulation.json",
-      "sha1": "3f3dc4ceaae37e657731f8daee22b7c7f3989730"
+      "sha1": "08d523d00b4f97734bf139daa26186b2cdd5b320"
     },
     {
       "path": "content/mods/mouse-tweaks.json",
@@ -250,7 +246,7 @@
     },
     {
       "path": "content/mods/mru.json",
-      "sha1": "16136c802986491ac25f778237347cf4441f7135"
+      "sha1": "73fd6fc4c6682b94e75b9408412ddf0a2bd6adeb"
     },
     {
       "path": "content/mods/no-chat-reports.json",
@@ -282,7 +278,7 @@
     },
     {
       "path": "content/mods/puzzles-lib.json",
-      "sha1": "122d9f2e85fbbcad110e0776293bf1b5e8667e39"
+      "sha1": "d8b3b3488b11042e6e447099854294de41f2feba"
     },
     {
       "path": "content/mods/raised.json",
@@ -302,7 +298,7 @@
     },
     {
       "path": "content/mods/reliable-name-tags.json",
-      "sha1": "f593078898a64ad401f7dab693dca6beed10d22a"
+      "sha1": "ec843d2735509e7037c7980541a820ee833ef609"
     },
     {
       "path": "content/mods/reliable-requiem.json",
@@ -398,7 +394,7 @@
     },
     {
       "path": "content/mods/unified-api.json",
-      "sha1": "12bfa9294f673b998e1a7161263c0bd762b54ad7"
+      "sha1": "2cbf876ee8d1fbaa3c04d731dc308e6e1d91660a"
     },
     {
       "path": "content/mods/yacl.json",
@@ -798,7 +794,7 @@
     },
     {
       "path": "overrides/config/iteminteractions-client.toml",
-      "sha1": "73f801394ae0354debb68156907a7c5e8d8491d9"
+      "sha1": "a033db9a6d6f2f03944efa4bc6dfc31515d1202e"
     },
     {
       "path": "overrides/config/iteminteractions-server.toml",
@@ -862,7 +858,7 @@
     },
     {
       "path": "overrides/config/jei/client/jei-client.ini",
-      "sha1": "45578e1109a93606dcfd1926e40030382d3cad88"
+      "sha1": "15962c0815aeb98238405b5a5f695a794ff8f72b"
     },
     {
       "path": "overrides/config/jei/client/jei-colors.ini",
@@ -909,6 +905,10 @@
       "sha1": "c6f10ed5298953183af70f59b8464eacc5d44618"
     },
     {
+      "path": "overrides/config/jei/server/world/default/jei-server.ini",
+      "sha1": "e8b195526ded143c1666adfab8f11f4015c5c911"
+    },
+    {
       "path": "overrides/config/jeioptimizer-client.toml",
       "sha1": "408ccd9e56e86f1774bf35140d3e6931ae0c77ce"
     },
@@ -918,11 +918,11 @@
     },
     {
       "path": "overrides/config/lithostitched.json",
-      "sha1": "25a9fbeb8f4983e718327cb08392e755e2730f95"
+      "sha1": "9ae03c2dafdba47d9518aae1865d20e5abadbe03"
     },
     {
       "path": "overrides/config/logbegone.json",
-      "sha1": "e78ae2bc50dcde9a4690ea603aa57ec171d45fd1"
+      "sha1": "0772b6082ed3edb9118e04eb52e712829d4e55cc"
     },
     {
       "path": "overrides/config/mezz_config/client/default/settings.ini",
@@ -950,7 +950,7 @@
     },
     {
       "path": "overrides/config/modonomicon-client.toml",
-      "sha1": "60cecbd34d361877907ddd35346561f6ab4dc885"
+      "sha1": "452bd596e1c8096321ec03afd642f7a6a79a90ed"
     },
     {
       "path": "overrides/config/modulation.json",
@@ -1102,7 +1102,7 @@
     },
     {
       "path": "overrides/config/thaumaturge/aspect_index.json",
-      "sha1": "25c793b6fd187d6a7a64eb17989ac3ff01fd7b84"
+      "sha1": "647a9ba86dd2e9892961e45aa7e6697d092c41db"
     },
     {
       "path": "overrides/config/trailiertales/mixins.json5",

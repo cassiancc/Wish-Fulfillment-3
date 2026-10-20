@@ -8,23 +8,23 @@
     "modrinth": {
       "id": "vWUn8M9s",
       "slug": "unified-api",
-      "versionId": "dcbFUC4i",
-      "versionNumber": "26.1-r6.5-neoforge",
-      "filename": "unified-api-26.1-r6.5-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/vWUn8M9s/versions/dcbFUC4i/unified-api-26.1-r6.5-neoforge.jar",
-      "sha1": "52125476d1427365d46a2134bbeaadb14205c7ce",
-      "sha512": "64176ad7fece49f1936e712ad3a6d20df3e894a9d70a4695417535a9f1a1aa9c2703cabf963a3836491a07172dddd8315520fe2e12e197ec4c65c16cf71c41b5",
-      "fileSize": 465766
+      "versionId": "YRIkRnwb",
+      "versionNumber": "26.1-1.0-beta-21-neoforge",
+      "filename": "unified-api-26.1-1.0-beta-21+neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/vWUn8M9s/versions/YRIkRnwb/unified-api-26.1-1.0-beta-21%2Bneoforge.jar",
+      "sha1": "a80783ffb711cefbda252075905bc9046d0f00c0",
+      "sha512": "74a17b800396ace09ec2de9e5bd3ccc8ec06b3f34b7e56105e4539e0b1b8927c56bbf95aa9d86c0a6d259f1c8b2a1985e4a0dc91cf3dafb5ea370596b96c8c18",
+      "fileSize": 1035463
     },
     "curseforge": {
       "id": "1464540",
       "slug": "unified-api",
-      "versionId": "8621154",
-      "versionNumber": "unified-api-26.1-r6.5-neoforge.jar",
-      "filename": "unified-api-26.1-r6.5-neoforge.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/8621/154/unified-api-26.1-r6.5-neoforge.jar",
-      "sha1": "52125476d1427365d46a2134bbeaadb14205c7ce",
-      "fileSize": 465766
+      "versionId": "9252814",
+      "versionNumber": "unified-api-26.1-1.0-beta-21+neoforge.jar",
+      "filename": "unified-api-26.1-1.0-beta-21+neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9252/814/unified-api-26.1-1.0-beta-21%2bneoforge.jar",
+      "sha1": "a80783ffb711cefbda252075905bc9046d0f00c0",
+      "fileSize": 1035463
     }
   },
   "dependents": [

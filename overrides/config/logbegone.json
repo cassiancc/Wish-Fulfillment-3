@@ -1,6 +1,7 @@
 {
   "logbegone": {
     "phrases": [
+      ".DS_Store",
       "Global NeoForge version check system disabled",
       " Pack key supported_formats is deprecated starting from pack format 65. ",
       "Initializing 'betterstats' ",

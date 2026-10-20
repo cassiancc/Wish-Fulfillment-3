@@ -8,23 +8,23 @@
     "modrinth": {
       "id": "voWgQoWV",
       "slug": "launchpad",
-      "versionId": "SmoKhFsl",
-      "versionNumber": "1.10.1+26.1.2",
-      "filename": "launchpad-1.10.1+26.1.2-full.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/voWgQoWV/versions/SmoKhFsl/launchpad-1.10.1%2B26.1.2-full.jar",
-      "sha1": "42358983b8c58fa6d4eb2b43a7c9a95edf735a67",
-      "sha512": "ba970cd48a77ed9925185a309d065d6fa05c28759dfe669352326ca6a18da7e382f75ccab8453af8e2ca51ed115f808fa91a2d80bb0212e672439acf493464b5",
-      "fileSize": 464488
+      "versionId": "isqNNLhL",
+      "versionNumber": "1.10.2+26.1.2",
+      "filename": "launchpad-1.10.2+26.1.2-full.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/voWgQoWV/versions/isqNNLhL/launchpad-1.10.2%2B26.1.2-full.jar",
+      "sha1": "c3c0301fe8b03386b2e28f72d716816fc134edf4",
+      "sha512": "ea2d022d7371d36584cef9d2318383f8107d5477b5a376fc6561aee6af3f002feb3e46056accee079f1d40511adbe80fed3cf558ba1ae76ea5870416558e787f",
+      "fileSize": 464898
     },
     "curseforge": {
       "id": "1584761",
       "slug": "launchpad",
-      "versionId": "9118659",
-      "versionNumber": "[26.1.2] Launchpad 1.10.1+26.1.2",
-      "filename": "launchpad-1.10.1+26.1.2-full.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9118/659/launchpad-1.10.1%2b26.1.2-full.jar",
-      "sha1": "42358983b8c58fa6d4eb2b43a7c9a95edf735a67",
-      "fileSize": 464488
+      "versionId": "9213130",
+      "versionNumber": "[26.1.2] Launchpad 1.10.2+26.1.2",
+      "filename": "launchpad-1.10.2+26.1.2-full.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9213/130/launchpad-1.10.2%2b26.1.2-full.jar",
+      "sha1": "c3c0301fe8b03386b2e28f72d716816fc134edf4",
+      "fileSize": 464898
     }
   },
   "dependents": [
