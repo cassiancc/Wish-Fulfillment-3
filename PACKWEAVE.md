@@ -37,7 +37,7 @@
 - [Horseman](https://modrinth.com/project/horseman) `1.7.4`
 - [Icebreak](https://modrinth.com/project/icebreak) `1.0.1+26.1.2`
 - [Immersive Minimaps](https://modrinth.com/project/immersive-minimaps) `1.2.4+26.1.2-neoforge`
-- [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.5+26.1.2-neoforge`
+- [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.6+26.1.2-neoforge`
 - [Inline Tooltips](https://modrinth.com/project/inline-tooltips) `1.7.3+26.1.2-neoforge`
 - [Iris Shaders](https://modrinth.com/project/iris) `1.11.4+26.1-neoforge`
 - [Item Collectors](https://modrinth.com/project/item-collectors) `1.1.12a-neoforge-mc26.1`

@@ -8,23 +8,23 @@
     "modrinth": {
       "id": "PKoLkD98",
       "slug": "immersive-overlays",
-      "versionId": "GrLu2OGX",
-      "versionNumber": "1.8.5+26.1.2-neoforge",
-      "filename": "immersiveoverlays-1.8.5+26.1.2-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/PKoLkD98/versions/GrLu2OGX/immersiveoverlays-1.8.5%2B26.1.2-neoforge.jar",
-      "sha1": "8ac990f2b50fe142e3100c3b9eaba87052fc80ac",
-      "sha512": "f391139f57da81e853630052c433c62926a90dc3eadfdd405da22794d72082a770d907f7a2f28d159fe93f9ac47c177a899f61c00ac292e3cd30031037aef41b",
-      "fileSize": 470366
+      "versionId": "XYd28Q7H",
+      "versionNumber": "1.8.6+26.1.2-neoforge",
+      "filename": "immersiveoverlays-1.8.6+26.1.2-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/PKoLkD98/versions/XYd28Q7H/immersiveoverlays-1.8.6%2B26.1.2-neoforge.jar",
+      "sha1": "330dd8277b4a8a3bcdd8dd94333e3975b5e010a5",
+      "sha512": "c2551d40d9f39db262a2c3923271ec1bcaa5ec08173bdf4dc8f6fb7ee37eb801ca4c0aefb7cb6b0d0df8f2accce708a68a11d174824040da56f71b230adf9aa3",
+      "fileSize": 744227
     },
     "curseforge": {
       "id": "1245453",
       "slug": "immersive-overlays",
-      "versionId": "8949580",
-      "versionNumber": "Immersive Overlays 1.8.5 for 26.1 NeoForge",
-      "filename": "immersiveoverlays-1.8.5+26.1.2-neoforge.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/8949/580/immersiveoverlays-1.8.5%2b26.1.2-neoforge.jar",
-      "sha1": "8ac990f2b50fe142e3100c3b9eaba87052fc80ac",
-      "fileSize": 470366
+      "versionId": "9269141",
+      "versionNumber": "Immersive Overlays 1.8.6 for 26.1 NeoForge",
+      "filename": "immersiveoverlays-1.8.6+26.1.2-neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9269/141/immersiveoverlays-1.8.6%2b26.1.2-neoforge.jar",
+      "sha1": "330dd8277b4a8a3bcdd8dd94333e3975b5e010a5",
+      "fileSize": 744227
     }
   },
   "dependents": [],
