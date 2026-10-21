@@ -1,6 +1,6 @@
 # Wish Fulfillment 3
 
-**Minecraft 26.1.2 · neoforge 26.1.2.114**, 95 mods (5 dependencies), 5 resource packs
+**Minecraft 26.1.2 · neoforge 26.1.2.114**, 96 mods (5 dependencies), 5 resource packs
 
 ## Contents
 
@@ -44,7 +44,7 @@
 - [Item Descriptions](https://modrinth.com/project/item-descriptions) `2.8.5+26.1.2-neoforge`
 - [Jade 🔍](https://modrinth.com/project/jade) `26.1.12+neoforge`
 - [JavaUI](https://modrinth.com/project/javaui) `1.0`
-- [Just Another Witchery Remake](https://modrinth.com/project/just-another-witchery-remake) `0.5.25`
+- [Just Another Witchery Remake](https://modrinth.com/project/just-another-witchery-remake) `0.5.26`
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `29.47.0.110`
 - [Keymap [Maintained]](https://modrinth.com/project/keymap-maintained) `0.11.3`
 - [Kitchen Projectiles](https://modrinth.com/project/kitchen-projectiles) `1.0.13+mc26.1.2`
@@ -97,6 +97,7 @@
 - Thaumaturge `thaumaturge-26.1.2-NeoForge-1.0.2.jar` (curseforge)
 - [The Aether II](https://modrinth.com/project/aether-ii) `26.1.2-alpha.4.1-neoforge`
 - [The Block Box](https://modrinth.com/project/the-block-box) `0.1.3`
+- The Twilight Forest `Twilight Forest - MC 26.1.2 - 4.9.3817` (curseforge)
 - [There's Always a Bigger Fish](https://modrinth.com/project/always-a-bigger-fish) `1.2.4+26.1.2-neoforge`
 - [Trim Patcher](https://modrinth.com/project/trim-patcher) `2.1-mc26.1-neoforge`
 - [Tropicraft](https://modrinth.com/project/tropicraft) `9.10.1+26.1`

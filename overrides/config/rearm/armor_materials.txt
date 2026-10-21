@@ -22,6 +22,15 @@ aether_ii:arkenium
 aether_ii:gravitite
 aether_ii:sentry
 aether_ii:neptune
+twilightforest:naga_scale
+twilightforest:ironwood
+twilightforest:fiery
+twilightforest:steeleaf
+twilightforest:knightmetal
+twilightforest:phantom
+twilightforest:yeti
+twilightforest:arctic
+twilightforest:travellers_gear
 thaumaturge:thaumium
 thaumaturge:robes
 thaumaturge:traveller

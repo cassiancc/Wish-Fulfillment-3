@@ -15,16 +15,6 @@
       "sha1": "a80783ffb711cefbda252075905bc9046d0f00c0",
       "sha512": "74a17b800396ace09ec2de9e5bd3ccc8ec06b3f34b7e56105e4539e0b1b8927c56bbf95aa9d86c0a6d259f1c8b2a1985e4a0dc91cf3dafb5ea370596b96c8c18",
       "fileSize": 1035463
-    },
-    "curseforge": {
-      "id": "1464540",
-      "slug": "unified-api",
-      "versionId": "9252814",
-      "versionNumber": "unified-api-26.1-1.0-beta-21+neoforge.jar",
-      "filename": "unified-api-26.1-1.0-beta-21+neoforge.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9252/814/unified-api-26.1-1.0-beta-21%2bneoforge.jar",
-      "sha1": "a80783ffb711cefbda252075905bc9046d0f00c0",
-      "fileSize": 1035463
     }
   },
   "dependents": [

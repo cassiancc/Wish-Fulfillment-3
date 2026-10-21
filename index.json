@@ -174,7 +174,7 @@
     },
     {
       "path": "content/mods/just-another-witchery-remake.json",
-      "sha1": "27a9dfb36e03d41f73c9c67e2fa4a5d4273ce270"
+      "sha1": "93ee939e4c8c900763d26f4a74649b950a55cf28"
     },
     {
       "path": "content/mods/keymap-maintained.json",
@@ -385,6 +385,10 @@
       "sha1": "dcca7c684f5ce700018618a4a9ef814b9cf094ea"
     },
     {
+      "path": "content/mods/the-twilight-forest.json",
+      "sha1": "4fdd405b4ed36b9488db74502409e581da86c1d6"
+    },
+    {
       "path": "content/mods/trim-patcher.json",
       "sha1": "ef4be5054e7a85333e8c8b8a9542dc1690b1a6b1"
     },
@@ -394,7 +398,7 @@
     },
     {
       "path": "content/mods/unified-api.json",
-      "sha1": "2cbf876ee8d1fbaa3c04d731dc308e6e1d91660a"
+      "sha1": "dc2e3c02c347e4eefde34b80562ef8385d658b92"
     },
     {
       "path": "content/mods/yacl.json",
@@ -814,7 +818,7 @@
     },
     {
       "path": "overrides/config/jade/jade.json",
-      "sha1": "e2ef948a67f394c4571418b74ad158793f31b093"
+      "sha1": "53ffe70ba63f6dcca724a011cd679d9d4134687c"
     },
     {
       "path": "overrides/config/jade/server-plugin-overrides.json",
@@ -822,7 +826,7 @@
     },
     {
       "path": "overrides/config/jade/sort-order.json",
-      "sha1": "0678d60da6e5f1c1f8a304a458565114252b9261"
+      "sha1": "c95495805e239e5fe6ca879a4f1b0322a7350526"
     },
     {
       "path": "overrides/config/jei-server.toml",
@@ -850,11 +854,11 @@
     },
     {
       "path": "overrides/config/jei/client/ingredient-list-mod-sort-order.ini",
-      "sha1": "e76fcf5db54f86371b889d1ac264c7fce628dfca"
+      "sha1": "209744b4f5c06377d8f58124a711fcde7efd5d95"
     },
     {
       "path": "overrides/config/jei/client/ingredient-list-type-sort-order.ini",
-      "sha1": "3dff0b006d44c0e0d1b01459d4fa63b0d0618726"
+      "sha1": "ccb5a907561dd5beb716f7b776d1fe299e11d6a1"
     },
     {
       "path": "overrides/config/jei/client/jei-client.ini",
@@ -874,7 +878,7 @@
     },
     {
       "path": "overrides/config/jei/client/recipe-category-sort-order.ini",
-      "sha1": "75a374bab93e1afc6432f8d8951b363b1bd008ff"
+      "sha1": "12786b37e6d2cf0d01da8f8ef6451e23e19372bb"
     },
     {
       "path": "overrides/config/jei/ingredient-list-mod-sort-order.ini",
@@ -1002,7 +1006,7 @@
     },
     {
       "path": "overrides/config/rearm/armor_materials.txt",
-      "sha1": "497379d14ed889b5edb729a0822cd891cea3f210"
+      "sha1": "f40365ea0f394bc2fa0eb06835d7e0a0adaaed2e"
     },
     {
       "path": "overrides/config/rearm/config.toml",
@@ -1102,7 +1106,7 @@
     },
     {
       "path": "overrides/config/thaumaturge/aspect_index.json",
-      "sha1": "647a9ba86dd2e9892961e45aa7e6697d092c41db"
+      "sha1": "03375b603ce715fdc98a7265e5935786501a6eb4"
     },
     {
       "path": "overrides/config/trailiertales/mixins.json5",
@@ -1111,6 +1115,14 @@
     {
       "path": "overrides/config/tropicraft-common.toml",
       "sha1": "8c1d076d672aae799ed25d60c44e03f58e5cdba0"
+    },
+    {
+      "path": "overrides/config/twilightforest-client.toml",
+      "sha1": "bde7fcb6f979ced724b345abf9e49b1b9c5263d2"
+    },
+    {
+      "path": "overrides/config/twilightforest-common.toml",
+      "sha1": "5e67ac8e0186f15fb33d15f105340f01e54c845e"
     },
     {
       "path": "overrides/config/witchery-common.toml",
@@ -1122,7 +1134,7 @@
     },
     {
       "path": "overrides/mods/embers_and_icicles-1.0.2+26.1.2-neoforge.jar",
-      "sha1": "fb3c4f52fdb46f2260fcb6e8530e766b657012b2"
+      "sha1": "eb888c914db55c89ef4b83004d75555e946e3c22"
     },
     {
       "path": "overrides/mods/wish-fulfillment-1.0.0.jar",

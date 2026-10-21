@@ -139,6 +139,11 @@
       "display.golems": "GOGGLES",
       "display.deconstruction_tables": "GOGGLES"
     },
+    "twilightforest": {
+      "drying_rack": true,
+      "chiseled_bookshelf_spawner": true,
+      "quest_ram_wool": true
+    },
     "jade": {
       "coordinates.rel": false,
       "mod_name.translated": true,
